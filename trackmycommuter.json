@@ -4,5 +4,6 @@
 	"whitelist_area_code": [
 		0,
 		6
-	]
+	],
+	"always_show_weekday_train": false
 }
