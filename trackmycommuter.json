@@ -1,7 +1,7 @@
 {
 	"backup_id": "ebfb1bc49485fe5f0c8b70a25ad883b9",
 	"gist_valid_interval": 600,
-	"show_train_position": false,
+	"show_train_position": true,
 	"whitelist_area_code": [
 		0,
 		6
