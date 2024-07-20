@@ -1,0 +1,1 @@
+{"data":[[{"is_transit":false,"station_id":"TEB","station_name":"Tebet","i_lat":-6.226659,"line":2,"transit":false,"time":0,"i_long":106.857948,"distance":0},{"is_transit":true,"transit":false,"station_id":"MRI","time":4,"distance":2610,"i_lat":-6.209883,"i_long":106.84912,"line":0,"station_name":"Manggarai"}]]}

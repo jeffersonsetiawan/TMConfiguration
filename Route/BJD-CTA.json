@@ -1,0 +1,1 @@
+{"data":[[{"time":0,"station_id":"BJD","is_transit":false,"transit":false,"station_name":"Bojonggede","line":0,"i_lat":-6.493243,"i_long":106.792719,"distance":0},{"time":5,"transit":false,"line":1,"station_name":"Citayam","i_lat":-6.448811,"station_id":"CTA","is_transit":true,"distance":5197,"i_long":106.800298}]]}
