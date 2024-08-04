@@ -1,0 +1,1 @@
+{"data":[{"stationId":"TPK","stationName":"TANJUNGPRIUK","transitStation":false,"timeEst":743146800},{"timeEst":743147280,"transitStation":false,"stationId":"AC","stationName":"ANCOL"},{"transitStation":true,"timeEst":743147520,"stationName":"KAMPUNGBANDAN","stationId":"KPB"},{"stationName":"JAKARTAKOTA","stationId":"JAKK","transitStation":true,"timeEst":743147760}]}
