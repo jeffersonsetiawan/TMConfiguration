@@ -1,1 +1,1 @@
-{"data":[[{"station_id":"JN","is_transit":false,"i_long":110.000548,"i_lat":-7.801845,"time":0,"distance":0,"station_name":"Jenar","transit":false,"line":0},{"i_lat":-7.861626,"station_name":"Wojo","transit":false,"time":10,"is_transit":false,"distance":8393,"line":7,"station_id":"WJ","i_long":110.040449}]]}
+{"data":[[{"i_long":110.000548,"distance":0,"transit":false,"time":0,"line":0,"station_id":"JN","i_lat":-7.801845,"station_name":"Jenar"},{"i_long":110.040449,"distance":8393,"transit":false,"time":10,"line":7,"station_id":"WJ","i_lat":-7.861626,"station_name":"Wojo"}]]}
