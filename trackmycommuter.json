@@ -10,5 +10,7 @@
     "map_urls": {
         "0": "https://raw.githubusercontent.com/jeffersonsetiawan/TMConfiguration/main/Map/map-jabodetabek.jpg",
         "6": "https://raw.githubusercontent.com/jeffersonsetiawan/TMConfiguration/main/Map/map-yogyakarta.png"
-    }
+    },
+    "whats_new": [],
+    "whats_new_display_interval_days": 7
 }
