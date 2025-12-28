@@ -12,5 +12,7 @@
         "6": "https://raw.githubusercontent.com/jeffersonsetiawan/TMConfiguration/main/Map/map-yogyakarta.png"
     },
     "whats_new": [],
-    "whats_new_display_interval_days": 7
+    "whats_new_display_interval_days": 7,
+    "use_fix_loop_line": false,
+    "station_id_compatibility": true
 }
