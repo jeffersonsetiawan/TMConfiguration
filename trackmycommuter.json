@@ -14,5 +14,6 @@
     "whats_new": [],
     "whats_new_display_interval_days": 7,
     "use_fix_loop_line": false,
-    "station_id_compatibility": true
+    "station_id_compatibility": true,
+    "open_access": false
 }
