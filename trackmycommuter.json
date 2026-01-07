@@ -1,7 +1,7 @@
 {
     "backup_id": "ebfb1bc49485fe5f0c8b70a25ad883b9",
     "gist_valid_interval": 600,
-    "show_train_position": false,
+    "show_train_position": true,
     "whitelist_area_code": [
         0,
         6
@@ -13,7 +13,7 @@
     },
     "whats_new": [],
     "whats_new_display_interval_days": 7,
-    "use_fix_loop_line": false,
+    "use_fix_loop_line": true,
     "station_id_compatibility": true,
     "open_access": false
 }
