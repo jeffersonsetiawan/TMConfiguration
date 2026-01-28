@@ -665,7 +665,7 @@
     [
         "DU"
     ],
-    "BOI-GGL":
+    "BOI-GRG":
     [
         "DU"
     ],
@@ -693,7 +693,7 @@
     [
         "TNG"
     ],
-    "BOI-TTI":
+    "BOI-THI":
     [
         "TNG"
     ],
@@ -822,7 +822,7 @@
         "DU",
         "MRI"
     ],
-    "BPR-GGL":
+    "BPR-GRG":
     [
         "DU"
     ],
@@ -858,7 +858,7 @@
     [
         "TNG"
     ],
-    "BPR-TTI":
+    "BPR-THI":
     [
         "TNG"
     ],
@@ -3136,7 +3136,7 @@
         "TB-MRI",
         "TB"
     ],
-    "DU-GGL":
+    "DU-GRG":
     [
         "TNG"
     ],
@@ -3277,7 +3277,7 @@
     [
         "TNG"
     ],
-    "DU-TTI":
+    "DU-THI":
     [
         "TNG"
     ],
@@ -3416,43 +3416,43 @@
         "NMO",
         "DP"
     ],
-    "GGL-BOI":
+    "GRG-BOI":
     [
         "TNG"
     ],
-    "GGL-BPR":
+    "GRG-BPR":
     [
         "TNG"
     ],
-    "GGL-DU":
+    "GRG-DU":
     [
         "DU"
     ],
-    "GGL-KDS":
+    "GRG-KDS":
     [
         "TNG"
     ],
-    "GGL-PI":
+    "GRG-PI":
     [
         "TNG"
     ],
-    "GGL-PSG":
+    "GRG-PSG":
     [
         "TNG"
     ],
-    "GGL-RW":
+    "GRG-RW":
     [
         "TNG"
     ],
-    "GGL-TKO":
+    "GRG-TKO":
     [
         "TNG"
     ],
-    "GGL-TNG":
+    "GRG-TNG":
     [
         "TNG"
     ],
-    "GGL-TTI":
+    "GRG-THI":
     [
         "TNG"
     ],
@@ -4672,7 +4672,7 @@
     [
         "DU"
     ],
-    "KDS-GGL":
+    "KDS-GRG":
     [
         "DU"
     ],
@@ -4696,7 +4696,7 @@
     [
         "TNG"
     ],
-    "KDS-TTI":
+    "KDS-THI":
     [
         "TNG"
     ],
@@ -6792,7 +6792,7 @@
     [
         "DU"
     ],
-    "PI-GGL":
+    "PI-GRG":
     [
         "DU"
     ],
@@ -6816,7 +6816,7 @@
     [
         "TNG"
     ],
-    "PI-TTI":
+    "PI-THI":
     [
         "TNG"
     ],
@@ -7286,7 +7286,7 @@
     [
         "DU"
     ],
-    "PSG-GGL":
+    "PSG-GRG":
     [
         "DU"
     ],
@@ -7310,7 +7310,7 @@
     [
         "TNG"
     ],
-    "PSG-TTI":
+    "PSG-THI":
     [
         "TNG"
     ],
@@ -7923,7 +7923,7 @@
     [
         "DU"
     ],
-    "RW-GGL":
+    "RW-GRG":
     [
         "DU"
     ],
@@ -7947,7 +7947,7 @@
     [
         "TNG"
     ],
-    "RW-TTI":
+    "RW-THI":
     [
         "TNG"
     ],
@@ -9455,7 +9455,7 @@
     [
         "DU"
     ],
-    "TKO-GGL":
+    "TKO-GRG":
     [
         "DU"
     ],
@@ -9479,7 +9479,7 @@
     [
         "TNG"
     ],
-    "TKO-TTI":
+    "TKO-THI":
     [
         "TNG"
     ],
@@ -9662,7 +9662,7 @@
     [
         "DU"
     ],
-    "TNG-GGL":
+    "TNG-GRG":
     [
         "DU"
     ],
@@ -9686,7 +9686,7 @@
     [
         "DU"
     ],
-    "TNG-TTI":
+    "TNG-THI":
     [
         "DU"
     ],
@@ -9825,43 +9825,43 @@
     [
         "JAKK"
     ],
-    "TTI-BOI":
+    "THI-BOI":
     [
         "DU"
     ],
-    "TTI-BPR":
+    "THI-BPR":
     [
         "DU"
     ],
-    "TTI-DU":
+    "THI-DU":
     [
         "DU"
     ],
-    "TTI-GGL":
+    "THI-GRG":
     [
         "DU"
     ],
-    "TTI-KDS":
+    "THI-KDS":
     [
         "DU"
     ],
-    "TTI-PI":
+    "THI-PI":
     [
         "DU"
     ],
-    "TTI-PSG":
+    "THI-PSG":
     [
         "DU"
     ],
-    "TTI-RW":
+    "THI-RW":
     [
         "DU"
     ],
-    "TTI-TKO":
+    "THI-TKO":
     [
         "DU"
     ],
-    "TTI-TNG":
+    "THI-TNG":
     [
         "TNG"
     ],
