@@ -266,14 +266,25 @@
         "transit": false
       },
       {
-        "distance": 5968,
+        "distance": 1598,
+        "i_lat": -6.3348327,
+        "i_long": 106.6040965,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "JTK",
+        "station_name": "Jatake",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4370,
         "i_lat": -6.3441410000000005,
         "i_long": 106.568863,
         "is_transit": false,
         "line": 6,
         "station_id": "PRP",
         "station_name": "Parung Panjang",
-        "time": 8,
+        "time": 5,
         "transit": false
       },
       {
@@ -664,14 +675,25 @@
         "transit": false
       },
       {
-        "distance": 5968,
+        "distance": 1598,
+        "i_lat": -6.3348327,
+        "i_long": 106.6040965,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "JTK",
+        "station_name": "Jatake",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4370,
         "i_lat": -6.3441410000000005,
         "i_long": 106.568863,
         "is_transit": false,
         "line": 6,
         "station_id": "PRP",
         "station_name": "Parung Panjang",
-        "time": 8,
+        "time": 5,
         "transit": false
       },
       {
@@ -1073,14 +1095,25 @@
         "transit": false
       },
       {
-        "distance": 5968,
+        "distance": 1598,
+        "i_lat": -6.3348327,
+        "i_long": 106.6040965,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "JTK",
+        "station_name": "Jatake",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4370,
         "i_lat": -6.3441410000000005,
         "i_long": 106.568863,
         "is_transit": false,
         "line": 6,
         "station_id": "PRP",
         "station_name": "Parung Panjang",
-        "time": 8,
+        "time": 5,
         "transit": false
       },
       {
