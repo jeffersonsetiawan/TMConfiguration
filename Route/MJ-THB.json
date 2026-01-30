@@ -79,14 +79,25 @@
         "transit": false
       },
       {
-        "distance": 5968,
+        "distance": 4370,
+        "i_lat": -6.3348327,
+        "i_long": 106.6040965,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "JTK",
+        "station_name": "Jatake",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 1598,
         "i_lat": -6.329547,
         "i_long": 106.617853,
         "is_transit": false,
         "line": 3,
         "station_id": "CC",
         "station_name": "Cicayur",
-        "time": 8,
+        "time": 2,
         "transit": false
       },
       {
