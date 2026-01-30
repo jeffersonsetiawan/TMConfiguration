@@ -1,1 +1,28 @@
-{"data":[[{"i_lat":-6.261877,"transit":false,"distance":0,"station_name":"Cibitung","is_transit":false,"i_long":107.083084,"time":0,"line":1,"station_id":"CIT"},{"distance":3420,"station_id":"TB","is_transit":false,"line":1,"station_name":"Tambun","transit":false,"i_long":107.055722,"time":3,"i_lat":-6.258864}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3420,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

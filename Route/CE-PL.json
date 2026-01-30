@@ -1,1 +1,83 @@
-{"data":[[{"station_id":"CE","distance":0,"is_transit":false,"i_long":110.674861,"station_name":"Ceper","transit":false,"line":7,"time":0,"i_lat":-7.668597},{"transit":false,"i_lat":-7.62181,"line":7,"distance":6271,"is_transit":false,"time":7,"station_id":"DL","station_name":"Delanggu","i_long":110.706679},{"is_transit":false,"line":7,"transit":false,"station_id":"GW","time":6,"station_name":"Gawok","distance":5543,"i_lat":-7.589036,"i_long":110.744432},{"is_transit":false,"transit":false,"station_id":"PWS","i_lat":-7.561362,"i_long":110.796655,"line":7,"distance":6639,"time":7,"station_name":"Purwosari"},{"is_transit":false,"time":6,"station_name":"Solo Balapan","distance":2936,"i_lat":-7.556783,"transit":false,"line":7,"i_long":110.821471,"station_id":"SLO"},{"transit":false,"station_name":"Solo Jebres","is_transit":false,"i_long":110.839459,"station_id":"SK","i_lat":-7.56197,"time":10,"line":7,"distance":2141},{"distance":415,"station_name":"Palur","transit":false,"station_id":"PL","time":6,"i_lat":-7.567939,"i_long":110.875516,"line":0,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6639,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 2936,
+        "i_lat": -7.556783,
+        "i_long": 110.821471,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SLO",
+        "station_name": "Solo Balapan",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 2141,
+        "i_lat": -7.56197,
+        "i_long": 110.839459,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SK",
+        "station_name": "Solo Jebres",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 415,
+        "i_lat": -7.567939,
+        "i_long": 110.875516,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "PL",
+        "station_name": "Palur",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

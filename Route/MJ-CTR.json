@@ -1,1 +1,28 @@
-{"data":[[{"station_id":"MJ","distance":0,"station_name":"Maja","time":0,"transit":false,"i_long":106.394373,"line":6,"is_transit":false,"i_lat":-6.332307},{"station_name":"Citeras","distance":7293,"station_id":"CTR","is_transit":false,"i_lat":-6.334892,"i_long":106.332092,"time":10,"line":3,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7293,
+        "i_lat": -6.334892,
+        "i_long": 106.332092,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CTR",
+        "station_name": "Citeras",
+        "time": 10,
+        "transit": false
+      }
+    ]
+  ]
+}

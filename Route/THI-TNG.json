@@ -1,1 +1,28 @@
-{"data":[[{"line":5,"station_id":"THI","i_lat":-6.17331,"i_long":106.64657,"time":0,"distance":0,"station_name":"Tanah Tinggi","transit":false,"is_transit":false},{"station_id":"TNG","is_transit":false,"time":3,"i_lat":-6.176583,"line":5,"transit":false,"distance":1547,"station_name":"Tangerang","i_long":106.632761}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.17331,
+        "i_long": 106.64657,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "THI",
+        "station_name": "Tanah Tinggi",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1547,
+        "i_lat": -6.176583,
+        "i_long": 106.632761,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TNG",
+        "station_name": "Tangerang",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

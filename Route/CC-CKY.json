@@ -1,1 +1,83 @@
-{"data":[[{"is_transit":false,"i_lat":-6.329547,"station_name":"Cicayur","distance":0,"time":0,"station_id":"CC","line":3,"i_long":106.617853,"transit":false},{"transit":false,"line":6,"station_id":"PRP","distance":5968,"i_lat":-6.3441410000000005,"time":8,"station_name":"Parung Panjang","i_long":106.568863,"is_transit":false},{"i_long":106.508482,"line":3,"i_lat":-6.354349,"transit":false,"station_name":"Cilejit","distance":7025,"is_transit":false,"time":9,"station_id":"CJT"},{"station_name":"Daru","i_long":106.491338,"line":0,"station_id":"DAR","i_lat":-6.338021,"time":6,"distance":2675,"is_transit":false,"transit":false},{"i_long":106.460812,"distance":3902,"i_lat":-6.327251,"time":5,"station_name":"Tenjo","station_id":"TEJ","is_transit":false,"transit":false,"line":6},{"i_lat":-6.328533,"distance":2974,"time":5,"station_id":"TGS","line":6,"transit":false,"station_name":"Tigaraksa","is_transit":false,"i_long":106.425991},{"transit":false,"time":3,"line":3,"station_id":"CKY","distance":2651,"i_lat":-6.33561,"i_long":106.411216,"station_name":"Cikoya","is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.329547,
+        "i_long": 106.617853,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CC",
+        "station_name": "Cicayur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 5968,
+        "i_lat": -6.3441410000000005,
+        "i_long": 106.568863,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PRP",
+        "station_name": "Parung Panjang",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 7025,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

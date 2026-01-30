@@ -1,1 +1,72 @@
-{"data":[[{"transit":false,"station_id":"CC","i_lat":-6.329547,"time":0,"is_transit":false,"distance":0,"i_long":106.617853,"station_name":"Cicayur","line":3},{"i_lat":-6.3441410000000005,"station_name":"Parung Panjang","transit":false,"time":8,"is_transit":false,"distance":5968,"i_long":106.568863,"line":6,"station_id":"PRP"},{"i_lat":-6.354349,"distance":7025,"time":9,"station_name":"Cilejit","is_transit":false,"transit":false,"line":3,"i_long":106.508482,"station_id":"CJT"},{"transit":false,"is_transit":false,"line":0,"i_long":106.491338,"time":6,"i_lat":-6.338021,"distance":2675,"station_id":"DAR","station_name":"Daru"},{"line":6,"i_lat":-6.327251,"distance":3902,"station_name":"Tenjo","transit":false,"i_long":106.460812,"time":5,"station_id":"TEJ","is_transit":false},{"distance":2974,"i_long":106.425991,"station_id":"TGS","station_name":"Tigaraksa","transit":false,"time":5,"is_transit":false,"i_lat":-6.328533,"line":6}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.329547,
+        "i_long": 106.617853,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CC",
+        "station_name": "Cicayur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 5968,
+        "i_lat": -6.3441410000000005,
+        "i_long": 106.568863,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PRP",
+        "station_name": "Parung Panjang",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 7025,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

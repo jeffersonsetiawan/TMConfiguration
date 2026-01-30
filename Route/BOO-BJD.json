@@ -1,1 +1,39 @@
-{"data":[[{"line":2,"i_long":106.790574,"station_name":"Bogor","transit":false,"i_lat":-6.594596,"distance":0,"time":0,"is_transit":false,"station_id":"BOO"},{"is_transit":false,"line":2,"i_lat":-6.530544,"i_long":106.800016,"time":9,"station_id":"CLT","station_name":"Cilebut","transit":false,"distance":7514},{"i_lat":-6.493243,"station_id":"BJD","transit":false,"i_long":106.792719,"line":2,"time":5,"station_name":"Bojonggede","is_transit":false,"distance":4331}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.594596,
+        "i_long": 106.790574,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BOO",
+        "station_name": "Bogor",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7514,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

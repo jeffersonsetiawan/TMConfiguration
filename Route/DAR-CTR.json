@@ -1,1 +1,72 @@
-{"data":[[{"station_name":"Daru","line":0,"transit":false,"time":0,"is_transit":false,"station_id":"DAR","i_lat":-6.338021,"i_long":106.491338,"distance":0},{"i_long":106.460812,"station_id":"TEJ","time":5,"i_lat":-6.327251,"is_transit":false,"line":6,"distance":3902,"station_name":"Tenjo","transit":false},{"line":6,"i_lat":-6.328533,"station_id":"TGS","time":5,"station_name":"Tigaraksa","distance":2974,"is_transit":false,"i_long":106.425991,"transit":false},{"transit":false,"i_long":106.411216,"distance":2651,"is_transit":false,"i_lat":-6.33561,"station_name":"Cikoya","line":3,"station_id":"CKY","time":3},{"distance":1853,"i_lat":-6.332307,"transit":false,"station_id":"MJ","station_name":"Maja","time":4,"is_transit":false,"line":6,"i_long":106.394373},{"line":3,"station_name":"Citeras","is_transit":false,"i_lat":-6.334892,"distance":7293,"time":10,"station_id":"CTR","transit":false,"i_long":106.332092}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1853,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 7293,
+        "i_lat": -6.334892,
+        "i_long": 106.332092,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CTR",
+        "station_name": "Citeras",
+        "time": 10,
+        "transit": false
+      }
+    ]
+  ]
+}

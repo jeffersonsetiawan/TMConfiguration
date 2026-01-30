@@ -1,1 +1,72 @@
-{"data":[[{"i_long":106.905196,"station_name":"Nambo","is_transit":false,"distance":0,"line":21,"time":0,"transit":false,"station_id":"NMO","i_lat":-6.466285},{"transit":false,"distance":6527,"line":21,"is_transit":false,"station_id":"CBN","i_long":106.851978,"time":10,"station_name":"Cibinong","i_lat":-6.46424},{"distance":0,"i_lat":-6.460735,"time":0,"station_name":"Pondok Rajeg","transit":false,"station_id":"PDRG","is_transit":false,"i_long":106.824374,"line":21},{"time":0,"transit":true,"station_id":"CTA","i_lat":-6.448811,"distance":0,"line":2,"is_transit":true,"i_long":106.800298,"station_name":"Citayam"},{"transit":false,"station_name":"Depok","distance":5084,"i_long":106.816926,"time":6,"line":2,"station_id":"DP","is_transit":false,"i_lat":-6.405256},{"time":3,"transit":false,"distance":1584,"i_lat":-6.391065,"station_name":"Depokbaru","line":2,"station_id":"DPB","is_transit":false,"i_long":106.819451}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.466285,
+        "i_long": 106.905196,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "NMO",
+        "station_name": "Nambo",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6527,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

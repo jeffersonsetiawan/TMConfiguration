@@ -1,1 +1,50 @@
-{"data":[[{"distance":0,"time":0,"i_long":106.824374,"line":21,"station_name":"Pondok Rajeg","transit":false,"station_id":"PDRG","is_transit":false,"i_lat":-6.460735},{"station_id":"CTA","is_transit":true,"time":0,"line":2,"transit":true,"i_lat":-6.448811,"station_name":"Citayam","distance":0,"i_long":106.800298},{"transit":false,"line":2,"station_id":"BJD","i_lat":-6.493243,"i_long":106.792719,"station_name":"Bojonggede","time":5,"distance":5197,"is_transit":false},{"distance":4331,"line":2,"station_name":"Cilebut","time":5,"transit":false,"i_lat":-6.530544,"station_id":"CLT","i_long":106.800016,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

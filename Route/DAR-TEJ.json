@@ -1,1 +1,28 @@
-{"data":[[{"station_name":"Daru","time":0,"transit":false,"i_long":106.491338,"i_lat":-6.338021,"line":0,"is_transit":false,"distance":0,"station_id":"DAR"},{"line":6,"station_name":"Tenjo","i_lat":-6.327251,"distance":3902,"is_transit":false,"time":5,"transit":false,"i_long":106.460812,"station_id":"TEJ"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

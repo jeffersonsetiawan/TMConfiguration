@@ -1,1 +1,28 @@
-{"data":[[{"i_lat":-6.2842400000000005,"station_name":"Pasar Minggu","station_id":"PSM","line":2,"distance":0,"i_long":106.843999,"transit":false,"is_transit":false,"time":0},{"line":2,"i_lat":-6.263214,"i_long":106.851577,"is_transit":false,"transit":false,"distance":2380,"time":2,"station_name":"Pasar Minggu Baru","station_id":"PSMB"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

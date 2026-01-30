@@ -1,1 +1,28 @@
-{"data":[[{"distance":0,"i_long":106.394373,"station_id":"MJ","station_name":"Maja","i_lat":-6.332307,"line":6,"is_transit":false,"transit":false,"time":0},{"i_lat":-6.33561,"is_transit":false,"distance":1853,"station_id":"CKY","time":4,"line":3,"station_name":"Cikoya","transit":false,"i_long":106.411216}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1853,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,83 @@
-{"data":[[{"time":0,"transit":false,"distance":0,"i_lat":-6.369073,"is_transit":false,"line":2,"station_id":"POC","station_name":"Pondok Cina","i_long":106.831114},{"i_long":106.819451,"line":2,"is_transit":false,"transit":false,"station_name":"Depokbaru","station_id":"DPB","time":4,"distance":2727,"i_lat":-6.391065},{"line":2,"i_lat":-6.405256,"time":3,"i_long":106.816926,"station_id":"DP","station_name":"Depok","is_transit":false,"transit":false,"distance":1584},{"is_transit":false,"station_name":"Citayam","distance":5084,"time":6,"transit":false,"i_long":106.800298,"station_id":"CTA","line":2,"i_lat":-6.448811},{"station_id":"BJD","is_transit":false,"station_name":"Bojonggede","transit":false,"distance":5197,"line":2,"time":5,"i_lat":-6.493243,"i_long":106.792719},{"time":5,"is_transit":false,"station_name":"Cilebut","distance":4331,"i_lat":-6.530544,"i_long":106.800016,"line":2,"station_id":"CLT","transit":false},{"station_id":"BOO","i_lat":-6.594596,"distance":7514,"transit":false,"is_transit":false,"station_name":"Bogor","time":9,"i_long":106.790574,"line":2}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 7514,
+        "i_lat": -6.594596,
+        "i_long": 106.790574,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BOO",
+        "station_name": "Bogor",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

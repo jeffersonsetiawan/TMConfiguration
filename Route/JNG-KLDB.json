@@ -1,1 +1,50 @@
-{"data":[[{"station_name":"Jatinegara","station_id":"JNG","time":0,"is_transit":false,"line":1,"distance":0,"transit":false,"i_long":106.86807400000001,"i_lat":-6.215091},{"i_lat":-6.2135,"station_name":"Klender","time":3,"distance":3395,"line":1,"i_long":106.899548,"is_transit":false,"station_id":"KLD","transit":false},{"station_name":"Buaran","is_transit":false,"i_lat":-6.215568,"i_long":106.922662,"transit":false,"station_id":"BUA","time":2,"distance":3100,"line":1},{"distance":1305,"station_id":"KLDB","i_lat":-6.217455,"line":1,"time":1,"i_long":106.939679,"is_transit":false,"station_name":"Klenderbaru","transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215091,
+        "i_long": 106.86807400000001,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "JNG",
+        "station_name": "Jatinegara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3395,
+        "i_lat": -6.2135,
+        "i_long": 106.899548,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLD",
+        "station_name": "Klender",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 3100,
+        "i_lat": -6.215568,
+        "i_long": 106.922662,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BUA",
+        "station_name": "Buaran",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1305,
+        "i_lat": -6.217455,
+        "i_long": 106.939679,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLDB",
+        "station_name": "Klenderbaru",
+        "time": 1,
+        "transit": false
+      }
+    ]
+  ]
+}

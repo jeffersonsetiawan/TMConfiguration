@@ -1,1 +1,50 @@
-{"data":[[{"distance":0,"station_id":"BOI","station_name":"Bojongindah","time":0,"i_long":106.737035,"line":5,"i_lat":-6.159876,"transit":false,"is_transit":false},{"station_name":"Taman Kota","distance":2334,"transit":false,"i_lat":-6.1587309999999995,"is_transit":false,"time":2,"station_id":"TKO","i_long":106.756522,"line":5},{"distance":1614,"station_id":"PSG","transit":false,"is_transit":false,"i_long":106.771379,"time":2,"line":5,"station_name":"Pesing","i_lat":-6.161433},{"station_name":"Grogol","distance":2036,"time":2,"i_long":106.788277,"station_id":"GRG","is_transit":false,"transit":false,"i_lat":-6.162021,"line":5}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2334,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1614,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2036,
+        "i_lat": -6.162021,
+        "i_long": 106.788277,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "GRG",
+        "station_name": "Grogol",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

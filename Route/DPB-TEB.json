@@ -1,1 +1,127 @@
-{"data":[[{"distance":0,"i_long":106.819451,"time":0,"station_id":"DPB","i_lat":-6.391065,"line":2,"is_transit":false,"transit":false,"station_name":"Depokbaru"},{"distance":2727,"is_transit":false,"transit":false,"i_lat":-6.369073,"i_long":106.831114,"station_id":"POC","station_name":"Pondok Cina","line":2,"time":4},{"is_transit":false,"transit":false,"i_lat":-6.360749,"station_name":"Univ. Indonesia","i_long":106.831474,"station_id":"UI","distance":1109,"line":2,"time":2},{"line":2,"time":3,"transit":false,"station_name":"Univ. Pancasila","is_transit":false,"i_lat":-6.339291,"distance":2264,"station_id":"UP","i_long":106.834175},{"time":2,"i_lat":-6.330363,"line":2,"is_transit":false,"distance":1029,"transit":false,"station_id":"LNA","station_name":"Lenteng Agung","i_long":106.832616},{"station_id":"TNT","time":3,"transit":false,"i_lat":-6.3080680000000005,"i_long":106.838896,"distance":2671,"line":2,"station_name":"Tanjung Barat","is_transit":false},{"time":4,"distance":2820,"station_id":"PSM","i_lat":-6.2842400000000005,"station_name":"Pasar Minggu","transit":false,"is_transit":false,"i_long":106.843999,"line":2},{"distance":2380,"is_transit":false,"transit":false,"station_id":"PSMB","time":2,"i_long":106.851577,"line":2,"station_name":"Pasar Minggu Baru","i_lat":-6.263214},{"line":2,"distance":824,"i_lat":-6.255332,"station_name":"Duren Kalibata","time":2,"transit":false,"i_long":106.85449,"station_id":"DRN","is_transit":false},{"station_id":"CW","transit":false,"distance":1546,"time":3,"station_name":"Cawang","is_transit":false,"i_long":106.856607,"line":2,"i_lat":-6.242512},{"station_id":"TEB","time":2,"station_name":"Tebet","is_transit":false,"line":2,"transit":false,"i_long":106.857948,"i_lat":-6.226659,"distance":1230}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1109,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2264,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1029,
+        "i_lat": -6.330363,
+        "i_long": 106.832616,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "LNA",
+        "station_name": "Lenteng Agung",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2671,
+        "i_lat": -6.3080680000000005,
+        "i_long": 106.838896,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TNT",
+        "station_name": "Tanjung Barat",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2820,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 824,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1546,
+        "i_lat": -6.242512,
+        "i_long": 106.856607,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CW",
+        "station_name": "Cawang",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1230,
+        "i_lat": -6.226659,
+        "i_long": 106.857948,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TEB",
+        "station_name": "Tebet",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

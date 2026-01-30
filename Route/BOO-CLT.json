@@ -1,1 +1,28 @@
-{"data":[[{"is_transit":false,"transit":false,"time":0,"station_name":"Bogor","i_lat":-6.594596,"line":2,"i_long":106.790574,"station_id":"BOO","distance":0},{"time":9,"transit":false,"station_name":"Cilebut","i_long":106.800016,"line":2,"distance":7514,"station_id":"CLT","is_transit":false,"i_lat":-6.530544}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.594596,
+        "i_long": 106.790574,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BOO",
+        "station_name": "Bogor",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7514,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

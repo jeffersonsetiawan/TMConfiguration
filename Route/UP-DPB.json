@@ -1,1 +1,50 @@
-{"data":[[{"station_id":"UP","time":0,"i_lat":-6.339291,"station_name":"Univ. Pancasila","distance":0,"i_long":106.834175,"is_transit":false,"line":2,"transit":false},{"is_transit":false,"i_lat":-6.360749,"time":3,"distance":2264,"i_long":106.831474,"station_name":"Univ. Indonesia","line":2,"station_id":"UI","transit":false},{"station_id":"POC","transit":false,"i_long":106.831114,"i_lat":-6.369073,"distance":1109,"station_name":"Pondok Cina","time":2,"is_transit":false,"line":2},{"is_transit":false,"station_id":"DPB","station_name":"Depokbaru","line":2,"distance":2727,"time":4,"transit":false,"i_lat":-6.391065,"i_long":106.819451}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2264,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1109,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

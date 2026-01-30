@@ -1,1 +1,28 @@
-{"data":[[{"i_lat":-6.338021,"time":0,"i_long":106.491338,"is_transit":false,"distance":0,"station_id":"DAR","station_name":"Daru","line":0,"transit":false},{"transit":false,"line":3,"distance":2675,"i_lat":-6.354349,"station_name":"Cilejit","i_long":106.508482,"is_transit":false,"time":6,"station_id":"CJT"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

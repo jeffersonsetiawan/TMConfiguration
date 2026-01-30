@@ -1,1 +1,50 @@
-{"data":[[{"line":3,"i_lat":-6.354349,"i_long":106.508482,"is_transit":false,"distance":0,"time":0,"transit":false,"station_id":"CJT","station_name":"Cilejit"},{"line":0,"is_transit":false,"station_id":"DAR","time":6,"transit":false,"i_lat":-6.338021,"i_long":106.491338,"station_name":"Daru","distance":2675},{"is_transit":false,"i_long":106.460812,"station_name":"Tenjo","time":5,"distance":3902,"station_id":"TEJ","transit":false,"i_lat":-6.327251,"line":6},{"station_id":"TGS","transit":false,"i_lat":-6.328533,"distance":2974,"time":5,"is_transit":false,"line":6,"station_name":"Tigaraksa","i_long":106.425991}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

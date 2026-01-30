@@ -1,1 +1,61 @@
-{"data":[[{"i_long":107.016735,"line":1,"distance":0,"station_name":"Bekasi Timur","is_transit":false,"transit":false,"station_id":"BKST","i_lat":-6.248029,"time":0},{"is_transit":false,"line":1,"distance":2368,"station_id":"BKS","transit":false,"station_name":"Bekasi","i_long":106.997013,"time":2,"i_lat":-6.236616},{"distance":2520,"line":1,"transit":false,"time":4,"is_transit":false,"i_lat":-6.224515,"station_name":"Kranji","station_id":"KRI","i_long":106.977657},{"distance":3097,"station_id":"CUK","station_name":"Cakung","transit":false,"i_long":106.951283,"line":1,"i_lat":-6.219053,"time":3,"is_transit":false},{"station_name":"Klenderbaru","i_lat":-6.217455,"i_long":106.939679,"station_id":"KLDB","time":8,"is_transit":false,"distance":1385,"transit":false,"line":1}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 3097,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1385,
+        "i_lat": -6.217455,
+        "i_long": 106.939679,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLDB",
+        "station_name": "Klenderbaru",
+        "time": 8,
+        "transit": false
+      }
+    ]
+  ]
+}

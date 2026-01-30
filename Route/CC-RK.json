@@ -1,1 +1,116 @@
-{"data":[[{"station_name":"Cicayur","is_transit":false,"transit":false,"i_long":106.617853,"time":0,"station_id":"CC","i_lat":-6.329547,"distance":0,"line":3},{"is_transit":false,"distance":5968,"i_lat":-6.3441410000000005,"station_id":"PRP","transit":false,"line":6,"station_name":"Parung Panjang","i_long":106.568863,"time":8},{"station_id":"CJT","distance":7025,"i_lat":-6.354349,"i_long":106.508482,"transit":false,"line":3,"time":9,"station_name":"Cilejit","is_transit":false},{"distance":2675,"transit":false,"is_transit":false,"station_id":"DAR","line":0,"i_lat":-6.338021,"time":6,"station_name":"Daru","i_long":106.491338},{"station_name":"Tenjo","time":5,"i_lat":-6.327251,"line":6,"station_id":"TEJ","i_long":106.460812,"distance":3902,"is_transit":false,"transit":false},{"i_lat":-6.328533,"line":6,"station_name":"Tigaraksa","time":5,"distance":2974,"i_long":106.425991,"is_transit":false,"transit":false,"station_id":"TGS"},{"station_name":"Cikoya","station_id":"CKY","i_lat":-6.33561,"is_transit":false,"i_long":106.411216,"line":3,"distance":2651,"time":3,"transit":false},{"i_lat":-6.332307,"time":4,"distance":1853,"station_id":"MJ","transit":false,"station_name":"Maja","is_transit":false,"i_long":106.394373,"line":6},{"time":10,"line":3,"i_long":106.332092,"station_id":"CTR","station_name":"Citeras","i_lat":-6.334892,"is_transit":false,"distance":7293,"transit":false},{"station_id":"RK","station_name":"Rangkasbitung","distance":9847,"is_transit":false,"transit":false,"i_lat":-6.352675,"i_long":106.250396,"line":3,"time":13}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.329547,
+        "i_long": 106.617853,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CC",
+        "station_name": "Cicayur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 5968,
+        "i_lat": -6.3441410000000005,
+        "i_long": 106.568863,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PRP",
+        "station_name": "Parung Panjang",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 7025,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1853,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 7293,
+        "i_lat": -6.334892,
+        "i_long": 106.332092,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CTR",
+        "station_name": "Citeras",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 9847,
+        "i_lat": -6.352675,
+        "i_long": 106.250396,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "RK",
+        "station_name": "Rangkasbitung",
+        "time": 13,
+        "transit": false
+      }
+    ]
+  ]
+}

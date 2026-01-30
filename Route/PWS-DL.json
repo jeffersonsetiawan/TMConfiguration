@@ -1,1 +1,39 @@
-{"data":[[{"transit":false,"i_long":110.796655,"is_transit":false,"station_name":"Purwosari","station_id":"PWS","i_lat":-7.561362,"line":7,"time":0,"distance":0},{"station_name":"Gawok","transit":false,"station_id":"GW","i_long":110.744432,"is_transit":false,"line":7,"i_lat":-7.589036,"time":7,"distance":6639},{"i_long":110.706679,"station_id":"DL","i_lat":-7.62181,"distance":5543,"time":6,"is_transit":false,"line":7,"transit":false,"station_name":"Delanggu"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6639,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

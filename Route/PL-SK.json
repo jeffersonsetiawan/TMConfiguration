@@ -1,1 +1,28 @@
-{"data":[[{"transit":false,"is_transit":false,"time":0,"distance":0,"i_lat":-7.567939,"line":0,"station_name":"Palur","i_long":110.875516,"station_id":"PL"},{"time":6,"station_id":"SK","distance":415,"i_lat":-7.56197,"i_long":110.839459,"line":7,"station_name":"Solo Jebres","transit":false,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.567939,
+        "i_long": 110.875516,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "PL",
+        "station_name": "Palur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 415,
+        "i_lat": -7.56197,
+        "i_long": 110.839459,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SK",
+        "station_name": "Solo Jebres",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

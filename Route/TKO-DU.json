@@ -1,1 +1,50 @@
-{"data":[[{"distance":0,"station_name":"Taman Kota","transit":false,"line":5,"is_transit":false,"i_lat":-6.1587309999999995,"i_long":106.756522,"time":0,"station_id":"TKO"},{"transit":false,"station_id":"PSG","i_long":106.771379,"line":5,"distance":1614,"is_transit":false,"station_name":"Pesing","time":2,"i_lat":-6.161433},{"is_transit":false,"i_long":106.788277,"line":5,"time":2,"station_id":"GRG","station_name":"Grogol","transit":false,"distance":2036,"i_lat":-6.162021},{"i_lat":-6.155215,"line":1,"i_long":106.800832,"transit":false,"is_transit":false,"station_id":"DU","time":3,"distance":1700,"station_name":"Duri"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1614,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2036,
+        "i_lat": -6.162021,
+        "i_long": 106.788277,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "GRG",
+        "station_name": "Grogol",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1700,
+        "i_lat": -6.155215,
+        "i_long": 106.800832,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "DU",
+        "station_name": "Duri",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

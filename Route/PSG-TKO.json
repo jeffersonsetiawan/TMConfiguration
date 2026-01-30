@@ -1,1 +1,28 @@
-{"data":[[{"line":5,"distance":0,"time":0,"station_name":"Pesing","is_transit":false,"station_id":"PSG","transit":false,"i_lat":-6.161433,"i_long":106.771379},{"distance":1614,"i_long":106.756522,"line":5,"is_transit":false,"transit":false,"station_id":"TKO","i_lat":-6.1587309999999995,"time":2,"station_name":"Taman Kota"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1614,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

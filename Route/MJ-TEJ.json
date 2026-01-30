@@ -1,1 +1,50 @@
-{"data":[[{"is_transit":false,"transit":false,"i_long":106.394373,"line":6,"station_name":"Maja","i_lat":-6.332307,"distance":0,"station_id":"MJ","time":0},{"line":3,"station_name":"Cikoya","station_id":"CKY","distance":1853,"is_transit":false,"time":4,"i_lat":-6.33561,"transit":false,"i_long":106.411216},{"line":6,"i_lat":-6.328533,"i_long":106.425991,"time":3,"transit":false,"is_transit":false,"station_id":"TGS","station_name":"Tigaraksa","distance":2651},{"station_id":"TEJ","station_name":"Tenjo","transit":false,"time":5,"i_long":106.460812,"is_transit":false,"line":6,"i_lat":-6.327251,"distance":2974}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1853,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

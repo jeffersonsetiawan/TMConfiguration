@@ -1,1 +1,28 @@
-{"data":[[{"line":1,"is_transit":false,"i_long":107.083084,"time":0,"distance":0,"station_id":"CIT","transit":false,"i_lat":-6.261877,"station_name":"Cibitung"},{"station_id":"TLM","line":1,"station_name":"Metland Telaga Murni","is_transit":false,"time":2,"i_lat":-6.262938,"distance":2800,"transit":false,"i_long":107.093313}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2800,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

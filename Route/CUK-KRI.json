@@ -1,1 +1,28 @@
-{"data":[[{"station_id":"CUK","line":1,"station_name":"Cakung","time":0,"i_long":106.951283,"distance":0,"transit":false,"is_transit":false,"i_lat":-6.219053},{"distance":3097,"i_lat":-6.224515,"transit":false,"time":3,"line":1,"station_name":"Kranji","i_long":106.977657,"station_id":"KRI","is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3097,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

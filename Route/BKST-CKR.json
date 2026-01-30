@@ -1,1 +1,61 @@
-{"data":[[{"is_transit":false,"transit":false,"i_long":107.016735,"station_name":"Bekasi Timur","i_lat":-6.248029,"station_id":"BKST","line":1,"distance":0,"time":0},{"station_id":"TB","distance":4460,"station_name":"Tambun","i_long":107.055722,"is_transit":false,"transit":false,"line":1,"time":7,"i_lat":-6.258864},{"station_id":"CIT","transit":false,"is_transit":false,"i_long":107.083084,"station_name":"Cibitung","i_lat":-6.261877,"line":1,"distance":3420,"time":3},{"station_id":"TLM","is_transit":false,"i_long":107.093313,"i_lat":-6.262938,"transit":false,"line":1,"time":2,"distance":2800,"station_name":"Metland Telaga Murni"},{"distance":3689,"station_name":"Cikarang","station_id":"CKR","is_transit":false,"i_long":107.144613,"line":1,"transit":false,"i_lat":-6.2553149999999995,"time":4}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 3420,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2800,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 3689,
+        "i_lat": -6.2553149999999995,
+        "i_long": 107.144613,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CKR",
+        "station_name": "Cikarang",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

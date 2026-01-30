@@ -1,1 +1,94 @@
-{"data":[[{"distance":0,"station_id":"UP","station_name":"Univ. Pancasila","i_long":106.834175,"time":0,"transit":false,"i_lat":-6.339291,"line":2,"is_transit":false},{"i_lat":-6.360749,"i_long":106.831474,"line":2,"distance":2264,"time":3,"station_name":"Univ. Indonesia","is_transit":false,"transit":false,"station_id":"UI"},{"transit":false,"line":2,"distance":1109,"station_id":"POC","i_lat":-6.369073,"time":2,"station_name":"Pondok Cina","is_transit":false,"i_long":106.831114},{"transit":false,"station_name":"Depokbaru","line":2,"time":4,"station_id":"DPB","is_transit":false,"i_long":106.819451,"i_lat":-6.391065,"distance":2727},{"distance":1584,"i_lat":-6.405256,"time":3,"line":2,"station_id":"DP","i_long":106.816926,"transit":false,"station_name":"Depok","is_transit":false},{"is_transit":false,"time":6,"station_id":"CTA","transit":false,"i_lat":-6.448811,"distance":5084,"line":2,"station_name":"Citayam","i_long":106.800298},{"station_id":"BJD","transit":false,"line":2,"time":5,"is_transit":false,"i_long":106.792719,"i_lat":-6.493243,"station_name":"Bojonggede","distance":5197},{"i_lat":-6.530544,"is_transit":false,"station_id":"CLT","transit":false,"time":5,"station_name":"Cilebut","distance":4331,"i_long":106.800016,"line":2}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2264,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1109,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

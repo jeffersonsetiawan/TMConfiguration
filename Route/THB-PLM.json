@@ -1,1 +1,28 @@
-{"data":[[{"station_id":"THB","time":0,"transit":false,"distance":0,"station_name":"Tanah Abang","i_long":106.811091,"line":1,"is_transit":false,"i_lat":-6.185545},{"is_transit":false,"i_lat":-6.207404,"line":6,"distance":3191,"time":6,"station_id":"PLM","i_long":106.79689,"station_name":"Palmerah","transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.185545,
+        "i_long": 106.811091,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "THB",
+        "station_name": "Tanah Abang",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3191,
+        "i_lat": -6.207404,
+        "i_long": 106.79689,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PLM",
+        "station_name": "Palmerah",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

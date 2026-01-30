@@ -1,1 +1,61 @@
-{"data":[[{"station_name":"Ceper","distance":0,"station_id":"CE","transit":false,"line":7,"i_long":110.674861,"is_transit":false,"time":0,"i_lat":-7.668597},{"time":9,"i_long":110.602981,"distance":9279,"line":7,"transit":false,"station_id":"KT","i_lat":-7.712087,"is_transit":false,"station_name":"Klaten"},{"i_lat":-7.74111,"is_transit":false,"i_long":110.548972,"time":8,"station_id":"SWT","distance":6738,"line":7,"station_name":"Srowot","transit":false},{"time":7,"is_transit":false,"station_id":"BBN","station_name":"Brambanan","distance":5850,"transit":false,"i_lat":-7.756284,"i_long":110.500451,"line":0},{"time":8,"i_long":110.436791,"station_name":"Maguwo","station_id":"MGW","distance":7905,"i_lat":-7.784476,"transit":false,"is_transit":false,"line":7}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 9279,
+        "i_lat": -7.712087,
+        "i_long": 110.602981,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "KT",
+        "station_name": "Klaten",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 6738,
+        "i_lat": -7.74111,
+        "i_long": 110.548972,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SWT",
+        "station_name": "Srowot",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 5850,
+        "i_lat": -7.756284,
+        "i_long": 110.500451,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "BBN",
+        "station_name": "Brambanan",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 7905,
+        "i_lat": -7.784476,
+        "i_long": 110.436791,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "MGW",
+        "station_name": "Maguwo",
+        "time": 8,
+        "transit": false
+      }
+    ]
+  ]
+}

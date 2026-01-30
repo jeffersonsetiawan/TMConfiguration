@@ -1,1 +1,39 @@
-{"data":[[{"i_lat":-6.236616,"line":1,"transit":false,"time":0,"station_name":"Bekasi","i_long":106.997013,"station_id":"BKS","distance":0,"is_transit":false},{"station_id":"BKST","i_lat":-6.248029,"station_name":"Bekasi Timur","i_long":107.016735,"distance":2368,"transit":false,"line":1,"time":2,"is_transit":false},{"i_long":107.055722,"time":7,"distance":4460,"transit":false,"i_lat":-6.258864,"station_id":"TB","station_name":"Tambun","line":1,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,72 @@
-{"data":[[{"i_lat":-6.33561,"station_name":"Cikoya","i_long":106.411216,"time":0,"distance":0,"transit":false,"station_id":"CKY","line":3,"is_transit":false},{"station_name":"Tigaraksa","line":6,"i_lat":-6.328533,"distance":2651,"i_long":106.425991,"transit":false,"station_id":"TGS","is_transit":false,"time":3},{"transit":false,"line":6,"station_name":"Tenjo","station_id":"TEJ","i_long":106.460812,"i_lat":-6.327251,"distance":2974,"time":5,"is_transit":false},{"is_transit":false,"transit":false,"time":5,"station_name":"Daru","line":0,"distance":3902,"i_long":106.491338,"i_lat":-6.338021,"station_id":"DAR"},{"distance":2675,"line":3,"transit":false,"station_name":"Cilejit","time":6,"i_lat":-6.354349,"i_long":106.508482,"station_id":"CJT","is_transit":false},{"is_transit":false,"line":6,"i_long":106.568863,"time":9,"distance":7025,"transit":false,"station_name":"Parung Panjang","i_lat":-6.3441410000000005,"station_id":"PRP"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2675,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 7025,
+        "i_lat": -6.3441410000000005,
+        "i_long": 106.568863,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PRP",
+        "station_name": "Parung Panjang",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

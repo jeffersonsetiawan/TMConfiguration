@@ -1,1 +1,83 @@
-{"data":[[{"is_transit":false,"i_lat":-7.62181,"transit":false,"distance":0,"station_name":"Delanggu","time":0,"i_long":110.706679,"line":7,"station_id":"DL"},{"distance":6271,"time":7,"is_transit":false,"transit":false,"station_name":"Ceper","i_lat":-7.668597,"station_id":"CE","i_long":110.674861,"line":7},{"station_id":"KT","distance":9279,"line":7,"is_transit":false,"transit":false,"time":9,"i_lat":-7.712087,"i_long":110.602981,"station_name":"Klaten"},{"station_name":"Srowot","time":8,"distance":6738,"is_transit":false,"i_long":110.548972,"station_id":"SWT","transit":false,"line":7,"i_lat":-7.74111},{"line":0,"i_long":110.500451,"station_id":"BBN","i_lat":-7.756284,"distance":5850,"time":7,"transit":false,"station_name":"Brambanan","is_transit":false},{"is_transit":false,"distance":7905,"line":7,"time":8,"station_id":"MGW","transit":false,"station_name":"Maguwo","i_long":110.436791,"i_lat":-7.784476},{"time":7,"distance":6799,"is_transit":false,"station_id":"LPN","station_name":"Lempuyangan","i_lat":-7.790018,"transit":false,"line":7,"i_long":110.375434}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 9279,
+        "i_lat": -7.712087,
+        "i_long": 110.602981,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "KT",
+        "station_name": "Klaten",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 6738,
+        "i_lat": -7.74111,
+        "i_long": 110.548972,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SWT",
+        "station_name": "Srowot",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 5850,
+        "i_lat": -7.756284,
+        "i_long": 110.500451,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "BBN",
+        "station_name": "Brambanan",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 7905,
+        "i_lat": -7.784476,
+        "i_long": 110.436791,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "MGW",
+        "station_name": "Maguwo",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 6799,
+        "i_lat": -7.790018,
+        "i_long": 110.375434,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "LPN",
+        "station_name": "Lempuyangan",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

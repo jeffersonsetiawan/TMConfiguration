@@ -1,1 +1,28 @@
-{"data":[[{"line":2,"time":0,"i_lat":-6.360749,"is_transit":false,"transit":false,"distance":0,"station_name":"Univ. Indonesia","i_long":106.831474,"station_id":"UI"},{"i_long":106.831114,"station_name":"Pondok Cina","distance":1109,"transit":false,"line":2,"is_transit":false,"i_lat":-6.369073,"time":2,"station_id":"POC"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1109,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

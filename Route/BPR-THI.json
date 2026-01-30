@@ -1,1 +1,28 @@
-{"data":[[{"station_name":"Batuceper","line":5,"station_id":"BPR","i_lat":-6.171811,"transit":false,"is_transit":false,"time":0,"distance":0,"i_long":106.665036},{"i_long":106.64657,"station_name":"Tanah Tinggi","line":5,"time":3,"distance":2028,"is_transit":false,"transit":false,"i_lat":-6.17331,"station_id":"THI"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.171811,
+        "i_long": 106.665036,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BPR",
+        "station_name": "Batuceper",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2028,
+        "i_lat": -6.17331,
+        "i_long": 106.64657,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "THI",
+        "station_name": "Tanah Tinggi",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

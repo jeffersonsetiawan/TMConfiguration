@@ -1,1 +1,61 @@
-{"data":[[{"i_long":106.824374,"is_transit":false,"station_name":"Pondok Rajeg","i_lat":-6.460735,"station_id":"PDRG","line":21,"distance":0,"transit":false,"time":0},{"station_id":"CTA","is_transit":true,"i_lat":-6.448811,"i_long":106.800298,"transit":true,"line":2,"station_name":"Citayam","time":0,"distance":0},{"station_id":"BJD","station_name":"Bojonggede","is_transit":false,"transit":false,"i_lat":-6.493243,"line":2,"distance":5197,"time":5,"i_long":106.792719},{"station_id":"CLT","i_long":106.800016,"is_transit":false,"line":2,"station_name":"Cilebut","transit":false,"i_lat":-6.530544,"time":5,"distance":4331},{"time":9,"transit":false,"i_long":106.790574,"line":2,"station_name":"Bogor","is_transit":false,"i_lat":-6.594596,"distance":7514,"station_id":"BOO"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 7514,
+        "i_lat": -6.594596,
+        "i_long": 106.790574,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BOO",
+        "station_name": "Bogor",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

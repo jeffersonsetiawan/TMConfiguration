@@ -1,1 +1,61 @@
-{"data":[[{"is_transit":false,"i_lat":-6.155215,"station_name":"Duri","i_long":106.800832,"line":1,"transit":false,"station_id":"DU","time":0,"distance":0},{"station_id":"GRG","is_transit":false,"distance":1700,"transit":false,"i_lat":-6.162021,"time":3,"line":5,"station_name":"Grogol","i_long":106.788277},{"station_name":"Pesing","station_id":"PSG","i_long":106.771379,"distance":2036,"is_transit":false,"line":5,"i_lat":-6.161433,"transit":false,"time":2},{"is_transit":false,"i_long":106.756522,"i_lat":-6.1587309999999995,"time":2,"station_id":"TKO","line":5,"station_name":"Taman Kota","distance":1614,"transit":false},{"i_lat":-6.159876,"line":5,"is_transit":false,"transit":false,"distance":2334,"time":2,"station_id":"BOI","station_name":"Bojongindah","i_long":106.737035}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.155215,
+        "i_long": 106.800832,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "DU",
+        "station_name": "Duri",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1700,
+        "i_lat": -6.162021,
+        "i_long": 106.788277,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "GRG",
+        "station_name": "Grogol",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2036,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1614,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2334,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

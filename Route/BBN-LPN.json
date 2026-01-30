@@ -1,1 +1,39 @@
-{"data":[[{"is_transit":false,"i_long":110.500451,"station_id":"BBN","distance":0,"station_name":"Brambanan","i_lat":-7.756284,"line":0,"transit":false,"time":0},{"is_transit":false,"station_name":"Maguwo","i_long":110.436791,"transit":false,"i_lat":-7.784476,"line":7,"station_id":"MGW","time":8,"distance":7905},{"line":7,"i_lat":-7.790018,"transit":false,"is_transit":false,"i_long":110.375434,"station_id":"LPN","distance":6799,"time":7,"station_name":"Lempuyangan"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.756284,
+        "i_long": 110.500451,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "BBN",
+        "station_name": "Brambanan",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7905,
+        "i_lat": -7.784476,
+        "i_long": 110.436791,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "MGW",
+        "station_name": "Maguwo",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 6799,
+        "i_lat": -7.790018,
+        "i_long": 110.375434,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "LPN",
+        "station_name": "Lempuyangan",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

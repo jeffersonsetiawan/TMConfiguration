@@ -1,1 +1,28 @@
-{"data":[[{"i_long":106.792719,"station_name":"Bojonggede","is_transit":false,"distance":0,"station_id":"BJD","time":0,"i_lat":-6.493243,"line":2,"transit":false},{"distance":4331,"station_id":"CLT","transit":false,"i_lat":-6.530544,"time":5,"is_transit":false,"i_long":106.800016,"station_name":"Cilebut","line":2}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

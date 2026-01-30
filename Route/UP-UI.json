@@ -1,1 +1,28 @@
-{"data":[[{"line":2,"time":0,"i_lat":-6.339291,"distance":0,"transit":false,"station_id":"UP","is_transit":false,"i_long":106.834175,"station_name":"Univ. Pancasila"},{"station_id":"UI","is_transit":false,"i_long":106.831474,"line":2,"station_name":"Univ. Indonesia","transit":false,"i_lat":-6.360749,"time":3,"distance":2264}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2264,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

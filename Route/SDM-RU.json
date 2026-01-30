@@ -1,1 +1,28 @@
-{"data":[[{"is_transit":false,"transit":false,"station_id":"SDM","time":0,"distance":0,"i_long":106.712277,"i_lat":-6.296963,"station_name":"Sudimara","line":6},{"transit":false,"line":6,"is_transit":false,"i_lat":-6.314823,"station_id":"RU","station_name":"Rawa Buntu","i_long":106.675475,"time":6,"distance":4566}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.296963,
+        "i_long": 106.712277,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "SDM",
+        "station_name": "Sudimara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4566,
+        "i_lat": -6.314823,
+        "i_long": 106.675475,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "RU",
+        "station_name": "Rawa Buntu",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

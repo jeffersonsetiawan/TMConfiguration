@@ -1,1 +1,50 @@
-{"data":[[{"transit":false,"station_id":"CTA","is_transit":false,"station_name":"Citayam","i_lat":-6.448811,"i_long":106.800298,"line":2,"distance":0,"time":0},{"station_id":"PDRG","time":0,"station_name":"Pondok Rajeg","is_transit":false,"transit":false,"i_long":106.824374,"distance":0,"i_lat":-6.460735,"line":21},{"station_name":"Cibinong","distance":0,"i_long":106.851978,"is_transit":false,"station_id":"CBN","time":0,"i_lat":-6.46424,"line":21,"transit":false},{"station_id":"NMO","is_transit":false,"distance":6527,"station_name":"Nambo","i_long":106.905196,"time":10,"transit":false,"line":21,"i_lat":-6.466285}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6527,
+        "i_lat": -6.466285,
+        "i_long": 106.905196,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "NMO",
+        "station_name": "Nambo",
+        "time": 10,
+        "transit": false
+      }
+    ]
+  ]
+}

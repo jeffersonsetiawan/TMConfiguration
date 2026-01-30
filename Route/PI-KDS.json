@@ -1,1 +1,28 @@
-{"data":[[{"time":0,"distance":0,"station_id":"PI","is_transit":false,"station_name":"Poris","i_lat":-6.169933,"i_long":106.679458,"transit":false,"line":5},{"transit":false,"station_id":"KDS","station_name":"Kalideres","is_transit":false,"time":3,"distance":2548,"i_lat":-6.166068,"i_long":106.701612,"line":5}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.169933,
+        "i_long": 106.679458,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PI",
+        "station_name": "Poris",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2548,
+        "i_lat": -6.166068,
+        "i_long": 106.701612,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "KDS",
+        "station_name": "Kalideres",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

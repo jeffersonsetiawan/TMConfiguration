@@ -1,1 +1,584 @@
-{"data":[[{"station_id":"JNG","i_long":106.86807400000001,"is_transit":false,"i_lat":-6.215091,"distance":0,"time":0,"transit":false,"station_name":"Jatinegara","line":1},{"station_id":"MTR","distance":1377,"transit":false,"station_name":"Matraman","is_transit":false,"i_lat":-6.212485,"line":1,"i_long":106.858896,"time":2},{"i_long":106.84912,"station_name":"Manggarai","distance":1275,"time":2,"transit":false,"line":2,"station_id":"MRI","is_transit":false,"i_lat":-6.209883},{"is_transit":false,"line":1,"station_name":"Sudirman","distance":3186,"i_lat":-6.202263,"i_long":106.822649,"station_id":"SUD","time":4,"transit":false},{"time":1,"i_long":106.819881,"transit":false,"distance":280,"station_id":"SUDB","station_name":"Sudirman Baru","is_transit":false,"i_lat":-6.201433,"line":1}],[{"line":1,"transit":false,"time":0,"distance":0,"station_id":"JNG","station_name":"Jatinegara","i_long":106.86807400000001,"is_transit":false,"i_lat":-6.215091},{"station_id":"POK","line":11,"i_lat":-6.209188,"i_long":106.861737,"station_name":"Pondok Jati","time":2,"is_transit":false,"transit":false,"distance":1236},{"line":11,"is_transit":false,"transit":false,"i_long":106.855437,"distance":1829,"time":2,"i_lat":-6.193792,"station_id":"KMT","station_name":"Kramat"},{"transit":false,"time":1,"distance":973,"station_id":"GST","i_long":106.850107,"station_name":"Gang Sentiong","i_lat":-6.185975,"line":11,"is_transit":false},{"station_name":"Pasar Senen","i_lat":-6.174784,"distance":1567,"is_transit":false,"i_long":106.84368,"time":8,"transit":false,"station_id":"PSE","line":11},{"station_id":"KMO","transit":false,"i_lat":-6.161728,"time":4,"is_transit":false,"i_long":106.839204,"line":11,"distance":1436,"station_name":"Kemayoran"},{"transit":false,"is_transit":false,"i_lat":-6.14505,"station_id":"RJW","line":11,"i_long":106.836569,"station_name":"Rajawali","time":5,"distance":1901},{"i_long":106.826365,"i_lat":-6.132549,"station_id":"KPB","distance":1444,"station_name":"Kampung Bandan","is_transit":true,"line":4,"transit":true,"time":3},{"distance":4102,"station_name":"Angke","station_id":"AK","i_lat":-6.144674,"is_transit":false,"time":9,"transit":false,"i_long":106.79867,"line":1},{"time":4,"station_name":"Duri","is_transit":false,"distance":1230,"i_lat":-6.155215,"line":1,"station_id":"DU","transit":false,"i_long":106.800832},{"station_id":"THB","time":8,"is_transit":false,"station_name":"Tanah Abang","transit":false,"i_lat":-6.185545,"i_long":106.811091,"distance":3632,"line":1},{"transit":false,"i_long":106.816351,"distance":2029,"station_name":"Karet","station_id":"KAT","time":5,"is_transit":false,"i_lat":-6.20132,"line":1},{"station_id":"SUDB","time":1,"distance":471,"is_transit":false,"station_name":"Sudirman Baru","i_lat":-6.201433,"line":1,"transit":false,"i_long":106.819881}],[{"distance":0,"station_name":"Jatinegara","time":0,"station_id":"JNG","transit":false,"is_transit":false,"i_long":106.86807400000001,"line":1,"i_lat":-6.215091},{"station_id":"MTR","station_name":"Matraman","distance":1377,"is_transit":false,"i_long":106.858896,"time":2,"transit":false,"line":1,"i_lat":-6.212485},{"i_long":106.84912,"time":2,"line":2,"i_lat":-6.209883,"station_id":"MRI","transit":true,"is_transit":true,"distance":1275,"station_name":"Manggarai"},{"station_name":"Cikini","transit":false,"line":2,"distance":1590,"i_lat":-6.198556,"time":4,"station_id":"CKI","is_transit":false,"i_long":106.840169},{"time":3,"station_name":"Gondangdia","i_long":106.832183,"distance":1750,"transit":false,"is_transit":false,"line":2,"i_lat":-6.186295,"station_id":"GDD"},{"time":4,"is_transit":false,"transit":false,"distance":2015,"station_id":"JUA","i_long":106.828284,"i_lat":-6.166716,"line":2,"station_name":"Juanda"},{"is_transit":false,"line":2,"station_id":"SW","transit":false,"i_lat":-6.160725,"i_long":106.827103,"time":2,"distance":1149,"station_name":"Sawah Besar"},{"is_transit":false,"time":2,"i_long":106.82482,"station_name":"Manggabesar","distance":906,"station_id":"MGB","i_lat":-6.149769,"line":2,"transit":false},{"i_long":106.820901,"station_id":"JAY","is_transit":false,"i_lat":-6.141205,"line":2,"time":2,"distance":1080,"station_name":"Jayakarta","transit":false},{"line":2,"distance":1264,"time":4,"i_lat":-6.137569,"i_long":106.812439,"station_id":"JAKK","station_name":"Jakarta Kota","is_transit":true,"transit":true},{"station_name":"Kampung Bandan","i_lat":-6.132549,"transit":true,"distance":1364,"i_long":106.826365,"is_transit":true,"time":3,"station_id":"KPB","line":4},{"time":9,"transit":false,"line":1,"i_long":106.79867,"station_name":"Angke","station_id":"AK","i_lat":-6.144674,"distance":4102,"is_transit":false},{"line":1,"i_lat":-6.155215,"transit":false,"time":4,"distance":1230,"is_transit":false,"station_name":"Duri","i_long":106.800832,"station_id":"DU"},{"station_id":"THB","line":1,"i_long":106.811091,"is_transit":false,"transit":false,"i_lat":-6.185545,"station_name":"Tanah Abang","time":8,"distance":3632},{"is_transit":false,"time":5,"i_lat":-6.20132,"i_long":106.816351,"distance":2029,"line":1,"station_id":"KAT","transit":false,"station_name":"Karet"},{"station_id":"SUDB","is_transit":false,"transit":false,"i_long":106.819881,"line":1,"time":1,"station_name":"Sudirman Baru","distance":471,"i_lat":-6.201433}],[{"i_lat":-6.215091,"transit":false,"distance":0,"station_id":"JNG","i_long":106.86807400000001,"is_transit":false,"station_name":"Jatinegara","line":1,"time":0},{"i_long":106.861737,"is_transit":false,"station_id":"POK","line":11,"time":2,"station_name":"Pondok Jati","transit":false,"i_lat":-6.209188,"distance":1236},{"is_transit":false,"transit":false,"i_lat":-6.193792,"distance":1829,"station_id":"KMT","station_name":"Kramat","time":2,"i_long":106.855437,"line":11},{"distance":973,"station_id":"GST","i_long":106.850107,"station_name":"Gang Sentiong","is_transit":false,"time":1,"i_lat":-6.185975,"line":11,"transit":false},{"i_long":106.84368,"line":11,"distance":1567,"is_transit":false,"station_id":"PSE","station_name":"Pasar Senen","i_lat":-6.174784,"transit":false,"time":8},{"line":11,"i_long":106.839204,"station_name":"Kemayoran","time":4,"is_transit":false,"station_id":"KMO","transit":false,"i_lat":-6.161728,"distance":1436},{"transit":false,"line":11,"station_id":"RJW","i_long":106.836569,"distance":1901,"is_transit":false,"i_lat":-6.14505,"time":5,"station_name":"Rajawali"},{"station_id":"KPB","station_name":"Kampung Bandan","is_transit":true,"distance":1444,"i_lat":-6.132549,"line":4,"i_long":106.826365,"transit":true,"time":3},{"station_name":"Jakarta Kota","station_id":"JAKK","distance":1364,"transit":true,"i_long":106.812439,"time":3,"line":2,"i_lat":-6.137569,"is_transit":true},{"time":4,"station_id":"JAY","station_name":"Jayakarta","transit":false,"i_long":106.820901,"distance":1264,"i_lat":-6.141205,"is_transit":false,"line":2},{"time":2,"station_id":"MGB","station_name":"Manggabesar","i_long":106.82482,"distance":1080,"i_lat":-6.149769,"line":2,"transit":false,"is_transit":false},{"line":2,"time":2,"i_lat":-6.160725,"is_transit":false,"station_name":"Sawah Besar","distance":906,"station_id":"SW","transit":false,"i_long":106.827103},{"station_name":"Juanda","time":2,"is_transit":false,"transit":false,"distance":1149,"station_id":"JUA","line":2,"i_lat":-6.166716,"i_long":106.828284},{"transit":false,"station_id":"GDD","line":2,"distance":2015,"i_lat":-6.186295,"time":4,"i_long":106.832183,"station_name":"Gondangdia","is_transit":false},{"is_transit":false,"time":3,"station_id":"CKI","i_long":106.840169,"station_name":"Cikini","i_lat":-6.198556,"transit":false,"distance":1750,"line":2},{"distance":1590,"is_transit":true,"transit":true,"time":4,"i_long":106.84912,"line":2,"station_name":"Manggarai","station_id":"MRI","i_lat":-6.209883},{"time":4,"distance":3186,"station_name":"Sudirman","station_id":"SUD","i_lat":-6.202263,"i_long":106.822649,"line":1,"transit":false,"is_transit":false},{"distance":280,"line":1,"station_id":"SUDB","time":1,"i_long":106.819881,"is_transit":false,"station_name":"Sudirman Baru","transit":false,"i_lat":-6.201433}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215091,
+        "i_long": 106.86807400000001,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "JNG",
+        "station_name": "Jatinegara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1377,
+        "i_lat": -6.212485,
+        "i_long": 106.858896,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "MTR",
+        "station_name": "Matraman",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1275,
+        "i_lat": -6.209883,
+        "i_long": 106.84912,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "MRI",
+        "station_name": "Manggarai",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 3186,
+        "i_lat": -6.202263,
+        "i_long": 106.822649,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUD",
+        "station_name": "Sudirman",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 280,
+        "i_lat": -6.201433,
+        "i_long": 106.819881,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUDB",
+        "station_name": "Sudirman Baru",
+        "time": 1,
+        "transit": false
+      }
+    ],
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215091,
+        "i_long": 106.86807400000001,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "JNG",
+        "station_name": "Jatinegara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1236,
+        "i_lat": -6.209188,
+        "i_long": 106.861737,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "POK",
+        "station_name": "Pondok Jati",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1829,
+        "i_lat": -6.193792,
+        "i_long": 106.855437,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "KMT",
+        "station_name": "Kramat",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 973,
+        "i_lat": -6.185975,
+        "i_long": 106.850107,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "GST",
+        "station_name": "Gang Sentiong",
+        "time": 1,
+        "transit": false
+      },
+      {
+        "distance": 1567,
+        "i_lat": -6.174784,
+        "i_long": 106.84368,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "PSE",
+        "station_name": "Pasar Senen",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 1436,
+        "i_lat": -6.161728,
+        "i_long": 106.839204,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "KMO",
+        "station_name": "Kemayoran",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1901,
+        "i_lat": -6.14505,
+        "i_long": 106.836569,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "RJW",
+        "station_name": "Rajawali",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 1444,
+        "i_lat": -6.132549,
+        "i_long": 106.826365,
+        "is_transit": true,
+        "line": 4,
+        "station_id": "KPB",
+        "station_name": "Kampung Bandan",
+        "time": 3,
+        "transit": true
+      },
+      {
+        "distance": 4102,
+        "i_lat": -6.144674,
+        "i_long": 106.79867,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "AK",
+        "station_name": "Angke",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 1230,
+        "i_lat": -6.155215,
+        "i_long": 106.800832,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "DU",
+        "station_name": "Duri",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 3632,
+        "i_lat": -6.185545,
+        "i_long": 106.811091,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "THB",
+        "station_name": "Tanah Abang",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 2029,
+        "i_lat": -6.20132,
+        "i_long": 106.816351,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KAT",
+        "station_name": "Karet",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 471,
+        "i_lat": -6.201433,
+        "i_long": 106.819881,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUDB",
+        "station_name": "Sudirman Baru",
+        "time": 1,
+        "transit": false
+      }
+    ],
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215091,
+        "i_long": 106.86807400000001,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "JNG",
+        "station_name": "Jatinegara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1377,
+        "i_lat": -6.212485,
+        "i_long": 106.858896,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "MTR",
+        "station_name": "Matraman",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1275,
+        "i_lat": -6.209883,
+        "i_long": 106.84912,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "MRI",
+        "station_name": "Manggarai",
+        "time": 2,
+        "transit": true
+      },
+      {
+        "distance": 1590,
+        "i_lat": -6.198556,
+        "i_long": 106.840169,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CKI",
+        "station_name": "Cikini",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1750,
+        "i_lat": -6.186295,
+        "i_long": 106.832183,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "GDD",
+        "station_name": "Gondangdia",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2015,
+        "i_lat": -6.166716,
+        "i_long": 106.828284,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "JUA",
+        "station_name": "Juanda",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1149,
+        "i_lat": -6.160725,
+        "i_long": 106.827103,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "SW",
+        "station_name": "Sawah Besar",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 906,
+        "i_lat": -6.149769,
+        "i_long": 106.82482,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "MGB",
+        "station_name": "Manggabesar",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1080,
+        "i_lat": -6.141205,
+        "i_long": 106.820901,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "JAY",
+        "station_name": "Jayakarta",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1264,
+        "i_lat": -6.137569,
+        "i_long": 106.812439,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "JAKK",
+        "station_name": "Jakarta Kota",
+        "time": 4,
+        "transit": true
+      },
+      {
+        "distance": 1364,
+        "i_lat": -6.132549,
+        "i_long": 106.826365,
+        "is_transit": true,
+        "line": 4,
+        "station_id": "KPB",
+        "station_name": "Kampung Bandan",
+        "time": 3,
+        "transit": true
+      },
+      {
+        "distance": 4102,
+        "i_lat": -6.144674,
+        "i_long": 106.79867,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "AK",
+        "station_name": "Angke",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 1230,
+        "i_lat": -6.155215,
+        "i_long": 106.800832,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "DU",
+        "station_name": "Duri",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 3632,
+        "i_lat": -6.185545,
+        "i_long": 106.811091,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "THB",
+        "station_name": "Tanah Abang",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 2029,
+        "i_lat": -6.20132,
+        "i_long": 106.816351,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KAT",
+        "station_name": "Karet",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 471,
+        "i_lat": -6.201433,
+        "i_long": 106.819881,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUDB",
+        "station_name": "Sudirman Baru",
+        "time": 1,
+        "transit": false
+      }
+    ],
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215091,
+        "i_long": 106.86807400000001,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "JNG",
+        "station_name": "Jatinegara",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1236,
+        "i_lat": -6.209188,
+        "i_long": 106.861737,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "POK",
+        "station_name": "Pondok Jati",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1829,
+        "i_lat": -6.193792,
+        "i_long": 106.855437,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "KMT",
+        "station_name": "Kramat",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 973,
+        "i_lat": -6.185975,
+        "i_long": 106.850107,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "GST",
+        "station_name": "Gang Sentiong",
+        "time": 1,
+        "transit": false
+      },
+      {
+        "distance": 1567,
+        "i_lat": -6.174784,
+        "i_long": 106.84368,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "PSE",
+        "station_name": "Pasar Senen",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 1436,
+        "i_lat": -6.161728,
+        "i_long": 106.839204,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "KMO",
+        "station_name": "Kemayoran",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1901,
+        "i_lat": -6.14505,
+        "i_long": 106.836569,
+        "is_transit": false,
+        "line": 11,
+        "station_id": "RJW",
+        "station_name": "Rajawali",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 1444,
+        "i_lat": -6.132549,
+        "i_long": 106.826365,
+        "is_transit": true,
+        "line": 4,
+        "station_id": "KPB",
+        "station_name": "Kampung Bandan",
+        "time": 3,
+        "transit": true
+      },
+      {
+        "distance": 1364,
+        "i_lat": -6.137569,
+        "i_long": 106.812439,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "JAKK",
+        "station_name": "Jakarta Kota",
+        "time": 3,
+        "transit": true
+      },
+      {
+        "distance": 1264,
+        "i_lat": -6.141205,
+        "i_long": 106.820901,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "JAY",
+        "station_name": "Jayakarta",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1080,
+        "i_lat": -6.149769,
+        "i_long": 106.82482,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "MGB",
+        "station_name": "Manggabesar",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 906,
+        "i_lat": -6.160725,
+        "i_long": 106.827103,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "SW",
+        "station_name": "Sawah Besar",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1149,
+        "i_lat": -6.166716,
+        "i_long": 106.828284,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "JUA",
+        "station_name": "Juanda",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2015,
+        "i_lat": -6.186295,
+        "i_long": 106.832183,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "GDD",
+        "station_name": "Gondangdia",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1750,
+        "i_lat": -6.198556,
+        "i_long": 106.840169,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CKI",
+        "station_name": "Cikini",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1590,
+        "i_lat": -6.209883,
+        "i_long": 106.84912,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "MRI",
+        "station_name": "Manggarai",
+        "time": 4,
+        "transit": true
+      },
+      {
+        "distance": 3186,
+        "i_lat": -6.202263,
+        "i_long": 106.822649,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUD",
+        "station_name": "Sudirman",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 280,
+        "i_lat": -6.201433,
+        "i_long": 106.819881,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "SUDB",
+        "station_name": "Sudirman Baru",
+        "time": 1,
+        "transit": false
+      }
+    ]
+  ]
+}

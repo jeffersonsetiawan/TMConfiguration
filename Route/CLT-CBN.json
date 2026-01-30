@@ -1,1 +1,61 @@
-{"data":[[{"i_lat":-6.530544,"time":0,"station_name":"Cilebut","station_id":"CLT","distance":0,"is_transit":false,"transit":false,"i_long":106.800016,"line":2},{"i_lat":-6.493243,"distance":4331,"time":5,"is_transit":false,"transit":false,"station_id":"BJD","i_long":106.792719,"line":2,"station_name":"Bojonggede"},{"time":5,"station_name":"Citayam","i_long":106.800298,"is_transit":true,"transit":true,"line":2,"distance":5197,"i_lat":-6.448811,"station_id":"CTA"},{"distance":0,"time":0,"station_id":"PDRG","i_long":106.824374,"station_name":"Pondok Rajeg","i_lat":-6.460735,"transit":false,"line":21,"is_transit":false},{"station_id":"CBN","station_name":"Cibinong","transit":false,"time":0,"distance":0,"i_lat":-6.46424,"i_long":106.851978,"line":21,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 5,
+        "transit": true
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      }
+    ]
+  ]
+}
