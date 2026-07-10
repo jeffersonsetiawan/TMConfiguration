@@ -1,1 +1,28 @@
-{"data":[[{"line":5,"i_long":106.723064,"station_name":"Rawa Buaya","time":0,"is_transit":false,"distance":0,"station_id":"RW","transit":false,"i_lat":-6.162758},{"station_name":"Kalideres","is_transit":false,"distance":2504,"station_id":"KDS","i_lat":-6.166068,"i_long":106.701612,"time":3,"transit":false,"line":5}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.162758,
+        "i_long": 106.723064,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "RW",
+        "station_name": "Rawa Buaya",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2504,
+        "i_lat": -6.166068,
+        "i_long": 106.701612,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "KDS",
+        "station_name": "Kalideres",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

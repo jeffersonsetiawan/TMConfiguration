@@ -1,1 +1,28 @@
-{"data":[[{"time":0,"station_id":"BOI","station_name":"Bojongindah","i_lat":-6.159876,"transit":false,"is_transit":false,"line":5,"distance":0,"i_long":106.737035},{"distance":1152,"station_id":"RW","station_name":"Rawa Buaya","transit":false,"i_lat":-6.162758,"time":4,"is_transit":false,"line":5,"i_long":106.723064}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1152,
+        "i_lat": -6.162758,
+        "i_long": 106.723064,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "RW",
+        "station_name": "Rawa Buaya",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

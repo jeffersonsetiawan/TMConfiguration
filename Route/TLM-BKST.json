@@ -1,1 +1,50 @@
-{"data":[[{"distance":0,"line":1,"is_transit":false,"station_name":"Metland Telaga Murni","station_id":"TLM","i_lat":-6.262938,"transit":false,"i_long":107.093313,"time":0},{"line":1,"transit":false,"i_lat":-6.261877,"time":2,"is_transit":false,"station_name":"Cibitung","distance":2800,"station_id":"CIT","i_long":107.083084},{"is_transit":false,"time":3,"i_lat":-6.258864,"line":1,"distance":3420,"transit":false,"station_name":"Tambun","station_id":"TB","i_long":107.055722},{"i_lat":-6.248029,"line":1,"station_name":"Bekasi Timur","transit":false,"station_id":"BKST","i_long":107.016735,"distance":4460,"is_transit":false,"time":7}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2800,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 3420,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,83 @@
-{"data":[[{"station_id":"DRN","is_transit":false,"station_name":"Duren Kalibata","time":0,"distance":0,"transit":false,"i_long":106.85449,"line":2,"i_lat":-6.255332},{"i_lat":-6.263214,"i_long":106.851577,"station_name":"Pasar Minggu Baru","station_id":"PSMB","line":2,"is_transit":false,"distance":824,"time":2,"transit":false},{"i_long":106.843999,"i_lat":-6.2842400000000005,"station_id":"PSM","station_name":"Pasar Minggu","is_transit":false,"transit":false,"line":2,"time":2,"distance":2380},{"is_transit":false,"transit":false,"station_name":"Tanjung Barat","time":4,"distance":2820,"station_id":"TNT","i_lat":-6.3080680000000005,"i_long":106.838896,"line":2},{"line":2,"is_transit":false,"transit":false,"i_long":106.832616,"station_name":"Lenteng Agung","time":3,"distance":2671,"i_lat":-6.330363,"station_id":"LNA"},{"station_name":"Univ. Pancasila","transit":false,"i_long":106.834175,"i_lat":-6.339291,"is_transit":false,"distance":1029,"time":2,"station_id":"UP","line":2},{"distance":2264,"station_name":"Univ. Indonesia","transit":false,"line":2,"time":3,"i_lat":-6.360749,"station_id":"UI","is_transit":false,"i_long":106.831474}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 824,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2820,
+        "i_lat": -6.3080680000000005,
+        "i_long": 106.838896,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TNT",
+        "station_name": "Tanjung Barat",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2671,
+        "i_lat": -6.330363,
+        "i_long": 106.832616,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "LNA",
+        "station_name": "Lenteng Agung",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1029,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2264,
+        "i_lat": -6.360749,
+        "i_long": 106.831474,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UI",
+        "station_name": "Univ. Indonesia",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,61 @@
-{"data":[[{"station_id":"RK","transit":false,"station_name":"Rangkasbitung","is_transit":false,"distance":0,"i_lat":-6.352675,"line":3,"i_long":106.250396,"time":0},{"i_lat":-6.334892,"time":13,"distance":9847,"station_id":"CTR","line":3,"station_name":"Citeras","transit":false,"i_long":106.332092,"is_transit":false},{"time":10,"station_id":"MJ","distance":7293,"i_lat":-6.332307,"transit":false,"line":6,"i_long":106.394373,"station_name":"Maja","is_transit":false},{"time":4,"station_id":"CKY","station_name":"Cikoya","is_transit":false,"i_lat":-6.33561,"line":3,"transit":false,"distance":1853,"i_long":106.411216},{"transit":false,"station_name":"Tigaraksa","is_transit":false,"station_id":"TGS","i_long":106.425991,"time":3,"line":6,"distance":2651,"i_lat":-6.328533}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.352675,
+        "i_long": 106.250396,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "RK",
+        "station_name": "Rangkasbitung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 9847,
+        "i_lat": -6.334892,
+        "i_long": 106.332092,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CTR",
+        "station_name": "Citeras",
+        "time": 13,
+        "transit": false
+      },
+      {
+        "distance": 7293,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 1853,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

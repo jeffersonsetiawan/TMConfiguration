@@ -1,1 +1,50 @@
-{"data":[[{"distance":0,"transit":false,"station_name":"Tanah Abang","i_lat":-6.185545,"time":0,"station_id":"THB","is_transit":false,"i_long":106.811091,"line":1},{"line":6,"time":6,"distance":3191,"station_id":"PLM","is_transit":false,"station_name":"Palmerah","i_lat":-6.207404,"i_long":106.79689,"transit":false},{"i_long":106.780334,"distance":3737,"time":7,"station_name":"Kebayoran","i_lat":-6.237242,"station_id":"KBY","line":6,"is_transit":false,"transit":false},{"is_transit":false,"station_id":"PDJ","i_lat":-6.276362,"time":8,"i_long":106.74273,"station_name":"Pondokranji","distance":6218,"line":6,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.185545,
+        "i_long": 106.811091,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "THB",
+        "station_name": "Tanah Abang",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3191,
+        "i_lat": -6.207404,
+        "i_long": 106.79689,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PLM",
+        "station_name": "Palmerah",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3737,
+        "i_lat": -6.237242,
+        "i_long": 106.780334,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "KBY",
+        "station_name": "Kebayoran",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 6218,
+        "i_lat": -6.276362,
+        "i_long": 106.74273,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PDJ",
+        "station_name": "Pondokranji",
+        "time": 8,
+        "transit": false
+      }
+    ]
+  ]
+}

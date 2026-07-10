@@ -1,1 +1,39 @@
-{"data":[[{"time":0,"i_long":106.723064,"transit":false,"line":5,"is_transit":false,"distance":0,"station_name":"Rawa Buaya","i_lat":-6.162758,"station_id":"RW"},{"line":5,"is_transit":false,"i_long":106.737035,"station_name":"Bojongindah","transit":false,"distance":1152,"time":4,"i_lat":-6.159876,"station_id":"BOI"},{"line":5,"is_transit":false,"transit":false,"time":2,"station_id":"TKO","station_name":"Taman Kota","i_long":106.756522,"distance":2334,"i_lat":-6.1587309999999995}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.162758,
+        "i_long": 106.723064,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "RW",
+        "station_name": "Rawa Buaya",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1152,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2334,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

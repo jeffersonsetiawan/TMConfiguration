@@ -1,1 +1,94 @@
-{"data":[[{"is_transit":false,"distance":0,"i_lat":-6.330363,"i_long":106.832616,"line":2,"station_id":"LNA","transit":false,"station_name":"Lenteng Agung","time":0},{"station_name":"Tanjung Barat","station_id":"TNT","is_transit":false,"time":3,"i_long":106.838896,"transit":false,"distance":2671,"line":2,"i_lat":-6.3080680000000005},{"is_transit":false,"station_id":"PSM","station_name":"Pasar Minggu","time":4,"line":2,"i_lat":-6.2842400000000005,"i_long":106.843999,"transit":false,"distance":2820},{"time":2,"line":2,"is_transit":false,"distance":2380,"transit":false,"station_name":"Pasar Minggu Baru","station_id":"PSMB","i_long":106.851577,"i_lat":-6.263214},{"is_transit":false,"station_name":"Duren Kalibata","transit":false,"distance":824,"i_lat":-6.255332,"station_id":"DRN","line":2,"time":2,"i_long":106.85449},{"i_long":106.856607,"is_transit":false,"time":3,"i_lat":-6.242512,"station_name":"Cawang","distance":1546,"transit":false,"line":2,"station_id":"CW"},{"i_lat":-6.226659,"i_long":106.857948,"station_name":"Tebet","distance":1230,"is_transit":false,"time":2,"line":2,"transit":false,"station_id":"TEB"},{"line":2,"station_id":"MRI","station_name":"Manggarai","transit":false,"is_transit":false,"time":4,"distance":2610,"i_lat":-6.209883,"i_long":106.84912}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.330363,
+        "i_long": 106.832616,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "LNA",
+        "station_name": "Lenteng Agung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2671,
+        "i_lat": -6.3080680000000005,
+        "i_long": 106.838896,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TNT",
+        "station_name": "Tanjung Barat",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2820,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 824,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1546,
+        "i_lat": -6.242512,
+        "i_long": 106.856607,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CW",
+        "station_name": "Cawang",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1230,
+        "i_lat": -6.226659,
+        "i_long": 106.857948,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TEB",
+        "station_name": "Tebet",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2610,
+        "i_lat": -6.209883,
+        "i_long": 106.84912,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "MRI",
+        "station_name": "Manggarai",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

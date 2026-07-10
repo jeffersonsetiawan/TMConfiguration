@@ -1,1 +1,39 @@
-{"data":[[{"time":0,"i_long":110.744432,"station_id":"GW","line":7,"transit":false,"is_transit":false,"station_name":"Gawok","i_lat":-7.589036,"distance":0},{"distance":5543,"i_lat":-7.62181,"transit":false,"is_transit":false,"station_id":"DL","i_long":110.706679,"time":6,"station_name":"Delanggu","line":7},{"time":7,"station_id":"CE","i_long":110.674861,"line":7,"i_lat":-7.668597,"station_name":"Ceper","distance":6271,"is_transit":false,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

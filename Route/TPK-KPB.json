@@ -1,1 +1,39 @@
-{"data":[[{"station_id":"TPK","is_transit":false,"station_name":"Tanjung Priuk","i_long":106.880089,"i_lat":-6.1109480000000005,"time":0,"transit":false,"distance":0,"line":4},{"distance":4566,"i_lat":-6.128023,"station_name":"Ancol","is_transit":false,"station_id":"AC","time":9,"transit":false,"i_long":106.84464,"line":4},{"i_long":106.826365,"station_id":"KPB","i_lat":-6.132549,"transit":false,"station_name":"Kampung Bandan","is_transit":false,"time":4,"line":4,"distance":2185}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.1109480000000005,
+        "i_long": 106.880089,
+        "is_transit": false,
+        "line": 4,
+        "station_id": "TPK",
+        "station_name": "Tanjung Priuk",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4566,
+        "i_lat": -6.128023,
+        "i_long": 106.84464,
+        "is_transit": false,
+        "line": 4,
+        "station_id": "AC",
+        "station_name": "Ancol",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 2185,
+        "i_lat": -6.132549,
+        "i_long": 106.826365,
+        "is_transit": false,
+        "line": 4,
+        "station_id": "KPB",
+        "station_name": "Kampung Bandan",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

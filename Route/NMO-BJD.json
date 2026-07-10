@@ -1,1 +1,61 @@
-{"data":[[{"transit":false,"time":0,"is_transit":false,"i_long":106.905196,"station_name":"Nambo","i_lat":-6.466285,"station_id":"NMO","line":21,"distance":0},{"is_transit":false,"line":21,"distance":6527,"time":10,"station_id":"CBN","i_lat":-6.46424,"i_long":106.851978,"transit":false,"station_name":"Cibinong"},{"time":0,"station_id":"PDRG","station_name":"Pondok Rajeg","transit":false,"i_long":106.824374,"is_transit":false,"i_lat":-6.460735,"distance":0,"line":21},{"transit":true,"i_lat":-6.448811,"is_transit":true,"i_long":106.800298,"station_name":"Citayam","time":0,"station_id":"CTA","distance":0,"line":2},{"i_long":106.792719,"station_id":"BJD","line":2,"station_name":"Bojonggede","distance":5197,"time":5,"is_transit":false,"transit":false,"i_lat":-6.493243}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.466285,
+        "i_long": 106.905196,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "NMO",
+        "station_name": "Nambo",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6527,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

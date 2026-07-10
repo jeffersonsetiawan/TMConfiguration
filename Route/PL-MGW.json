@@ -1,1 +1,127 @@
-{"data":[[{"line":0,"time":0,"distance":0,"is_transit":false,"station_id":"PL","i_lat":-7.567939,"i_long":110.875516,"station_name":"Palur","transit":false},{"is_transit":false,"i_lat":-7.56197,"station_id":"SK","line":7,"distance":415,"time":6,"station_name":"Solo Jebres","i_long":110.839459,"transit":false},{"time":10,"is_transit":false,"station_name":"Solo Balapan","station_id":"SLO","i_lat":-7.556783,"line":7,"transit":false,"distance":2141,"i_long":110.821471},{"station_id":"PWS","distance":2936,"time":6,"line":7,"is_transit":false,"station_name":"Purwosari","i_long":110.796655,"transit":false,"i_lat":-7.561362},{"transit":false,"distance":6639,"is_transit":false,"station_name":"Gawok","station_id":"GW","line":7,"i_lat":-7.589036,"i_long":110.744432,"time":7},{"i_lat":-7.62181,"station_name":"Delanggu","transit":false,"i_long":110.706679,"line":7,"time":6,"distance":5543,"station_id":"DL","is_transit":false},{"line":7,"i_lat":-7.668597,"transit":false,"distance":6271,"station_id":"CE","is_transit":false,"i_long":110.674861,"station_name":"Ceper","time":7},{"line":7,"time":9,"station_name":"Klaten","i_lat":-7.712087,"station_id":"KT","transit":false,"i_long":110.602981,"is_transit":false,"distance":9279},{"i_long":110.548972,"i_lat":-7.74111,"time":8,"station_id":"SWT","line":7,"is_transit":false,"transit":false,"station_name":"Srowot","distance":6738},{"is_transit":false,"station_name":"Brambanan","i_long":110.500451,"i_lat":-7.756284,"distance":5850,"transit":false,"station_id":"BBN","time":7,"line":0},{"transit":false,"i_lat":-7.784476,"station_name":"Maguwo","line":7,"is_transit":false,"distance":7905,"station_id":"MGW","time":8,"i_long":110.436791}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.567939,
+        "i_long": 110.875516,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "PL",
+        "station_name": "Palur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 415,
+        "i_lat": -7.56197,
+        "i_long": 110.839459,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SK",
+        "station_name": "Solo Jebres",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 2141,
+        "i_lat": -7.556783,
+        "i_long": 110.821471,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SLO",
+        "station_name": "Solo Balapan",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 2936,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6639,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 9279,
+        "i_lat": -7.712087,
+        "i_long": 110.602981,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "KT",
+        "station_name": "Klaten",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 6738,
+        "i_lat": -7.74111,
+        "i_long": 110.548972,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SWT",
+        "station_name": "Srowot",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 5850,
+        "i_lat": -7.756284,
+        "i_long": 110.500451,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "BBN",
+        "station_name": "Brambanan",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 7905,
+        "i_lat": -7.784476,
+        "i_long": 110.436791,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "MGW",
+        "station_name": "Maguwo",
+        "time": 8,
+        "transit": false
+      }
+    ]
+  ]
+}

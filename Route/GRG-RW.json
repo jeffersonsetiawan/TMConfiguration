@@ -1,1 +1,61 @@
-{"data":[[{"is_transit":false,"transit":false,"time":0,"station_id":"GRG","station_name":"Grogol","distance":0,"i_lat":-6.162021,"i_long":106.788277,"line":5},{"station_name":"Pesing","distance":2036,"transit":false,"time":2,"is_transit":false,"i_lat":-6.161433,"station_id":"PSG","i_long":106.771379,"line":5},{"station_id":"TKO","i_lat":-6.1587309999999995,"distance":1614,"time":2,"line":5,"station_name":"Taman Kota","transit":false,"i_long":106.756522,"is_transit":false},{"distance":2334,"is_transit":false,"i_long":106.737035,"time":2,"transit":false,"i_lat":-6.159876,"line":5,"station_name":"Bojongindah","station_id":"BOI"},{"line":5,"i_long":106.723064,"i_lat":-6.162758,"distance":1152,"is_transit":false,"transit":false,"station_name":"Rawa Buaya","station_id":"RW","time":4}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.162021,
+        "i_long": 106.788277,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "GRG",
+        "station_name": "Grogol",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2036,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1614,
+        "i_lat": -6.1587309999999995,
+        "i_long": 106.756522,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "TKO",
+        "station_name": "Taman Kota",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2334,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1152,
+        "i_lat": -6.162758,
+        "i_long": 106.723064,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "RW",
+        "station_name": "Rawa Buaya",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

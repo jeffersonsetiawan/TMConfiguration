@@ -1,1 +1,28 @@
-{"data":[[{"time":0,"station_name":"Ceper","distance":0,"station_id":"CE","line":7,"i_lat":-7.668597,"transit":false,"is_transit":false,"i_long":110.674861},{"time":7,"i_lat":-7.62181,"i_long":110.706679,"distance":6271,"station_id":"DL","line":7,"is_transit":false,"transit":false,"station_name":"Delanggu"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

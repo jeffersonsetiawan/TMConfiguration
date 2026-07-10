@@ -1,1 +1,28 @@
-{"data":[[{"i_lat":-6.215568,"distance":0,"line":1,"station_name":"Buaran","station_id":"BUA","i_long":106.922662,"time":0,"transit":false,"is_transit":false},{"i_lat":-6.217455,"station_name":"Klenderbaru","transit":false,"station_id":"KLDB","distance":1305,"is_transit":false,"time":1,"i_long":106.939679,"line":1}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.215568,
+        "i_long": 106.922662,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BUA",
+        "station_name": "Buaran",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1305,
+        "i_lat": -6.217455,
+        "i_long": 106.939679,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLDB",
+        "station_name": "Klenderbaru",
+        "time": 1,
+        "transit": false
+      }
+    ]
+  ]
+}

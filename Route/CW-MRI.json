@@ -1,1 +1,39 @@
-{"data":[[{"time":0,"station_name":"Cawang","distance":0,"i_lat":-6.242512,"is_transit":false,"line":2,"i_long":106.856607,"station_id":"CW","transit":false},{"i_long":106.857948,"i_lat":-6.226659,"station_name":"Tebet","distance":1230,"time":2,"is_transit":false,"line":2,"transit":false,"station_id":"TEB"},{"is_transit":false,"distance":2610,"transit":false,"i_lat":-6.209883,"station_id":"MRI","line":2,"i_long":106.84912,"time":4,"station_name":"Manggarai"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.242512,
+        "i_long": 106.856607,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CW",
+        "station_name": "Cawang",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1230,
+        "i_lat": -6.226659,
+        "i_long": 106.857948,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TEB",
+        "station_name": "Tebet",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2610,
+        "i_lat": -6.209883,
+        "i_long": 106.84912,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "MRI",
+        "station_name": "Manggarai",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

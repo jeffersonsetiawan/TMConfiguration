@@ -1,1 +1,83 @@
-{"data":[[{"i_long":107.144613,"station_name":"Cikarang","line":1,"i_lat":-6.2553149999999995,"distance":0,"time":0,"station_id":"CKR","transit":false,"is_transit":false},{"transit":false,"distance":3689,"station_id":"TLM","i_lat":-6.262938,"i_long":107.093313,"station_name":"Metland Telaga Murni","line":1,"is_transit":false,"time":4},{"distance":2800,"station_name":"Cibitung","i_long":107.083084,"transit":false,"time":2,"is_transit":false,"line":1,"station_id":"CIT","i_lat":-6.261877},{"station_name":"Tambun","i_long":107.055722,"time":3,"is_transit":false,"station_id":"TB","distance":3420,"line":1,"transit":false,"i_lat":-6.258864},{"i_lat":-6.248029,"i_long":107.016735,"station_id":"BKST","line":1,"time":7,"is_transit":false,"distance":4460,"station_name":"Bekasi Timur","transit":false},{"station_name":"Bekasi","station_id":"BKS","i_lat":-6.236616,"is_transit":false,"transit":false,"i_long":106.997013,"line":1,"time":2,"distance":2368},{"transit":false,"station_name":"Kranji","station_id":"KRI","i_lat":-6.224515,"line":1,"time":4,"distance":2520,"i_long":106.977657,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.2553149999999995,
+        "i_long": 107.144613,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CKR",
+        "station_name": "Cikarang",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3689,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2800,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 3420,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

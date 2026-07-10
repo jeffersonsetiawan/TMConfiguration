@@ -1,1 +1,83 @@
-{"data":[[{"line":6,"station_name":"Pondokranji","transit":false,"time":0,"distance":0,"station_id":"PDJ","i_lat":-6.276362,"is_transit":false,"i_long":106.74273},{"transit":false,"i_long":106.728916,"time":3,"station_name":"Jurangmangu","i_lat":-6.288927,"line":6,"distance":2179,"station_id":"JMU","is_transit":false},{"distance":1994,"i_lat":-6.296963,"is_transit":false,"i_long":106.712277,"time":4,"station_id":"SDM","line":6,"station_name":"Sudimara","transit":false},{"i_long":106.675475,"line":6,"distance":4566,"transit":false,"time":6,"station_id":"RU","is_transit":false,"station_name":"Rawa Buntu","i_lat":-6.314823},{"time":4,"i_lat":-6.319871,"station_id":"SRP","transit":false,"is_transit":false,"station_name":"Serpong","line":6,"distance":2413,"i_long":106.66566},{"station_name":"Cisauk","is_transit":false,"distance":1784,"station_id":"CSK","time":4,"i_lat":-6.32484,"line":3,"i_long":106.640411,"transit":false},{"station_id":"CC","transit":false,"distance":2519,"is_transit":false,"station_name":"Cicayur","time":4,"i_lat":-6.329547,"i_long":106.617853,"line":3}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.276362,
+        "i_long": 106.74273,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PDJ",
+        "station_name": "Pondokranji",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2179,
+        "i_lat": -6.288927,
+        "i_long": 106.728916,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "JMU",
+        "station_name": "Jurangmangu",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1994,
+        "i_lat": -6.296963,
+        "i_long": 106.712277,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "SDM",
+        "station_name": "Sudimara",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 4566,
+        "i_lat": -6.314823,
+        "i_long": 106.675475,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "RU",
+        "station_name": "Rawa Buntu",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 2413,
+        "i_lat": -6.319871,
+        "i_long": 106.66566,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "SRP",
+        "station_name": "Serpong",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1784,
+        "i_lat": -6.32484,
+        "i_long": 106.640411,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CSK",
+        "station_name": "Cisauk",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2519,
+        "i_lat": -6.329547,
+        "i_long": 106.617853,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CC",
+        "station_name": "Cicayur",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

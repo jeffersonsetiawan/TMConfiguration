@@ -1,1 +1,28 @@
-{"data":[[{"distance":0,"is_transit":false,"transit":false,"line":1,"i_long":107.093313,"time":0,"i_lat":-6.262938,"station_id":"TLM","station_name":"Metland Telaga Murni"},{"is_transit":false,"distance":3689,"line":1,"station_id":"CKR","i_lat":-6.2553149999999995,"i_long":107.144613,"transit":false,"station_name":"Cikarang","time":4}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3689,
+        "i_lat": -6.2553149999999995,
+        "i_long": 107.144613,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CKR",
+        "station_name": "Cikarang",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

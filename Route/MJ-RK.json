@@ -1,1 +1,39 @@
-{"data":[[{"time":0,"distance":0,"i_lat":-6.332307,"i_long":106.394373,"station_id":"MJ","is_transit":false,"transit":false,"line":6,"station_name":"Maja"},{"i_long":106.332092,"line":3,"distance":7293,"transit":false,"station_id":"CTR","i_lat":-6.334892,"time":10,"station_name":"Citeras","is_transit":false},{"time":13,"i_lat":-6.352675,"line":3,"is_transit":false,"transit":false,"station_name":"Rangkasbitung","distance":9847,"i_long":106.250396,"station_id":"RK"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.332307,
+        "i_long": 106.394373,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "MJ",
+        "station_name": "Maja",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7293,
+        "i_lat": -6.334892,
+        "i_long": 106.332092,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CTR",
+        "station_name": "Citeras",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 9847,
+        "i_lat": -6.352675,
+        "i_long": 106.250396,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "RK",
+        "station_name": "Rangkasbitung",
+        "time": 13,
+        "transit": false
+      }
+    ]
+  ]
+}

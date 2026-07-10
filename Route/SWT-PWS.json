@@ -1,1 +1,72 @@
-{"data":[[{"is_transit":false,"i_lat":-7.74111,"line":7,"station_name":"Srowot","station_id":"SWT","transit":false,"i_long":110.548972,"distance":0,"time":0},{"transit":false,"time":8,"is_transit":false,"station_id":"KT","i_lat":-7.712087,"distance":6738,"line":7,"station_name":"Klaten","i_long":110.602981},{"line":7,"distance":9279,"time":9,"station_id":"CE","i_lat":-7.668597,"i_long":110.674861,"is_transit":false,"station_name":"Ceper","transit":false},{"station_name":"Delanggu","i_long":110.706679,"distance":6271,"i_lat":-7.62181,"is_transit":false,"station_id":"DL","transit":false,"line":7,"time":7},{"i_long":110.744432,"station_id":"GW","is_transit":false,"station_name":"Gawok","distance":5543,"i_lat":-7.589036,"line":7,"time":6,"transit":false},{"distance":6639,"station_id":"PWS","is_transit":false,"i_lat":-7.561362,"line":7,"transit":false,"station_name":"Purwosari","i_long":110.796655,"time":7}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.74111,
+        "i_long": 110.548972,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SWT",
+        "station_name": "Srowot",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6738,
+        "i_lat": -7.712087,
+        "i_long": 110.602981,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "KT",
+        "station_name": "Klaten",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 9279,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6639,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

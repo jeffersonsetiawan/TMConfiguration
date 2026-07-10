@@ -1,1 +1,72 @@
-{"data":[[{"station_name":"Cibinong","distance":0,"station_id":"CBN","i_lat":-6.46424,"i_long":106.851978,"transit":false,"time":0,"is_transit":false,"line":21},{"line":21,"distance":0,"transit":false,"station_id":"PDRG","station_name":"Pondok Rajeg","is_transit":false,"i_lat":-6.460735,"i_long":106.824374,"time":0},{"i_long":106.800298,"transit":true,"distance":0,"station_id":"CTA","i_lat":-6.448811,"line":2,"station_name":"Citayam","is_transit":true,"time":0},{"time":6,"distance":5084,"station_name":"Depok","transit":false,"is_transit":false,"line":2,"i_lat":-6.405256,"station_id":"DP","i_long":106.816926},{"station_name":"Depokbaru","is_transit":false,"i_long":106.819451,"station_id":"DPB","transit":false,"i_lat":-6.391065,"time":3,"distance":1584,"line":2},{"i_lat":-6.369073,"i_long":106.831114,"is_transit":false,"line":2,"station_name":"Pondok Cina","distance":2727,"transit":false,"station_id":"POC","time":4}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

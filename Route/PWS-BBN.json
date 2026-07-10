@@ -1,1 +1,83 @@
-{"data":[[{"station_name":"Purwosari","transit":false,"distance":0,"i_lat":-7.561362,"time":0,"line":7,"station_id":"PWS","is_transit":false,"i_long":110.796655},{"station_name":"Gawok","transit":false,"is_transit":false,"i_long":110.744432,"line":7,"time":7,"distance":6639,"station_id":"GW","i_lat":-7.589036},{"i_long":110.706679,"i_lat":-7.62181,"distance":5543,"time":6,"is_transit":false,"station_id":"DL","station_name":"Delanggu","transit":false,"line":7},{"time":7,"station_name":"Ceper","station_id":"CE","distance":6271,"is_transit":false,"transit":false,"line":7,"i_lat":-7.668597,"i_long":110.674861},{"transit":false,"station_name":"Klaten","time":9,"is_transit":false,"i_long":110.602981,"line":7,"distance":9279,"i_lat":-7.712087,"station_id":"KT"},{"is_transit":false,"station_id":"SWT","i_lat":-7.74111,"station_name":"Srowot","time":8,"line":7,"i_long":110.548972,"transit":false,"distance":6738},{"distance":5850,"station_id":"BBN","is_transit":false,"transit":false,"i_lat":-7.756284,"i_long":110.500451,"station_name":"Brambanan","time":7,"line":0}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6639,
+        "i_lat": -7.589036,
+        "i_long": 110.744432,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "GW",
+        "station_name": "Gawok",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 5543,
+        "i_lat": -7.62181,
+        "i_long": 110.706679,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "DL",
+        "station_name": "Delanggu",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 6271,
+        "i_lat": -7.668597,
+        "i_long": 110.674861,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "CE",
+        "station_name": "Ceper",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 9279,
+        "i_lat": -7.712087,
+        "i_long": 110.602981,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "KT",
+        "station_name": "Klaten",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 6738,
+        "i_lat": -7.74111,
+        "i_long": 110.548972,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SWT",
+        "station_name": "Srowot",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 5850,
+        "i_lat": -7.756284,
+        "i_long": 110.500451,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "BBN",
+        "station_name": "Brambanan",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,28 @@
-{"data":[[{"i_long":106.880089,"time":0,"i_lat":-6.1109480000000005,"is_transit":false,"station_name":"Tanjung Priuk","transit":false,"line":4,"station_id":"TPK","distance":0},{"line":4,"i_lat":-6.128023,"is_transit":false,"distance":4566,"station_name":"Ancol","transit":false,"time":9,"station_id":"AC","i_long":106.84464}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.1109480000000005,
+        "i_long": 106.880089,
+        "is_transit": false,
+        "line": 4,
+        "station_id": "TPK",
+        "station_name": "Tanjung Priuk",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 4566,
+        "i_lat": -6.128023,
+        "i_long": 106.84464,
+        "is_transit": false,
+        "line": 4,
+        "station_id": "AC",
+        "station_name": "Ancol",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

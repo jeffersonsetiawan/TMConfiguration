@@ -1,1 +1,83 @@
-{"data":[[{"line":0,"is_transit":false,"station_name":"Jenar","transit":false,"distance":0,"i_lat":-7.801845,"time":0,"station_id":"JN","i_long":110.000548},{"distance":8393,"line":7,"time":10,"transit":false,"station_name":"Wojo","i_lat":-7.861626,"is_transit":false,"station_id":"WJ","i_long":110.040449},{"line":7,"distance":13652,"i_long":110.158003,"station_name":"Wates","time":15,"i_lat":-7.859237,"station_id":"WT","transit":false,"is_transit":false},{"line":0,"i_lat":-7.832939,"is_transit":false,"station_name":"Sentolo","time":25,"transit":false,"i_long":110.220122,"station_id":"STL","distance":10145},{"station_id":"RWL","is_transit":false,"distance":9041,"time":8,"i_lat":-7.797702,"transit":false,"station_name":"Rewulu","line":7,"i_long":110.279205},{"station_id":"PTN","time":4,"line":7,"i_long":110.32542,"transit":false,"distance":4579,"is_transit":false,"station_name":"Patukan","i_lat":-7.790605},{"station_name":"Yogyakarta","distance":4241,"time":5,"i_lat":-7.788961,"i_long":110.36345,"is_transit":false,"station_id":"YK","line":7,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.801845,
+        "i_long": 110.000548,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "JN",
+        "station_name": "Jenar",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 8393,
+        "i_lat": -7.861626,
+        "i_long": 110.040449,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "WJ",
+        "station_name": "Wojo",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 13652,
+        "i_lat": -7.859237,
+        "i_long": 110.158003,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "WT",
+        "station_name": "Wates",
+        "time": 15,
+        "transit": false
+      },
+      {
+        "distance": 10145,
+        "i_lat": -7.832939,
+        "i_long": 110.220122,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "STL",
+        "station_name": "Sentolo",
+        "time": 25,
+        "transit": false
+      },
+      {
+        "distance": 9041,
+        "i_lat": -7.797702,
+        "i_long": 110.279205,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "RWL",
+        "station_name": "Rewulu",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 4579,
+        "i_lat": -7.790605,
+        "i_long": 110.32542,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PTN",
+        "station_name": "Patukan",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 4241,
+        "i_lat": -7.788961,
+        "i_long": 110.36345,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "YK",
+        "station_name": "Yogyakarta",
+        "time": 5,
+        "transit": false
+      }
+    ]
+  ]
+}

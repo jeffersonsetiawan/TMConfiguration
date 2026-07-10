@@ -1,1 +1,28 @@
-{"data":[[{"station_name":"Cilejit","time":0,"i_long":106.508482,"i_lat":-6.354349,"distance":0,"station_id":"CJT","line":3,"transit":false,"is_transit":false},{"station_id":"PRP","is_transit":false,"i_long":106.568863,"distance":7025,"time":9,"i_lat":-6.3441410000000005,"line":6,"transit":false,"station_name":"Parung Panjang"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.354349,
+        "i_long": 106.508482,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CJT",
+        "station_name": "Cilejit",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7025,
+        "i_lat": -6.3441410000000005,
+        "i_long": 106.568863,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PRP",
+        "station_name": "Parung Panjang",
+        "time": 9,
+        "transit": false
+      }
+    ]
+  ]
+}

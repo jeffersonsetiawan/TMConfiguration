@@ -1,1 +1,83 @@
-{"data":[[{"transit":false,"distance":0,"time":0,"station_id":"THB","i_lat":-6.185545,"station_name":"Tanah Abang","i_long":106.811091,"line":1,"is_transit":false},{"i_lat":-6.207404,"transit":false,"i_long":106.79689,"station_name":"Palmerah","time":6,"distance":3191,"is_transit":false,"station_id":"PLM","line":6},{"station_name":"Kebayoran","i_lat":-6.237242,"distance":3737,"station_id":"KBY","transit":false,"time":7,"is_transit":false,"i_long":106.780334,"line":6},{"station_name":"Pondokranji","distance":6218,"i_lat":-6.276362,"transit":false,"time":8,"station_id":"PDJ","is_transit":false,"i_long":106.74273,"line":6},{"time":3,"line":6,"distance":2179,"transit":false,"station_name":"Jurangmangu","i_long":106.728916,"i_lat":-6.288927,"is_transit":false,"station_id":"JMU"},{"station_id":"SDM","station_name":"Sudimara","transit":false,"i_lat":-6.296963,"line":6,"time":4,"distance":1994,"is_transit":false,"i_long":106.712277},{"is_transit":false,"line":6,"station_name":"Rawa Buntu","distance":4566,"transit":false,"time":6,"station_id":"RU","i_lat":-6.314823,"i_long":106.675475}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.185545,
+        "i_long": 106.811091,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "THB",
+        "station_name": "Tanah Abang",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3191,
+        "i_lat": -6.207404,
+        "i_long": 106.79689,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PLM",
+        "station_name": "Palmerah",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 3737,
+        "i_lat": -6.237242,
+        "i_long": 106.780334,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "KBY",
+        "station_name": "Kebayoran",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 6218,
+        "i_lat": -6.276362,
+        "i_long": 106.74273,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "PDJ",
+        "station_name": "Pondokranji",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 2179,
+        "i_lat": -6.288927,
+        "i_long": 106.728916,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "JMU",
+        "station_name": "Jurangmangu",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 1994,
+        "i_lat": -6.296963,
+        "i_long": 106.712277,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "SDM",
+        "station_name": "Sudimara",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 4566,
+        "i_lat": -6.314823,
+        "i_long": 106.675475,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "RU",
+        "station_name": "Rawa Buntu",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

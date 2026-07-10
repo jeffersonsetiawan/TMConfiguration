@@ -1,1 +1,39 @@
-{"data":[[{"time":0,"transit":false,"distance":0,"i_long":106.843999,"is_transit":false,"station_name":"Pasar Minggu","i_lat":-6.2842400000000005,"line":2,"station_id":"PSM"},{"distance":2380,"i_long":106.851577,"station_id":"PSMB","station_name":"Pasar Minggu Baru","is_transit":false,"i_lat":-6.263214,"time":2,"transit":false,"line":2},{"transit":false,"time":2,"line":2,"is_transit":false,"i_long":106.85449,"station_id":"DRN","distance":824,"station_name":"Duren Kalibata","i_lat":-6.255332}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 824,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

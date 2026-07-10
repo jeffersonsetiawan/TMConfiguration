@@ -1,1 +1,28 @@
-{"data":[[{"i_long":106.85449,"time":0,"transit":false,"line":2,"distance":0,"station_name":"Duren Kalibata","i_lat":-6.255332,"station_id":"DRN","is_transit":false},{"line":2,"is_transit":false,"transit":false,"station_id":"CW","time":3,"distance":1546,"station_name":"Cawang","i_lat":-6.242512,"i_long":106.856607}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1546,
+        "i_lat": -6.242512,
+        "i_long": 106.856607,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CW",
+        "station_name": "Cawang",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

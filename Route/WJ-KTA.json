@@ -1,1 +1,39 @@
-{"data":[[{"distance":0,"time":0,"station_id":"WJ","i_long":110.040449,"is_transit":false,"i_lat":-7.861626,"station_name":"Wojo","transit":false,"line":7},{"distance":8393,"station_name":"Jenar","is_transit":false,"station_id":"JN","time":10,"i_long":110.000548,"i_lat":-7.801845,"transit":false,"line":0},{"station_name":"Kutoarjo","time":16,"i_long":109.90723,"line":0,"is_transit":false,"distance":10145,"i_lat":-7.725824,"station_id":"KTA","transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.861626,
+        "i_long": 110.040449,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "WJ",
+        "station_name": "Wojo",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 8393,
+        "i_lat": -7.801845,
+        "i_long": 110.000548,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "JN",
+        "station_name": "Jenar",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 10145,
+        "i_lat": -7.725824,
+        "i_long": 109.90723,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "KTA",
+        "station_name": "Kutoarjo",
+        "time": 16,
+        "transit": false
+      }
+    ]
+  ]
+}

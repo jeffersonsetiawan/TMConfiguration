@@ -1,1 +1,28 @@
-{"data":[[{"is_transit":false,"distance":0,"line":7,"i_long":110.839459,"transit":false,"time":0,"station_name":"Solo Jebres","station_id":"SK","i_lat":-7.56197},{"station_name":"Solo Balapan","i_lat":-7.556783,"time":10,"i_long":110.821471,"station_id":"SLO","transit":false,"is_transit":false,"distance":2141,"line":7}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.56197,
+        "i_long": 110.839459,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SK",
+        "station_name": "Solo Jebres",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2141,
+        "i_lat": -7.556783,
+        "i_long": 110.821471,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SLO",
+        "station_name": "Solo Balapan",
+        "time": 10,
+        "transit": false
+      }
+    ]
+  ]
+}

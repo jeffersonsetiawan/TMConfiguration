@@ -1,1 +1,50 @@
-{"data":[[{"line":0,"transit":false,"is_transit":false,"station_id":"DAR","time":0,"station_name":"Daru","i_lat":-6.338021,"distance":0,"i_long":106.491338},{"station_name":"Tenjo","distance":3902,"station_id":"TEJ","is_transit":false,"line":6,"time":5,"transit":false,"i_long":106.460812,"i_lat":-6.327251},{"is_transit":false,"distance":2974,"i_long":106.425991,"time":5,"i_lat":-6.328533,"station_name":"Tigaraksa","line":6,"transit":false,"station_id":"TGS"},{"line":3,"i_lat":-6.33561,"station_name":"Cikoya","transit":false,"distance":2651,"station_id":"CKY","i_long":106.411216,"time":3,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.338021,
+        "i_long": 106.491338,
+        "is_transit": false,
+        "line": 0,
+        "station_id": "DAR",
+        "station_name": "Daru",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3902,
+        "i_lat": -6.327251,
+        "i_long": 106.460812,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TEJ",
+        "station_name": "Tenjo",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2974,
+        "i_lat": -6.328533,
+        "i_long": 106.425991,
+        "is_transit": false,
+        "line": 6,
+        "station_id": "TGS",
+        "station_name": "Tigaraksa",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 2651,
+        "i_lat": -6.33561,
+        "i_long": 106.411216,
+        "is_transit": false,
+        "line": 3,
+        "station_id": "CKY",
+        "station_name": "Cikoya",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

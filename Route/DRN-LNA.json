@@ -1,1 +1,61 @@
-{"data":[[{"is_transit":false,"i_long":106.85449,"time":0,"line":2,"station_name":"Duren Kalibata","distance":0,"transit":false,"station_id":"DRN","i_lat":-6.255332},{"i_long":106.851577,"station_name":"Pasar Minggu Baru","i_lat":-6.263214,"is_transit":false,"transit":false,"time":2,"distance":824,"station_id":"PSMB","line":2},{"station_id":"PSM","time":2,"distance":2380,"is_transit":false,"i_lat":-6.2842400000000005,"line":2,"i_long":106.843999,"transit":false,"station_name":"Pasar Minggu"},{"distance":2820,"time":4,"is_transit":false,"station_id":"TNT","i_long":106.838896,"station_name":"Tanjung Barat","transit":false,"i_lat":-6.3080680000000005,"line":2},{"is_transit":false,"transit":false,"station_id":"LNA","distance":2671,"i_lat":-6.330363,"station_name":"Lenteng Agung","time":3,"i_long":106.832616,"line":2}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.255332,
+        "i_long": 106.85449,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DRN",
+        "station_name": "Duren Kalibata",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 824,
+        "i_lat": -6.263214,
+        "i_long": 106.851577,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSMB",
+        "station_name": "Pasar Minggu Baru",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2380,
+        "i_lat": -6.2842400000000005,
+        "i_long": 106.843999,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "PSM",
+        "station_name": "Pasar Minggu",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2820,
+        "i_lat": -6.3080680000000005,
+        "i_long": 106.838896,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "TNT",
+        "station_name": "Tanjung Barat",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2671,
+        "i_lat": -6.330363,
+        "i_long": 106.832616,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "LNA",
+        "station_name": "Lenteng Agung",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

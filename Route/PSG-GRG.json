@@ -1,1 +1,28 @@
-{"data":[[{"is_transit":false,"i_lat":-6.161433,"station_name":"Pesing","line":5,"time":0,"station_id":"PSG","transit":false,"i_long":106.771379,"distance":0},{"station_name":"Grogol","is_transit":false,"time":2,"i_lat":-6.162021,"station_id":"GRG","i_long":106.788277,"line":5,"distance":2036,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.161433,
+        "i_long": 106.771379,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PSG",
+        "station_name": "Pesing",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2036,
+        "i_lat": -6.162021,
+        "i_long": 106.788277,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "GRG",
+        "station_name": "Grogol",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

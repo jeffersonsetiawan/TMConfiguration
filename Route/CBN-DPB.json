@@ -1,1 +1,61 @@
-{"data":[[{"i_lat":-6.46424,"i_long":106.851978,"distance":0,"station_id":"CBN","is_transit":false,"station_name":"Cibinong","transit":false,"line":21,"time":0},{"station_id":"PDRG","distance":0,"i_long":106.824374,"is_transit":false,"time":0,"i_lat":-6.460735,"transit":false,"station_name":"Pondok Rajeg","line":21},{"i_lat":-6.448811,"line":2,"transit":true,"station_id":"CTA","is_transit":true,"distance":0,"time":0,"station_name":"Citayam","i_long":106.800298},{"transit":false,"is_transit":false,"time":6,"i_lat":-6.405256,"line":2,"distance":5084,"station_name":"Depok","station_id":"DP","i_long":106.816926},{"station_id":"DPB","is_transit":false,"transit":false,"i_lat":-6.391065,"line":2,"time":3,"i_long":106.819451,"distance":1584,"station_name":"Depokbaru"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 0,
+        "transit": true
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 6,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

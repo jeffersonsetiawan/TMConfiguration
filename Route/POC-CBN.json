@@ -1,1 +1,72 @@
-{"data":[[{"time":0,"line":2,"transit":false,"is_transit":false,"i_lat":-6.369073,"distance":0,"station_id":"POC","station_name":"Pondok Cina","i_long":106.831114},{"station_id":"DPB","distance":2727,"i_long":106.819451,"line":2,"i_lat":-6.391065,"is_transit":false,"transit":false,"station_name":"Depokbaru","time":4},{"station_name":"Depok","i_lat":-6.405256,"station_id":"DP","line":2,"i_long":106.816926,"time":3,"is_transit":false,"transit":false,"distance":1584},{"time":6,"i_long":106.800298,"is_transit":true,"distance":5084,"transit":true,"station_name":"Citayam","station_id":"CTA","i_lat":-6.448811,"line":2},{"transit":false,"line":21,"i_long":106.824374,"distance":0,"is_transit":false,"time":0,"i_lat":-6.460735,"station_id":"PDRG","station_name":"Pondok Rajeg"},{"is_transit":false,"line":21,"time":0,"station_name":"Cibinong","transit":false,"i_lat":-6.46424,"distance":0,"i_long":106.851978,"station_id":"CBN"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.369073,
+        "i_long": 106.831114,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "POC",
+        "station_name": "Pondok Cina",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2727,
+        "i_lat": -6.391065,
+        "i_long": 106.819451,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DPB",
+        "station_name": "Depokbaru",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 1584,
+        "i_lat": -6.405256,
+        "i_long": 106.816926,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "DP",
+        "station_name": "Depok",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 5084,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 6,
+        "transit": true
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      }
+    ]
+  ]
+}

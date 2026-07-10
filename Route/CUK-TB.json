@@ -1,1 +1,61 @@
-{"data":[[{"time":0,"station_name":"Cakung","i_lat":-6.219053,"i_long":106.951283,"distance":0,"transit":false,"line":1,"is_transit":false,"station_id":"CUK"},{"station_id":"KRI","is_transit":false,"i_long":106.977657,"i_lat":-6.224515,"time":3,"distance":3097,"station_name":"Kranji","transit":false,"line":1},{"distance":2520,"transit":false,"line":1,"station_name":"Bekasi","station_id":"BKS","time":4,"is_transit":false,"i_long":106.997013,"i_lat":-6.236616},{"station_id":"BKST","transit":false,"is_transit":false,"line":1,"time":2,"distance":2368,"i_lat":-6.248029,"i_long":107.016735,"station_name":"Bekasi Timur"},{"i_lat":-6.258864,"line":1,"time":7,"is_transit":false,"station_name":"Tambun","distance":4460,"i_long":107.055722,"transit":false,"station_id":"TB"}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3097,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 7,
+        "transit": false
+      }
+    ]
+  ]
+}

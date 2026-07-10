@@ -1,1 +1,127 @@
-{"data":[[{"is_transit":false,"station_name":"Klender","station_id":"KLD","transit":false,"i_lat":-6.2135,"distance":0,"i_long":106.899548,"time":0,"line":1},{"station_name":"Buaran","is_transit":false,"time":2,"transit":false,"i_long":106.922662,"station_id":"BUA","i_lat":-6.215568,"line":1,"distance":3100},{"i_long":106.939679,"line":1,"station_id":"KLDB","i_lat":-6.217455,"time":1,"station_name":"Klenderbaru","distance":1305,"is_transit":false,"transit":false},{"i_lat":-6.219053,"line":1,"time":8,"station_id":"CUK","station_name":"Cakung","transit":false,"distance":1385,"i_long":106.951283,"is_transit":false},{"distance":3097,"time":3,"is_transit":false,"station_id":"KRI","station_name":"Kranji","transit":false,"i_long":106.977657,"line":1,"i_lat":-6.224515},{"i_long":106.997013,"line":1,"station_name":"Bekasi","i_lat":-6.236616,"time":4,"distance":2520,"station_id":"BKS","transit":false,"is_transit":false},{"distance":2368,"i_long":107.016735,"is_transit":false,"time":2,"station_name":"Bekasi Timur","transit":false,"station_id":"BKST","i_lat":-6.248029,"line":1},{"i_long":107.055722,"is_transit":false,"transit":false,"distance":4460,"station_name":"Tambun","line":1,"time":7,"station_id":"TB","i_lat":-6.258864},{"i_lat":-6.261877,"i_long":107.083084,"station_name":"Cibitung","time":3,"line":1,"is_transit":false,"transit":false,"distance":3420,"station_id":"CIT"},{"is_transit":false,"transit":false,"i_long":107.093313,"line":1,"i_lat":-6.262938,"station_name":"Metland Telaga Murni","distance":2800,"time":2,"station_id":"TLM"},{"i_long":107.144613,"station_name":"Cikarang","is_transit":false,"station_id":"CKR","line":1,"time":4,"distance":3689,"transit":false,"i_lat":-6.2553149999999995}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.2135,
+        "i_long": 106.899548,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLD",
+        "station_name": "Klender",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 3100,
+        "i_lat": -6.215568,
+        "i_long": 106.922662,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BUA",
+        "station_name": "Buaran",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 1305,
+        "i_lat": -6.217455,
+        "i_long": 106.939679,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLDB",
+        "station_name": "Klenderbaru",
+        "time": 1,
+        "transit": false
+      },
+      {
+        "distance": 1385,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 3097,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 4460,
+        "i_lat": -6.258864,
+        "i_long": 107.055722,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TB",
+        "station_name": "Tambun",
+        "time": 7,
+        "transit": false
+      },
+      {
+        "distance": 3420,
+        "i_lat": -6.261877,
+        "i_long": 107.083084,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CIT",
+        "station_name": "Cibitung",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2800,
+        "i_lat": -6.262938,
+        "i_long": 107.093313,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "TLM",
+        "station_name": "Metland Telaga Murni",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 3689,
+        "i_lat": -6.2553149999999995,
+        "i_long": 107.144613,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CKR",
+        "station_name": "Cikarang",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

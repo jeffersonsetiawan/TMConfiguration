@@ -1,1 +1,28 @@
-{"data":[[{"line":1,"time":0,"station_name":"Bekasi","distance":0,"i_lat":-6.236616,"i_long":106.997013,"is_transit":false,"station_id":"BKS","transit":false},{"distance":2520,"station_name":"Kranji","transit":false,"line":1,"station_id":"KRI","is_transit":false,"i_long":106.977657,"i_lat":-6.224515,"time":4}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 4,
+        "transit": false
+      }
+    ]
+  ]
+}

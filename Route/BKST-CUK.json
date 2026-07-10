@@ -1,1 +1,50 @@
-{"data":[[{"line":1,"i_lat":-6.248029,"i_long":107.016735,"time":0,"station_name":"Bekasi Timur","distance":0,"station_id":"BKST","is_transit":false,"transit":false},{"transit":false,"distance":2368,"station_id":"BKS","line":1,"i_lat":-6.236616,"time":2,"station_name":"Bekasi","i_long":106.997013,"is_transit":false},{"distance":2520,"transit":false,"line":1,"is_transit":false,"i_long":106.977657,"time":4,"station_id":"KRI","station_name":"Kranji","i_lat":-6.224515},{"line":1,"station_id":"CUK","i_lat":-6.219053,"station_name":"Cakung","time":3,"distance":3097,"i_long":106.951283,"is_transit":false,"transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 2,
+        "transit": false
+      },
+      {
+        "distance": 2520,
+        "i_lat": -6.224515,
+        "i_long": 106.977657,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KRI",
+        "station_name": "Kranji",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 3097,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

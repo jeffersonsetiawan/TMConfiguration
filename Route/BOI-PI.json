@@ -1,1 +1,50 @@
-{"data":[[{"time":0,"line":5,"station_name":"Bojongindah","i_long":106.737035,"transit":false,"station_id":"BOI","i_lat":-6.159876,"distance":0,"is_transit":false},{"transit":false,"station_id":"RW","i_lat":-6.162758,"line":5,"i_long":106.723064,"is_transit":false,"time":4,"station_name":"Rawa Buaya","distance":1152},{"is_transit":false,"station_name":"Kalideres","station_id":"KDS","distance":2504,"transit":false,"i_lat":-6.166068,"time":3,"i_long":106.701612,"line":5},{"time":3,"line":5,"i_lat":-6.169933,"is_transit":false,"i_long":106.679458,"station_id":"PI","distance":2548,"station_name":"Poris","transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.159876,
+        "i_long": 106.737035,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "BOI",
+        "station_name": "Bojongindah",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1152,
+        "i_lat": -6.162758,
+        "i_long": 106.723064,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "RW",
+        "station_name": "Rawa Buaya",
+        "time": 4,
+        "transit": false
+      },
+      {
+        "distance": 2504,
+        "i_lat": -6.166068,
+        "i_long": 106.701612,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "KDS",
+        "station_name": "Kalideres",
+        "time": 3,
+        "transit": false
+      },
+      {
+        "distance": 2548,
+        "i_lat": -6.169933,
+        "i_long": 106.679458,
+        "is_transit": false,
+        "line": 5,
+        "station_id": "PI",
+        "station_name": "Poris",
+        "time": 3,
+        "transit": false
+      }
+    ]
+  ]
+}

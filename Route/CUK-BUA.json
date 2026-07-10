@@ -1,1 +1,39 @@
-{"data":[[{"is_transit":false,"station_name":"Cakung","i_long":106.951283,"line":1,"station_id":"CUK","distance":0,"time":0,"i_lat":-6.219053,"transit":false},{"line":1,"i_lat":-6.217455,"time":8,"station_id":"KLDB","is_transit":false,"distance":1385,"transit":false,"i_long":106.939679,"station_name":"Klenderbaru"},{"i_long":106.922662,"station_id":"BUA","transit":false,"line":1,"station_name":"Buaran","i_lat":-6.215568,"time":1,"distance":1305,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.219053,
+        "i_long": 106.951283,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "CUK",
+        "station_name": "Cakung",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1385,
+        "i_lat": -6.217455,
+        "i_long": 106.939679,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "KLDB",
+        "station_name": "Klenderbaru",
+        "time": 8,
+        "transit": false
+      },
+      {
+        "distance": 1305,
+        "i_lat": -6.215568,
+        "i_long": 106.922662,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BUA",
+        "station_name": "Buaran",
+        "time": 1,
+        "transit": false
+      }
+    ]
+  ]
+}

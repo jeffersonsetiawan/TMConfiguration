@@ -1,1 +1,28 @@
-{"data":[[{"i_lat":-6.236616,"time":0,"station_name":"Bekasi","is_transit":false,"line":1,"i_long":106.997013,"station_id":"BKS","distance":0,"transit":false},{"line":1,"station_name":"Bekasi Timur","station_id":"BKST","distance":2368,"is_transit":false,"i_lat":-6.248029,"i_long":107.016735,"transit":false,"time":2}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.236616,
+        "i_long": 106.997013,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKS",
+        "station_name": "Bekasi",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2368,
+        "i_lat": -6.248029,
+        "i_long": 107.016735,
+        "is_transit": false,
+        "line": 1,
+        "station_id": "BKST",
+        "station_name": "Bekasi Timur",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

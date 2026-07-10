@@ -1,1 +1,28 @@
-{"data":[[{"transit":false,"is_transit":false,"i_lat":-6.339291,"station_id":"UP","time":0,"station_name":"Univ. Pancasila","line":2,"i_long":106.834175,"distance":0},{"line":2,"station_name":"Lenteng Agung","time":2,"station_id":"LNA","distance":1029,"transit":false,"i_lat":-6.330363,"i_long":106.832616,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.339291,
+        "i_long": 106.834175,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "UP",
+        "station_name": "Univ. Pancasila",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 1029,
+        "i_lat": -6.330363,
+        "i_long": 106.832616,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "LNA",
+        "station_name": "Lenteng Agung",
+        "time": 2,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,39 @@
-{"data":[[{"station_name":"Solo Jebres","station_id":"SK","time":0,"transit":false,"i_long":110.839459,"is_transit":false,"distance":0,"i_lat":-7.56197,"line":7},{"station_id":"SLO","line":7,"is_transit":false,"time":10,"distance":2141,"transit":false,"station_name":"Solo Balapan","i_lat":-7.556783,"i_long":110.821471},{"i_long":110.796655,"station_name":"Purwosari","transit":false,"distance":2936,"i_lat":-7.561362,"time":6,"station_id":"PWS","is_transit":false,"line":7}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -7.56197,
+        "i_long": 110.839459,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SK",
+        "station_name": "Solo Jebres",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 2141,
+        "i_lat": -7.556783,
+        "i_long": 110.821471,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "SLO",
+        "station_name": "Solo Balapan",
+        "time": 10,
+        "transit": false
+      },
+      {
+        "distance": 2936,
+        "i_lat": -7.561362,
+        "i_long": 110.796655,
+        "is_transit": false,
+        "line": 7,
+        "station_id": "PWS",
+        "station_name": "Purwosari",
+        "time": 6,
+        "transit": false
+      }
+    ]
+  ]
+}

@@ -1,1 +1,83 @@
-{"data":[[{"distance":0,"line":2,"is_transit":false,"i_long":106.790574,"station_name":"Bogor","station_id":"BOO","time":0,"i_lat":-6.594596,"transit":false},{"station_id":"CLT","transit":false,"line":2,"time":9,"distance":7514,"i_long":106.800016,"station_name":"Cilebut","i_lat":-6.530544,"is_transit":false},{"time":5,"station_id":"BJD","is_transit":false,"transit":false,"i_long":106.792719,"line":2,"station_name":"Bojonggede","i_lat":-6.493243,"distance":4331},{"is_transit":true,"station_id":"CTA","i_long":106.800298,"time":5,"distance":5197,"station_name":"Citayam","transit":true,"i_lat":-6.448811,"line":2},{"station_name":"Pondok Rajeg","station_id":"PDRG","is_transit":false,"transit":false,"time":0,"distance":0,"i_lat":-6.460735,"i_long":106.824374,"line":21},{"i_long":106.851978,"line":21,"is_transit":false,"i_lat":-6.46424,"station_name":"Cibinong","distance":0,"station_id":"CBN","time":0,"transit":false},{"station_id":"NMO","line":21,"distance":6527,"i_long":106.905196,"station_name":"Nambo","time":10,"i_lat":-6.466285,"transit":false,"is_transit":false}]]}
+{
+  "data": [
+    [
+      {
+        "distance": 0,
+        "i_lat": -6.594596,
+        "i_long": 106.790574,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BOO",
+        "station_name": "Bogor",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 7514,
+        "i_lat": -6.530544,
+        "i_long": 106.800016,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "CLT",
+        "station_name": "Cilebut",
+        "time": 9,
+        "transit": false
+      },
+      {
+        "distance": 4331,
+        "i_lat": -6.493243,
+        "i_long": 106.792719,
+        "is_transit": false,
+        "line": 2,
+        "station_id": "BJD",
+        "station_name": "Bojonggede",
+        "time": 5,
+        "transit": false
+      },
+      {
+        "distance": 5197,
+        "i_lat": -6.448811,
+        "i_long": 106.800298,
+        "is_transit": true,
+        "line": 2,
+        "station_id": "CTA",
+        "station_name": "Citayam",
+        "time": 5,
+        "transit": true
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.460735,
+        "i_long": 106.824374,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "PDRG",
+        "station_name": "Pondok Rajeg",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 0,
+        "i_lat": -6.46424,
+        "i_long": 106.851978,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "CBN",
+        "station_name": "Cibinong",
+        "time": 0,
+        "transit": false
+      },
+      {
+        "distance": 6527,
+        "i_lat": -6.466285,
+        "i_long": 106.905196,
+        "is_transit": false,
+        "line": 21,
+        "station_id": "NMO",
+        "station_name": "Nambo",
+        "time": 10,
+        "transit": false
+      }
+    ]
+  ]
+}
