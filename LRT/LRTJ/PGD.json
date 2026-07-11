@@ -1,0 +1,426 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "name": "Lin Selatan",
+      "colorCode": "#F26324",
+      "lineCode": "S",
+      "timetable": [
+        {
+          "boundFor": "Velodrome",
+          "via": null,
+          "schedules": [
+            {
+              "id": "LRTJ-PGD-05:30-VEL-BOUND",
+              "estimatedDeparture": "05:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-05:40-VEL-BOUND",
+              "estimatedDeparture": "05:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-05:50-VEL-BOUND",
+              "estimatedDeparture": "05:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:00-VEL-BOUND",
+              "estimatedDeparture": "06:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:10-VEL-BOUND",
+              "estimatedDeparture": "06:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:20-VEL-BOUND",
+              "estimatedDeparture": "06:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:30-VEL-BOUND",
+              "estimatedDeparture": "06:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:40-VEL-BOUND",
+              "estimatedDeparture": "06:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-06:50-VEL-BOUND",
+              "estimatedDeparture": "06:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:00-VEL-BOUND",
+              "estimatedDeparture": "07:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:10-VEL-BOUND",
+              "estimatedDeparture": "07:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:20-VEL-BOUND",
+              "estimatedDeparture": "07:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:30-VEL-BOUND",
+              "estimatedDeparture": "07:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:40-VEL-BOUND",
+              "estimatedDeparture": "07:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-07:50-VEL-BOUND",
+              "estimatedDeparture": "07:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:00-VEL-BOUND",
+              "estimatedDeparture": "08:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:10-VEL-BOUND",
+              "estimatedDeparture": "08:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:20-VEL-BOUND",
+              "estimatedDeparture": "08:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:30-VEL-BOUND",
+              "estimatedDeparture": "08:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:40-VEL-BOUND",
+              "estimatedDeparture": "08:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-08:50-VEL-BOUND",
+              "estimatedDeparture": "08:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:00-VEL-BOUND",
+              "estimatedDeparture": "09:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:10-VEL-BOUND",
+              "estimatedDeparture": "09:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:20-VEL-BOUND",
+              "estimatedDeparture": "09:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:30-VEL-BOUND",
+              "estimatedDeparture": "09:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:40-VEL-BOUND",
+              "estimatedDeparture": "09:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-09:50-VEL-BOUND",
+              "estimatedDeparture": "09:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:00-VEL-BOUND",
+              "estimatedDeparture": "10:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:10-VEL-BOUND",
+              "estimatedDeparture": "10:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:20-VEL-BOUND",
+              "estimatedDeparture": "10:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:30-VEL-BOUND",
+              "estimatedDeparture": "10:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:40-VEL-BOUND",
+              "estimatedDeparture": "10:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-10:50-VEL-BOUND",
+              "estimatedDeparture": "10:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:00-VEL-BOUND",
+              "estimatedDeparture": "11:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:10-VEL-BOUND",
+              "estimatedDeparture": "11:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:20-VEL-BOUND",
+              "estimatedDeparture": "11:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:30-VEL-BOUND",
+              "estimatedDeparture": "11:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:40-VEL-BOUND",
+              "estimatedDeparture": "11:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-11:50-VEL-BOUND",
+              "estimatedDeparture": "11:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:00-VEL-BOUND",
+              "estimatedDeparture": "12:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:10-VEL-BOUND",
+              "estimatedDeparture": "12:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:20-VEL-BOUND",
+              "estimatedDeparture": "12:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:30-VEL-BOUND",
+              "estimatedDeparture": "12:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:40-VEL-BOUND",
+              "estimatedDeparture": "12:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-12:50-VEL-BOUND",
+              "estimatedDeparture": "12:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:00-VEL-BOUND",
+              "estimatedDeparture": "13:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:10-VEL-BOUND",
+              "estimatedDeparture": "13:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:20-VEL-BOUND",
+              "estimatedDeparture": "13:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:30-VEL-BOUND",
+              "estimatedDeparture": "13:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:40-VEL-BOUND",
+              "estimatedDeparture": "13:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-13:50-VEL-BOUND",
+              "estimatedDeparture": "13:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:00-VEL-BOUND",
+              "estimatedDeparture": "14:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:10-VEL-BOUND",
+              "estimatedDeparture": "14:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:20-VEL-BOUND",
+              "estimatedDeparture": "14:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:30-VEL-BOUND",
+              "estimatedDeparture": "14:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:40-VEL-BOUND",
+              "estimatedDeparture": "14:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-14:50-VEL-BOUND",
+              "estimatedDeparture": "14:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:00-VEL-BOUND",
+              "estimatedDeparture": "15:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:10-VEL-BOUND",
+              "estimatedDeparture": "15:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:20-VEL-BOUND",
+              "estimatedDeparture": "15:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:30-VEL-BOUND",
+              "estimatedDeparture": "15:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:40-VEL-BOUND",
+              "estimatedDeparture": "15:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-15:50-VEL-BOUND",
+              "estimatedDeparture": "15:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:00-VEL-BOUND",
+              "estimatedDeparture": "16:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:10-VEL-BOUND",
+              "estimatedDeparture": "16:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:20-VEL-BOUND",
+              "estimatedDeparture": "16:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:30-VEL-BOUND",
+              "estimatedDeparture": "16:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:40-VEL-BOUND",
+              "estimatedDeparture": "16:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-16:50-VEL-BOUND",
+              "estimatedDeparture": "16:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:00-VEL-BOUND",
+              "estimatedDeparture": "17:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:10-VEL-BOUND",
+              "estimatedDeparture": "17:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:20-VEL-BOUND",
+              "estimatedDeparture": "17:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:30-VEL-BOUND",
+              "estimatedDeparture": "17:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:40-VEL-BOUND",
+              "estimatedDeparture": "17:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-17:50-VEL-BOUND",
+              "estimatedDeparture": "17:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:00-VEL-BOUND",
+              "estimatedDeparture": "18:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:10-VEL-BOUND",
+              "estimatedDeparture": "18:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:20-VEL-BOUND",
+              "estimatedDeparture": "18:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:30-VEL-BOUND",
+              "estimatedDeparture": "18:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:40-VEL-BOUND",
+              "estimatedDeparture": "18:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-18:50-VEL-BOUND",
+              "estimatedDeparture": "18:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:00-VEL-BOUND",
+              "estimatedDeparture": "19:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:10-VEL-BOUND",
+              "estimatedDeparture": "19:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:20-VEL-BOUND",
+              "estimatedDeparture": "19:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:30-VEL-BOUND",
+              "estimatedDeparture": "19:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:40-VEL-BOUND",
+              "estimatedDeparture": "19:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-19:50-VEL-BOUND",
+              "estimatedDeparture": "19:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:00-VEL-BOUND",
+              "estimatedDeparture": "20:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:10-VEL-BOUND",
+              "estimatedDeparture": "20:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:20-VEL-BOUND",
+              "estimatedDeparture": "20:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:30-VEL-BOUND",
+              "estimatedDeparture": "20:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:40-VEL-BOUND",
+              "estimatedDeparture": "20:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-20:50-VEL-BOUND",
+              "estimatedDeparture": "20:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:00-VEL-BOUND",
+              "estimatedDeparture": "21:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:10-VEL-BOUND",
+              "estimatedDeparture": "21:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:20-VEL-BOUND",
+              "estimatedDeparture": "21:20:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:30-VEL-BOUND",
+              "estimatedDeparture": "21:30:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:40-VEL-BOUND",
+              "estimatedDeparture": "21:40:00"
+            },
+            {
+              "id": "LRTJ-PGD-21:50-VEL-BOUND",
+              "estimatedDeparture": "21:50:00"
+            },
+            {
+              "id": "LRTJ-PGD-22:00-VEL-BOUND",
+              "estimatedDeparture": "22:00:00"
+            },
+            {
+              "id": "LRTJ-PGD-22:10-VEL-BOUND",
+              "estimatedDeparture": "22:10:00"
+            },
+            {
+              "id": "LRTJ-PGD-22:20-VEL-BOUND",
+              "estimatedDeparture": "22:20:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
