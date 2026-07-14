@@ -1,1 +1,9 @@
 .DS_Store
+
+# Diagnostics written by the Gist CLI (BackupProcessor). This repo is served raw to every
+# shipped app version — error dumps must never be published from it.
+TrainTimeError/
+RouteError/
+RailTripError/
+PredefinedFilter/
+LRT Screenshot
