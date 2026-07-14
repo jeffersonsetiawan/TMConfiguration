@@ -1,7 +1,9 @@
 .DS_Store
 
 # Diagnostics written by the Gist CLI (BackupProcessor). This repo is served raw to every
-# shipped app version — error dumps must never be published from it.
+# shipped app version — error dumps must never be published from it. Errors/ is what `--retry`
+# reads to redo only the failed items.
+Errors/
 TrainTimeError/
 RouteError/
 RailTripError/
