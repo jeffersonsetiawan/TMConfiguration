@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-14T00:00:00+07:00",
+  "stations": [
+    { "id": "mrt:LBB", "code": "LBB", "name": "Lebak Bulus Bank Syariah Indonesia", "latitude": -6.2892542, "longitude": 106.7749374, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:FTM", "code": "FTM", "name": "Fatmawati Indomaret", "latitude": -6.2924285, "longitude": 106.7924656, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:CPR", "code": "CPR", "name": "Cipete Raya TUKU", "latitude": -6.2783615, "longitude": 106.7972954, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:HJN", "code": "HJN", "name": "Haji Nawi", "latitude": -6.2666928, "longitude": 106.7973045, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:BLA", "code": "BLA", "name": "Blok A", "latitude": -6.2557743, "longitude": 106.7970963, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:BLM", "code": "BLM", "name": "Blok M BCA", "latitude": -6.2444225, "longitude": 106.7980099, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:SSM", "code": "SSM", "name": "ASEAN Headquarter", "latitude": -6.2387673, "longitude": 106.7983914, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:SNY", "code": "SNY", "name": "Senayan Mastercard", "latitude": -6.2266833, "longitude": 106.8024556, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:IST", "code": "IST", "name": "Istora Mandiri", "latitude": -6.2223312, "longitude": 106.808573, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:BNH", "code": "BNH", "name": "Bendungan Hilir", "latitude": -6.2149854, "longitude": 106.8179059, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:STB", "code": "STB", "name": "Setiabudi Astra", "latitude": -6.2090687, "longitude": 106.8217016, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:DKA", "code": "DKA", "name": "Dukuh Atas BNI", "latitude": -6.2007864, "longitude": 106.8227462, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+    { "id": "mrt:BHI", "code": "BHI", "name": "Bundaran HI Bank Jakarta", "latitude": -6.1918589, "longitude": 106.8229405, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
+
+    { "id": "lrt:DKA", "code": "DKA", "name": "Dukuh Atas BSI", "latitude": -6.20487, "longitude": 106.825566, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:SET", "code": "SET", "name": "Setiabudi", "latitude": -6.209382, "longitude": 106.830227, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:RAS", "code": "RAS", "name": "Rasuna Said", "latitude": -6.221753, "longitude": 106.832261, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:KUA", "code": "KUA", "name": "Kuningan", "latitude": -6.228881, "longitude": 106.833175, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:PAN", "code": "PAN", "name": "Pancoran", "latitude": -6.242098, "longitude": 106.838336, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:CKK", "code": "CKK", "name": "Cikoko", "latitude": -6.243476, "longitude": 106.857102, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:CIL", "code": "CIL", "name": "Ciliwung", "latitude": -6.243477, "longitude": 106.864131, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:CWG", "code": "CWG", "name": "Cawang", "latitude": -6.246225, "longitude": 106.872386, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi", "lrt-cibubur"] },
+    { "id": "lrt:HAL", "code": "HAL", "name": "Halim", "latitude": -6.2464709, "longitude": 106.885241, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:JBU", "code": "JBU", "name": "Jatibening Baru", "latitude": -6.257775, "longitude": 106.927679, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:CK1", "code": "CK1", "name": "Cikunir 1", "latitude": -6.256618, "longitude": 106.951751, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:CK2", "code": "CK2", "name": "Cikunir 2", "latitude": -6.254718, "longitude": 106.963246, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:BEK", "code": "BEK", "name": "Bekasi Barat", "latitude": -6.252926, "longitude": 106.990076, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:JTM", "code": "JTM", "name": "Jati Mulya", "latitude": -6.263952, "longitude": 107.021432, "network": "lrtJabodebek", "lineIds": ["lrt-bekasi"] },
+    { "id": "lrt:TMI", "code": "TMI", "name": "TMII", "latitude": -6.292874, "longitude": 106.880535, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
+    { "id": "lrt:KAM", "code": "KAM", "name": "Kampung Rambutan", "latitude": -6.309541, "longitude": 106.884325, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
+    { "id": "lrt:CRC", "code": "CRC", "name": "Ciracas", "latitude": -6.323826, "longitude": 106.886606, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
+    { "id": "lrt:HAR", "code": "HAR", "name": "Harjamukti", "latitude": -6.373988, "longitude": 106.895623, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
+
+    { "id": "lrt-jkt:VEL", "code": "VEL", "name": "Velodrome", "latitude": -6.192580887, "longitude": 106.891209594, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:EQS", "code": "EQS", "name": "Equestrian", "latitude": -6.184059165, "longitude": 106.891268938, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:PUM", "code": "PUM", "name": "Pulomas", "latitude": -6.17731, "longitude": 106.89339, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:BVU", "code": "BVU", "name": "Boulevard Utara", "latitude": -6.159413531, "longitude": 106.90600533, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:BVS", "code": "BVS", "name": "Boulevard Selatan", "latitude": -6.168989988, "longitude": 106.899995505, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:PGD", "code": "PGD", "name": "Pegangsaan Dua", "latitude": -6.15579, "longitude": 106.91424, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] }
+  ],
+  "lineStationIds": {
+    "mrt-north-south": ["mrt:LBB", "mrt:FTM", "mrt:CPR", "mrt:HJN", "mrt:BLA", "mrt:BLM", "mrt:SSM", "mrt:SNY", "mrt:IST", "mrt:BNH", "mrt:STB", "mrt:DKA", "mrt:BHI"],
+    "lrt-bekasi": ["lrt:DKA", "lrt:SET", "lrt:RAS", "lrt:KUA", "lrt:PAN", "lrt:CKK", "lrt:CIL", "lrt:CWG", "lrt:HAL", "lrt:JBU", "lrt:CK1", "lrt:CK2", "lrt:BEK", "lrt:JTM"],
+    "lrt-cibubur": ["lrt:DKA", "lrt:SET", "lrt:RAS", "lrt:KUA", "lrt:PAN", "lrt:CKK", "lrt:CIL", "lrt:CWG", "lrt:TMI", "lrt:KAM", "lrt:CRC", "lrt:HAR"],
+    "lrt-pegangsaan-dua": ["lrt-jkt:VEL", "lrt-jkt:EQS", "lrt-jkt:PUM", "lrt-jkt:BVU", "lrt-jkt:BVS", "lrt-jkt:PGD"]
+  }
+}

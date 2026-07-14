@@ -14,6 +14,7 @@
     "whats_new": [],
     "whats_new_display_interval_days": 7,
     "use_fix_loop_line": true,
+    "last_update_rail_station": "2026-07-14T00:00:00+07:00",
     "station_id_compatibility": true,
     "open_access": false
 }
