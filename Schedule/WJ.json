@@ -1,0 +1,117 @@
+{
+  "data" : [
+    {
+      "dest_station" : "YK",
+      "dest_station_name" : "YOGYAKARTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WOJO",
+          "time_at_station" : "05:32:00",
+          "train_no" : "508"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WOJO",
+          "time_at_station" : "09:28:00",
+          "train_no" : "502"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WOJO",
+          "time_at_station" : "13:41:00",
+          "train_no" : "504"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WOJO",
+          "time_at_station" : "17:13:00",
+          "train_no" : "506"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WOJO",
+          "time_at_station" : "19:07:00",
+          "train_no" : "510"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KTA",
+      "dest_station_name" : "KUTOARJO",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "WOJO",
+          "time_at_station" : "07:20:00",
+          "train_no" : "501"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "WOJO",
+          "time_at_station" : "12:28:00",
+          "train_no" : "503"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "WOJO",
+          "time_at_station" : "15:55:00",
+          "train_no" : "505"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "WOJO",
+          "time_at_station" : "16:58:00",
+          "train_no" : "509"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "WOJO",
+          "time_at_station" : "18:42:00",
+          "train_no" : "507"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795565
+}

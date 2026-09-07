@@ -1,0 +1,447 @@
+{
+  "data" : [
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "05:38:00",
+          "train_no" : "6001A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "06:03:00",
+          "train_no" : "6003A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "06:36:00",
+          "train_no" : "6005A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "07:03:00",
+          "train_no" : "6007A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "07:31:00",
+          "train_no" : "6009A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "07:51:00",
+          "train_no" : "6011A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "08:31:00",
+          "train_no" : "6013A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "08:51:00",
+          "train_no" : "6015A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "09:32:00",
+          "train_no" : "6017A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "10:04:00",
+          "train_no" : "6019A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "10:29:00",
+          "train_no" : "6021A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "11:03:00",
+          "train_no" : "6023B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "11:25:00",
+          "train_no" : "6025E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "11:59:00",
+          "train_no" : "6027A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "12:24:00",
+          "train_no" : "6029A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "12:59:00",
+          "train_no" : "6031A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "13:07:00",
+          "train_no" : "6033A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "13:25:00",
+          "train_no" : "6035D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "13:42:00",
+          "train_no" : "6037A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "14:14:00",
+          "train_no" : "6039A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "14:37:00",
+          "train_no" : "6041B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "15:03:00",
+          "train_no" : "6043B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "15:12:00",
+          "train_no" : "6045A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "15:30:00",
+          "train_no" : "6047B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "16:05:00",
+          "train_no" : "6049B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "16:31:00",
+          "train_no" : "6051A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "16:56:00",
+          "train_no" : "6053A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "17:15:00",
+          "train_no" : "6055A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "17:35:00",
+          "train_no" : "6057A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "18:03:00",
+          "train_no" : "6059B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "18:20:00",
+          "train_no" : "6061A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "18:51:00",
+          "train_no" : "6063A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "19:24:00",
+          "train_no" : "6065A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "19:49:00",
+          "train_no" : "6067B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "20:10:00",
+          "train_no" : "6069A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "20:39:00",
+          "train_no" : "6071B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "20:50:00",
+          "train_no" : "6073A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "21:42:00",
+          "train_no" : "6077A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "22:17:00",
+          "train_no" : "6079A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "22:46:00",
+          "train_no" : "6081A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "00:18:00",
+          "train_no" : "6085A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "21:26:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-JAKARTAKOTA",
+          "station_name" : "PASAR SENEN",
+          "time_at_station" : "23:20:00",
+          "train_no" : "6083"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795557
+}

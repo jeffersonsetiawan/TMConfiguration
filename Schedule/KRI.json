@@ -1,0 +1,3265 @@
+{
+  "data" : [
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:25:00",
+          "train_no" : "5031C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:49:00",
+          "train_no" : "5515C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:05:00",
+          "train_no" : "5521C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:46:00",
+          "train_no" : "5525D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:45:30",
+          "train_no" : "5529C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:25:00",
+          "train_no" : "5533D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:59:30",
+          "train_no" : "5089C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:19:00",
+          "train_no" : "5537C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:51:30",
+          "train_no" : "5107C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:25:30",
+          "train_no" : "5545C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:36:30",
+          "train_no" : "5551C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:18:30",
+          "train_no" : "5129C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:40:30",
+          "train_no" : "5555C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:50:30",
+          "train_no" : "5137D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:12:30",
+          "train_no" : "5557C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:31:00",
+          "train_no" : "5143C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:21:30",
+          "train_no" : "5561C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:36:30",
+          "train_no" : "5153C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:54:30",
+          "train_no" : "5563C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:59:30",
+          "train_no" : "5157C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:04:30",
+          "train_no" : "5569C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:34:30",
+          "train_no" : "5573C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:50:30",
+          "train_no" : "5579C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:38:30",
+          "train_no" : "5583C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:55:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-JAKARTAKOTA",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:43:00",
+          "train_no" : "6083"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:46:00",
+          "train_no" : "6085A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "AK",
+      "dest_station_name" : "ANGKE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:30:00",
+          "train_no" : "5021C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:38:00",
+          "train_no" : "5023C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:44:00",
+          "train_no" : "5027C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:58:00",
+          "train_no" : "5029C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:35:00",
+          "train_no" : "5033C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:51:00",
+          "train_no" : "5037C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:12:00",
+          "train_no" : "5039D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:17:30",
+          "train_no" : "5041D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:24:00",
+          "train_no" : "5043D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:36:00",
+          "train_no" : "5045C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:43:00",
+          "train_no" : "5049C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:55:30",
+          "train_no" : "5051C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:08:30",
+          "train_no" : "5053C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:30:00",
+          "train_no" : "5055D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:36:00",
+          "train_no" : "5057D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:51:00",
+          "train_no" : "5059C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:27:00",
+          "train_no" : "5065C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:33:30",
+          "train_no" : "5067C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:15:30",
+          "train_no" : "5071C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:29:00",
+          "train_no" : "5075C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:39:00",
+          "train_no" : "5077C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:54:00",
+          "train_no" : "5079C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:15:30",
+          "train_no" : "5081C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:39:00",
+          "train_no" : "5085C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:47:30",
+          "train_no" : "5087C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:06:00",
+          "train_no" : "5091C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:14:30",
+          "train_no" : "5093D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:29:00",
+          "train_no" : "5095C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:39:30",
+          "train_no" : "5097C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:58:30",
+          "train_no" : "5099D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:02:00",
+          "train_no" : "5101D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:22:30",
+          "train_no" : "5103C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:19:00",
+          "train_no" : "5111D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:39:00",
+          "train_no" : "5115C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:55:30",
+          "train_no" : "5117C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:13:00",
+          "train_no" : "5121C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:24:30",
+          "train_no" : "5123C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:46:00",
+          "train_no" : "5125C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:23:30",
+          "train_no" : "5131C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:56:00",
+          "train_no" : "5133D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:06:00",
+          "train_no" : "5139C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:19:00",
+          "train_no" : "5141C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:37:00",
+          "train_no" : "5145C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:08:30",
+          "train_no" : "5149C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:17:00",
+          "train_no" : "5151D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:44:30",
+          "train_no" : "5155C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:14:30",
+          "train_no" : "5161C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:35:30",
+          "train_no" : "5165C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:58:00",
+          "train_no" : "5167C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:12:00",
+          "train_no" : "5169D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:21:00",
+          "train_no" : "5171D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:27:00",
+          "train_no" : "5173D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:56:30",
+          "train_no" : "5175C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:43:00",
+          "train_no" : "5181C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:24:30",
+          "train_no" : "5185D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:32:00",
+          "train_no" : "5187C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:52:30",
+          "train_no" : "5189C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:08:00",
+          "train_no" : "5193C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:51:00",
+          "train_no" : "5197D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:59:30",
+          "train_no" : "5199C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "00:10:00",
+          "train_no" : "5192C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "00:38:00",
+          "train_no" : "5198C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:38:00",
+          "train_no" : "5002"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:04:30",
+          "train_no" : "5500A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:20:00",
+          "train_no" : "5010"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:39:00",
+          "train_no" : "5014"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:03:00",
+          "train_no" : "5020A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:10:30",
+          "train_no" : "5504"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:26:00",
+          "train_no" : "5026"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:22:00",
+          "train_no" : "5034D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:30:00",
+          "train_no" : "5510A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:58:00",
+          "train_no" : "5038D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:06:00",
+          "train_no" : "5044E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:13:00",
+          "train_no" : "5514B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:39:00",
+          "train_no" : "5048E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:48:00",
+          "train_no" : "5050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:01:00",
+          "train_no" : "5052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:26:00",
+          "train_no" : "5520A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:45:00",
+          "train_no" : "5522B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:04:00",
+          "train_no" : "5524A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:16:00",
+          "train_no" : "5064C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:24:00",
+          "train_no" : "5526A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:58:00",
+          "train_no" : "5070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:47:00",
+          "train_no" : "5532A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:58:00",
+          "train_no" : "5082D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:23:00",
+          "train_no" : "5086C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:44:00",
+          "train_no" : "5088C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:58:00",
+          "train_no" : "5538A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:18:00",
+          "train_no" : "5094C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:45:00",
+          "train_no" : "5100D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:22:00",
+          "train_no" : "5104D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:03:00",
+          "train_no" : "5546A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:29:00",
+          "train_no" : "5114C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:42:00",
+          "train_no" : "5116C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:19:00",
+          "train_no" : "5552A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:30:00",
+          "train_no" : "5124C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:53:00",
+          "train_no" : "5126D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:28:00",
+          "train_no" : "5132C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:47:00",
+          "train_no" : "5136C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:17:00",
+          "train_no" : "5142C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:52:00",
+          "train_no" : "5148C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:59:00",
+          "train_no" : "5562A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:35:00",
+          "train_no" : "5564B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:54:00",
+          "train_no" : "5156C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:31:00",
+          "train_no" : "5568B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:56:00",
+          "train_no" : "5166D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:07:00",
+          "train_no" : "5168D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:31:00",
+          "train_no" : "5576A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:44:00",
+          "train_no" : "5174C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:52:00",
+          "train_no" : "5578B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:13:00",
+          "train_no" : "5176C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:10:00",
+          "train_no" : "5186D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:06:00",
+          "train_no" : "6001A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:30:00",
+          "train_no" : "6003A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:05:00",
+          "train_no" : "6005A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:30:00",
+          "train_no" : "6007A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:03:00",
+          "train_no" : "6009A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:20:30",
+          "train_no" : "6011A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:56:00",
+          "train_no" : "6013A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:20:30",
+          "train_no" : "6015A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:02:30",
+          "train_no" : "6017A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:34:00",
+          "train_no" : "6019A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:00:30",
+          "train_no" : "6021A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:29:00",
+          "train_no" : "6023B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:55:00",
+          "train_no" : "6025E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:24:30",
+          "train_no" : "6027A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:53:00",
+          "train_no" : "6029A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:27:00",
+          "train_no" : "6031A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:36:30",
+          "train_no" : "6033A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:56:00",
+          "train_no" : "6035D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:11:00",
+          "train_no" : "6037A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:44:30",
+          "train_no" : "6039A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:02:30",
+          "train_no" : "6041B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:31:00",
+          "train_no" : "6043B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:41:00",
+          "train_no" : "6045A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:00:30",
+          "train_no" : "6047B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:34:00",
+          "train_no" : "6049B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:00:30",
+          "train_no" : "6051A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:25:00",
+          "train_no" : "6053A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:42:30",
+          "train_no" : "6055A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:01:00",
+          "train_no" : "6057A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:28:00",
+          "train_no" : "6059B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:49:00",
+          "train_no" : "6061A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:20:30",
+          "train_no" : "6063A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:49:30",
+          "train_no" : "6065A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:17:00",
+          "train_no" : "6067B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:40:30",
+          "train_no" : "6069A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:10:00",
+          "train_no" : "6071B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:20:30",
+          "train_no" : "6073A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:11:30",
+          "train_no" : "6077A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:43:30",
+          "train_no" : "6079A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:15:30",
+          "train_no" : "6081A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "00:21:00",
+          "train_no" : "5194C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:52:00",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:45:00",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:12:00",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:59:00",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:13:00",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:29:00",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:09:00",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:15:00",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:07:00",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:37:00",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:53:00",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:15:00",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:10:00",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:40:00",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:07:00",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:23:00",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:16:00",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:09:00",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:37:00",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:43:00",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:50:00",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:31:00",
+          "train_no" : "6080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:52:00",
+          "train_no" : "6082C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "00:04:00",
+          "train_no" : "5205A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:06:00",
+          "train_no" : "5177A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:28:00",
+          "train_no" : "5195"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:07:00",
+          "train_no" : "5201"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:15:00",
+          "train_no" : "5203"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BKS",
+      "dest_station_name" : "BEKASI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:49:00",
+          "train_no" : "5004"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:58:00",
+          "train_no" : "5006"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:11:00",
+          "train_no" : "5008"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:33:00",
+          "train_no" : "5012"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:45:00",
+          "train_no" : "5016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:55:30",
+          "train_no" : "5502"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:21:00",
+          "train_no" : "5024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:35:00",
+          "train_no" : "5506A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:53:00",
+          "train_no" : "5508A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:00:00",
+          "train_no" : "5028C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:17:00",
+          "train_no" : "5030D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:36:00",
+          "train_no" : "5036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:42:00",
+          "train_no" : "6006C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:53:00",
+          "train_no" : "5512A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:18:00",
+          "train_no" : "6008C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:24:00",
+          "train_no" : "5046C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:31:00",
+          "train_no" : "5516A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:55:00",
+          "train_no" : "5518A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:08:00",
+          "train_no" : "5054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:15:00",
+          "train_no" : "5056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:38:00",
+          "train_no" : "6014C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:53:00",
+          "train_no" : "5060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:10:00",
+          "train_no" : "5062D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:30:00",
+          "train_no" : "5066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:46:00",
+          "train_no" : "5068C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:52:00",
+          "train_no" : "5528A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:06:00",
+          "train_no" : "5072C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:24:00",
+          "train_no" : "5530A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:37:00",
+          "train_no" : "6022C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:42:00",
+          "train_no" : "5078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:52:00",
+          "train_no" : "5080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:04:00",
+          "train_no" : "5534A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:28:00",
+          "train_no" : "5536A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:37:00",
+          "train_no" : "6026D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:54:00",
+          "train_no" : "5090D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:12:00",
+          "train_no" : "5092C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:25:00",
+          "train_no" : "5540A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:40:00",
+          "train_no" : "5098D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:49:00",
+          "train_no" : "5542B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:00:00",
+          "train_no" : "5102C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:06:00",
+          "train_no" : "6032C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:17:00",
+          "train_no" : "6034C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:28:00",
+          "train_no" : "5544A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:44:00",
+          "train_no" : "5106C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:58:00",
+          "train_no" : "5108C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:08:00",
+          "train_no" : "5110C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:22:00",
+          "train_no" : "6040C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:36:00",
+          "train_no" : "5548A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:48:00",
+          "train_no" : "6042C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:58:00",
+          "train_no" : "5550A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:04:00",
+          "train_no" : "5120C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:24:00",
+          "train_no" : "6044C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:48:00",
+          "train_no" : "5554A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:01:00",
+          "train_no" : "5128C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:14:00",
+          "train_no" : "6050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:21:00",
+          "train_no" : "5556A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:35:00",
+          "train_no" : "5134C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:42:00",
+          "train_no" : "6052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "17:52:00",
+          "train_no" : "5558A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:00:00",
+          "train_no" : "5138C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:12:00",
+          "train_no" : "5140C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:28:00",
+          "train_no" : "5560A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:33:00",
+          "train_no" : "5144C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:46:00",
+          "train_no" : "6058C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:07:00",
+          "train_no" : "5150C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:27:00",
+          "train_no" : "6062C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:41:00",
+          "train_no" : "5152C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:45:30",
+          "train_no" : "5154C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:03:00",
+          "train_no" : "5566B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:22:00",
+          "train_no" : "5160C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:49:00",
+          "train_no" : "5570A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:03:00",
+          "train_no" : "5572A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:17:00",
+          "train_no" : "5574A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:21:00",
+          "train_no" : "6070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:36:00",
+          "train_no" : "5170C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:58:00",
+          "train_no" : "6074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:27:00",
+          "train_no" : "5580A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:32:00",
+          "train_no" : "5180C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:57:00",
+          "train_no" : "5582A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:22:00",
+          "train_no" : "5584A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "23:45:00",
+          "train_no" : "5190C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "04:52:00",
+          "train_no" : "5505C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:15:00",
+          "train_no" : "5507C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:44:00",
+          "train_no" : "5509C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "05:58:00",
+          "train_no" : "5511D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:14:00",
+          "train_no" : "5517C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "07:43:00",
+          "train_no" : "5519D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:16:00",
+          "train_no" : "5063D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "08:51:00",
+          "train_no" : "5069D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:09:00",
+          "train_no" : "5527C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "09:24:00",
+          "train_no" : "5073C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:11:00",
+          "train_no" : "5531D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "11:48:00",
+          "train_no" : "5539C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:12:00",
+          "train_no" : "5541D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "12:45:00",
+          "train_no" : "5543C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:06:00",
+          "train_no" : "5109C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "13:50:00",
+          "train_no" : "5547C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:07:00",
+          "train_no" : "5119D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "14:18:00",
+          "train_no" : "5549C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "15:08:00",
+          "train_no" : "5553C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "16:52:00",
+          "train_no" : "5147D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:05:00",
+          "train_no" : "5159C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:29:00",
+          "train_no" : "5565D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:44:00",
+          "train_no" : "5567C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "19:47:00",
+          "train_no" : "5575D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:15:00",
+          "train_no" : "5577C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "20:28:00",
+          "train_no" : "5179C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "21:19:00",
+          "train_no" : "5581D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "KRANJI",
+          "time_at_station" : "22:02:00",
+          "train_no" : "5191C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TB",
+      "dest_station_name" : "TAMBUN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-TAMBUN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "06:16:00",
+          "train_no" : "5022D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "10:41:00",
+          "train_no" : "6018D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "KRANJI",
+          "time_at_station" : "18:37:00",
+          "train_no" : "5146D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795553
+}

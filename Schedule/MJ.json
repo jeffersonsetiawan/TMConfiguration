@@ -1,0 +1,1179 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:56:00",
+          "train_no" : "1823"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:53:00",
+          "train_no" : "1831"
+        }
+      ]
+    },
+    {
+      "dest_station" : "THB",
+      "dest_station_name" : "TANAHABANG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "04:19:00",
+          "train_no" : "1621D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "04:37:00",
+          "train_no" : "1625D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "04:56:00",
+          "train_no" : "1629D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "05:17:00",
+          "train_no" : "1633D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "05:36:00",
+          "train_no" : "1637D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:00:00",
+          "train_no" : "1641D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:19:00",
+          "train_no" : "1645D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:38:00",
+          "train_no" : "1649D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:59:00",
+          "train_no" : "1653D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "07:20:00",
+          "train_no" : "1657D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "07:41:00",
+          "train_no" : "1661D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:01:00",
+          "train_no" : "1665D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:21:00",
+          "train_no" : "1669D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:40:00",
+          "train_no" : "1673D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:02:00",
+          "train_no" : "1677D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:23:00",
+          "train_no" : "1681D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:46:00",
+          "train_no" : "1685D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:59:00",
+          "train_no" : "1689D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "10:25:00",
+          "train_no" : "1693D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "10:46:00",
+          "train_no" : "1701D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "11:20:00",
+          "train_no" : "1703D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "11:45:00",
+          "train_no" : "1707D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:00:00",
+          "train_no" : "1711D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:21:00",
+          "train_no" : "1715D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:50:00",
+          "train_no" : "1719D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "13:10:00",
+          "train_no" : "1723D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "13:30:00",
+          "train_no" : "1725D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "13:50:00",
+          "train_no" : "1729D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:16:00",
+          "train_no" : "1733D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:30:00",
+          "train_no" : "1737D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:51:00",
+          "train_no" : "1741D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:10:00",
+          "train_no" : "1745D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:28:00",
+          "train_no" : "1749D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:49:00",
+          "train_no" : "1753D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:09:00",
+          "train_no" : "1757D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:28:00",
+          "train_no" : "1761D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:50:00",
+          "train_no" : "1765D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1769D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:25:00",
+          "train_no" : "1771D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:48:00",
+          "train_no" : "1775D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:08:00",
+          "train_no" : "1779D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:28:00",
+          "train_no" : "1783D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:49:00",
+          "train_no" : "1787D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "19:09:00",
+          "train_no" : "1791D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "19:40:00",
+          "train_no" : "1795D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:01:00",
+          "train_no" : "1799D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:23:00",
+          "train_no" : "1801D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:45:00",
+          "train_no" : "1805D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:08:00",
+          "train_no" : "1809D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:29:00",
+          "train_no" : "1813D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:41:00",
+          "train_no" : "1815D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:24:00",
+          "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "00:22:00",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "00:39:00",
+          "train_no" : "1816D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "04:42:00",
+          "train_no" : "1602D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "05:03:00",
+          "train_no" : "1606A"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "05:43:00",
+          "train_no" : "1610D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:10:00",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "06:45:00",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "07:08:00",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "07:27:00",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:10:00",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:30:00",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "08:49:00",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:10:00",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:32:00",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "09:52:00",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "10:09:00",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "10:51:00",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "11:11:00",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "11:32:00",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "11:53:00",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:14:00",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:37:00",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "12:53:00",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "13:14:00",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "13:38:00",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:09:00",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:36:00",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "14:52:00",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:32:00",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "15:51:00",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:04:00",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "16:53:00",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:06:00",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:32:00",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "17:52:00",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:12:00",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:31:00",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "18:50:00",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "19:10:00",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "19:31:00",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "19:50:00",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:13:00",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:30:00",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "20:52:00",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:10:00",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:32:00",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:46:00",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:12:00",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:33:00",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:00:00",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:18:00",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:30:00",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:58:00",
+          "train_no" : "1810D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "MAJA",
+          "time_at_station" : "21:56:00",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:41:00",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:16:00",
+          "train_no" : "1825D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795554
+}

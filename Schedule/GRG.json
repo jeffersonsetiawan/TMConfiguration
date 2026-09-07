@@ -1,0 +1,1217 @@
+{
+  "data" : [
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "04:49:30",
+          "train_no" : "1903A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:12:30",
+          "train_no" : "1905A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:29:30",
+          "train_no" : "1907A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:42:30",
+          "train_no" : "1909A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:59:30",
+          "train_no" : "1911A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:12:30",
+          "train_no" : "1913A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:29:30",
+          "train_no" : "1915A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:42:30",
+          "train_no" : "1917A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:59:30",
+          "train_no" : "1919A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:12:30",
+          "train_no" : "1921A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:29:30",
+          "train_no" : "1923A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:42:30",
+          "train_no" : "1925A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:59:30",
+          "train_no" : "1927A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:12:30",
+          "train_no" : "1929A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:29:30",
+          "train_no" : "1931A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:42:30",
+          "train_no" : "1933A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:59:30",
+          "train_no" : "1935A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:12:30",
+          "train_no" : "1937A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:29:30",
+          "train_no" : "1939A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:42:30",
+          "train_no" : "1941A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:59:30",
+          "train_no" : "1943A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:12:30",
+          "train_no" : "1945A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:29:30",
+          "train_no" : "1947A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:59:30",
+          "train_no" : "1949A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "11:29:30",
+          "train_no" : "1951A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "11:59:30",
+          "train_no" : "1953A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "12:29:30",
+          "train_no" : "1955A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "12:59:30",
+          "train_no" : "1957A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "13:29:30",
+          "train_no" : "1959A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "13:59:30",
+          "train_no" : "1961A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "14:29:30",
+          "train_no" : "1963A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "14:59:30",
+          "train_no" : "1965A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:29:30",
+          "train_no" : "1967A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:42:30",
+          "train_no" : "1969A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:59:30",
+          "train_no" : "1971A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:12:30",
+          "train_no" : "1973A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:29:30",
+          "train_no" : "1975A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:42:30",
+          "train_no" : "1977A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:59:30",
+          "train_no" : "1979A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:12:30",
+          "train_no" : "1981A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:29:30",
+          "train_no" : "1983A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:42:30",
+          "train_no" : "1985A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:59:30",
+          "train_no" : "1987A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:12:30",
+          "train_no" : "1989A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:29:30",
+          "train_no" : "1991A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:42:30",
+          "train_no" : "1993A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:59:30",
+          "train_no" : "1995A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:12:30",
+          "train_no" : "1997A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:29:30",
+          "train_no" : "1999A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:42:30",
+          "train_no" : "2001A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:59:30",
+          "train_no" : "2003A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:12:30",
+          "train_no" : "2005A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:29:30",
+          "train_no" : "2007A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:42:30",
+          "train_no" : "2009A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:59:30",
+          "train_no" : "2011A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "21:29:30",
+          "train_no" : "2013A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "21:42:30",
+          "train_no" : "2015A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "22:12:30",
+          "train_no" : "2017A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "22:29:30",
+          "train_no" : "2019A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "GROGOL",
+          "time_at_station" : "22:59:30",
+          "train_no" : "2021A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TNG",
+      "dest_station_name" : "TANGERANG",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:13:00",
+          "train_no" : "1904A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:27:00",
+          "train_no" : "1906A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:43:00",
+          "train_no" : "1908A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "05:57:00",
+          "train_no" : "1910A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:13:00",
+          "train_no" : "1912A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:27:00",
+          "train_no" : "1914A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:43:00",
+          "train_no" : "1916A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "06:57:00",
+          "train_no" : "1918A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:13:00",
+          "train_no" : "1920A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:27:00",
+          "train_no" : "1922A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1924A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "07:57:00",
+          "train_no" : "1926A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:13:00",
+          "train_no" : "1928A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:27:00",
+          "train_no" : "1930A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:43:00",
+          "train_no" : "1932A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "08:57:00",
+          "train_no" : "1934A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:13:00",
+          "train_no" : "1936A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:27:00",
+          "train_no" : "1938A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:43:00",
+          "train_no" : "1940A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "09:57:00",
+          "train_no" : "1942A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:13:00",
+          "train_no" : "1944A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:27:00",
+          "train_no" : "1946A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "10:43:00",
+          "train_no" : "1948A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "11:13:00",
+          "train_no" : "1950A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "11:43:00",
+          "train_no" : "1952A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "12:13:00",
+          "train_no" : "1954A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "12:43:00",
+          "train_no" : "1956A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "13:13:00",
+          "train_no" : "1958A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "13:43:00",
+          "train_no" : "1960A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "14:13:00",
+          "train_no" : "1962A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "14:43:00",
+          "train_no" : "1964A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1966A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:43:00",
+          "train_no" : "1968A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "15:57:00",
+          "train_no" : "1970A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:13:00",
+          "train_no" : "1972A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:27:00",
+          "train_no" : "1974A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:43:00",
+          "train_no" : "1976A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "16:57:00",
+          "train_no" : "1978A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1980A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:27:00",
+          "train_no" : "1982A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:43:00",
+          "train_no" : "1984A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "17:57:00",
+          "train_no" : "1986A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:13:00",
+          "train_no" : "1988A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:27:00",
+          "train_no" : "1990A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:43:00",
+          "train_no" : "1992A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "18:57:00",
+          "train_no" : "1994A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:13:00",
+          "train_no" : "1996A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:27:00",
+          "train_no" : "1998A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:43:00",
+          "train_no" : "2000A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "19:57:00",
+          "train_no" : "2002A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:13:00",
+          "train_no" : "2004A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:27:00",
+          "train_no" : "2006A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:43:00",
+          "train_no" : "2008A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "20:57:00",
+          "train_no" : "2010A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "21:13:00",
+          "train_no" : "2012A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "21:57:00",
+          "train_no" : "2016A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "22:27:00",
+          "train_no" : "2018A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "22:57:00",
+          "train_no" : "2020A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "23:18:00",
+          "train_no" : "2022A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "GROGOL",
+          "time_at_station" : "23:51:00",
+          "train_no" : "2024A"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795549
+}

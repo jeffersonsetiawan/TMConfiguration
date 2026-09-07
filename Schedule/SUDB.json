@@ -1,0 +1,2689 @@
+{
+  "data" : [
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "04:20:30",
+          "train_no" : "5701C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:58:00",
+          "train_no" : "5031C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:26:30",
+          "train_no" : "5707C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:00:30",
+          "train_no" : "5513C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:20:00",
+          "train_no" : "5515C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:52:30",
+          "train_no" : "5715C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:40:00",
+          "train_no" : "5521C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:53:30",
+          "train_no" : "5523C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:17:00",
+          "train_no" : "5525D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:15:00",
+          "train_no" : "5529C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:22:30",
+          "train_no" : "5725C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:56:30",
+          "train_no" : "5533D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:17:30",
+          "train_no" : "5535C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:30:00",
+          "train_no" : "5089C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:51:00",
+          "train_no" : "5537C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:21:00",
+          "train_no" : "5107C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:56:00",
+          "train_no" : "5545C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:11:00",
+          "train_no" : "5551C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:49:00",
+          "train_no" : "5129C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:11:00",
+          "train_no" : "5555C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:19:30",
+          "train_no" : "5137D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:45:00",
+          "train_no" : "5557C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:00:00",
+          "train_no" : "5143C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:17:30",
+          "train_no" : "5559C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:52:00",
+          "train_no" : "5561C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:00:30",
+          "train_no" : "5737C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:10:00",
+          "train_no" : "5153C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:25:00",
+          "train_no" : "5563C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:30:00",
+          "train_no" : "5157C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:39:00",
+          "train_no" : "5569C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:55:30",
+          "train_no" : "5571C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:10:00",
+          "train_no" : "5573C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:22:00",
+          "train_no" : "5579C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:15:00",
+          "train_no" : "5583C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "AK",
+      "dest_station_name" : "ANGKE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "04:35:30",
+          "train_no" : "5703C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:00:00",
+          "train_no" : "5021C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:10:00",
+          "train_no" : "5023C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:16:00",
+          "train_no" : "5027C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:29:00",
+          "train_no" : "5029C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:09:00",
+          "train_no" : "5033C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:22:00",
+          "train_no" : "5037C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:42:30",
+          "train_no" : "5039D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:48:30",
+          "train_no" : "5041D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:54:30",
+          "train_no" : "5043D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:10:00",
+          "train_no" : "5045C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:15:00",
+          "train_no" : "5049C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:25:30",
+          "train_no" : "5711C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:30:00",
+          "train_no" : "5051C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:39:00",
+          "train_no" : "5053C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:00:30",
+          "train_no" : "5055D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:09:00",
+          "train_no" : "5057D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:24:30",
+          "train_no" : "5719C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:30:00",
+          "train_no" : "5059C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:58:00",
+          "train_no" : "5065C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:10:00",
+          "train_no" : "5067C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:30:00",
+          "train_no" : "5723C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:50:00",
+          "train_no" : "5071C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:00:00",
+          "train_no" : "5075C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:10:00",
+          "train_no" : "5077C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:29:00",
+          "train_no" : "5079C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:47:00",
+          "train_no" : "5081C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:10:00",
+          "train_no" : "5085C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:24:00",
+          "train_no" : "5087C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:40:00",
+          "train_no" : "5091C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:46:00",
+          "train_no" : "5093D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:00:00",
+          "train_no" : "5095C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:15:00",
+          "train_no" : "5097C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:29:30",
+          "train_no" : "5099D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:39:30",
+          "train_no" : "5101D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:56:00",
+          "train_no" : "5103C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:26:00",
+          "train_no" : "5729C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:49:30",
+          "train_no" : "5111D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:08:30",
+          "train_no" : "1727E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:15:00",
+          "train_no" : "5115C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:27:00",
+          "train_no" : "5117C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:44:00",
+          "train_no" : "5121C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:57:00",
+          "train_no" : "5123C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:21:00",
+          "train_no" : "5125C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:44:30",
+          "train_no" : "5731C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:54:00",
+          "train_no" : "5131C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:59:30",
+          "train_no" : "5733C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:24:30",
+          "train_no" : "5133D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:30:30",
+          "train_no" : "5735C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:40:00",
+          "train_no" : "5139C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:55:00",
+          "train_no" : "5141C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:10:00",
+          "train_no" : "5145C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:40:00",
+          "train_no" : "5149C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:46:30",
+          "train_no" : "5151D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:16:00",
+          "train_no" : "5155C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:48:00",
+          "train_no" : "5161C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:13:00",
+          "train_no" : "5165C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:31:00",
+          "train_no" : "5167C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:49:30",
+          "train_no" : "5171D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:59:30",
+          "train_no" : "5173D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:27:30",
+          "train_no" : "5175C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:14:00",
+          "train_no" : "5181C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:52:30",
+          "train_no" : "5185D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:09:00",
+          "train_no" : "5187C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:26:00",
+          "train_no" : "5189C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:43:00",
+          "train_no" : "5193C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:25:30",
+          "train_no" : "5197D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:35:00",
+          "train_no" : "5199C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "00:04:30",
+          "train_no" : "5198C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:51:30",
+          "train_no" : "5034D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:19:30",
+          "train_no" : "5038D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:32:30",
+          "train_no" : "5044E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:02:30",
+          "train_no" : "5048E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:14:30",
+          "train_no" : "5050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:18:30",
+          "train_no" : "5052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:41:30",
+          "train_no" : "5064C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:25:30",
+          "train_no" : "5070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:27:30",
+          "train_no" : "5082D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:50:30",
+          "train_no" : "5086C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:12:30",
+          "train_no" : "5088C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:46:30",
+          "train_no" : "5094C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:15:30",
+          "train_no" : "5100D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:50:30",
+          "train_no" : "5104D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:56:30",
+          "train_no" : "5114C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:11:30",
+          "train_no" : "5116C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:57:30",
+          "train_no" : "5124C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:18:30",
+          "train_no" : "5126D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:50:30",
+          "train_no" : "5132C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:15:30",
+          "train_no" : "5136C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:45:30",
+          "train_no" : "5142C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:19:30",
+          "train_no" : "5148C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:20:30",
+          "train_no" : "5156C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:16:30",
+          "train_no" : "5166D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:27:30",
+          "train_no" : "5168D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:12:30",
+          "train_no" : "5174C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:40:30",
+          "train_no" : "5176C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:31:30",
+          "train_no" : "5186D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:30:30",
+          "train_no" : "5192C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:20:30",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:14:30",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:42:30",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:26:30",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:41:30",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:56:30",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:32:30",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:41:30",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:32:30",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:57:30",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:18:30",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:42:30",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:31:30",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:02:30",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:31:30",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:50:30",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:41:30",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:29:30",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:59:30",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:11:30",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:18:30",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:57:30",
+          "train_no" : "6080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:20:30",
+          "train_no" : "6082C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:49:30",
+          "train_no" : "5194C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "00:14:30",
+          "train_no" : "5752C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:55:30",
+          "train_no" : "5706C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:25:30",
+          "train_no" : "5708C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:55:30",
+          "train_no" : "5710C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:10:30",
+          "train_no" : "5712C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:25:30",
+          "train_no" : "5714C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:49:30",
+          "train_no" : "5716C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:11:30",
+          "train_no" : "5718C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:51:30",
+          "train_no" : "5720C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:21:00",
+          "train_no" : "1676D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:47:30",
+          "train_no" : "5722C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:51:30",
+          "train_no" : "5728C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:00:00",
+          "train_no" : "6030C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:51:30",
+          "train_no" : "5730C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:55:30",
+          "train_no" : "5732C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:20:30",
+          "train_no" : "5734C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:47:30",
+          "train_no" : "5736C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:25:30",
+          "train_no" : "5738C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:41:30",
+          "train_no" : "5740C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:22:30",
+          "train_no" : "5742D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:41:30",
+          "train_no" : "5744C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:17:30",
+          "train_no" : "5746C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:51:00",
+          "train_no" : "2014C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-MANGGARAI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:46:30",
+          "train_no" : "5750C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BKS",
+      "dest_station_name" : "BEKASI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:13:30",
+          "train_no" : "5016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:51:30",
+          "train_no" : "5024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:26:30",
+          "train_no" : "5028C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:46:30",
+          "train_no" : "5030D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:00:30",
+          "train_no" : "5036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:10:30",
+          "train_no" : "6006C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:40:30",
+          "train_no" : "6008C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:50:30",
+          "train_no" : "5046C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:29:30",
+          "train_no" : "5054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:45:30",
+          "train_no" : "5056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:58:30",
+          "train_no" : "6014C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:19:30",
+          "train_no" : "5060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:32:30",
+          "train_no" : "5062D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:57:30",
+          "train_no" : "5066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:15:30",
+          "train_no" : "5068C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:29:30",
+          "train_no" : "5072C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:02:30",
+          "train_no" : "6022C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:11:30",
+          "train_no" : "5078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:16:30",
+          "train_no" : "5080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "11:57:30",
+          "train_no" : "6026D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:21:30",
+          "train_no" : "5090D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:41:30",
+          "train_no" : "5092C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:10:30",
+          "train_no" : "5098D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:21:30",
+          "train_no" : "5102C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:32:30",
+          "train_no" : "6032C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:44:30",
+          "train_no" : "6034C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:11:30",
+          "train_no" : "5106C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:26:30",
+          "train_no" : "5108C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:31:30",
+          "train_no" : "5110C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:48:30",
+          "train_no" : "6040C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:16:30",
+          "train_no" : "6042C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:26:30",
+          "train_no" : "5120C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:41:30",
+          "train_no" : "6044C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:27:30",
+          "train_no" : "5128C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:41:30",
+          "train_no" : "6050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "16:59:30",
+          "train_no" : "5134C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:11:30",
+          "train_no" : "6052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:26:30",
+          "train_no" : "5138C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:40:30",
+          "train_no" : "5140C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:56:30",
+          "train_no" : "5144C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:13:30",
+          "train_no" : "6058C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:31:30",
+          "train_no" : "5150C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:56:30",
+          "train_no" : "6062C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:01:30",
+          "train_no" : "5152C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:14:00",
+          "train_no" : "5154C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:49:30",
+          "train_no" : "5160C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:52:00",
+          "train_no" : "6070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:02:30",
+          "train_no" : "5170C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:26:30",
+          "train_no" : "6074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:56:30",
+          "train_no" : "5180C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:12:30",
+          "train_no" : "5190C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:24:00",
+          "train_no" : "5505C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:47:00",
+          "train_no" : "5507C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:16:00",
+          "train_no" : "5509C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "06:37:30",
+          "train_no" : "5511D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "07:44:30",
+          "train_no" : "5517C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:17:30",
+          "train_no" : "5519D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "08:46:30",
+          "train_no" : "5063D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:24:30",
+          "train_no" : "5069D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:43:00",
+          "train_no" : "5527C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "09:55:00",
+          "train_no" : "5073C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:39:30",
+          "train_no" : "5531D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:20:00",
+          "train_no" : "5539C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "12:45:30",
+          "train_no" : "5541D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:16:00",
+          "train_no" : "5543C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "13:43:00",
+          "train_no" : "5109C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:21:00",
+          "train_no" : "5547C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:37:30",
+          "train_no" : "5119D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "14:49:00",
+          "train_no" : "5549C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "15:39:00",
+          "train_no" : "5553C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "17:27:30",
+          "train_no" : "5147D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:41:00",
+          "train_no" : "5159C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:58:30",
+          "train_no" : "5565D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "19:21:00",
+          "train_no" : "5567C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:21:30",
+          "train_no" : "5575D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "20:45:00",
+          "train_no" : "5577C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:00:00",
+          "train_no" : "5179C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "21:47:30",
+          "train_no" : "5581D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "22:34:00",
+          "train_no" : "5191C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TB",
+      "dest_station_name" : "TAMBUN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-TAMBUN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "05:42:30",
+          "train_no" : "5022D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "10:10:30",
+          "train_no" : "6018D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "18:02:30",
+          "train_no" : "5146D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#F76114",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "MANGGARAI-DURI",
+          "station_name" : "SUDIRMAN BARU",
+          "time_at_station" : "23:20:30",
+          "train_no" : "2023C"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795559
+}

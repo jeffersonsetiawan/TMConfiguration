@@ -1,0 +1,3029 @@
+{
+  "data" : [
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:17:00",
+          "train_no" : "1159"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:27:00",
+          "train_no" : "1161"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:32:00",
+          "train_no" : "1163F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:37:00",
+          "train_no" : "1165"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:47:00",
+          "train_no" : "1169"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:57:00",
+          "train_no" : "1171"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:02:00",
+          "train_no" : "1173"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:12:00",
+          "train_no" : "1175"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:18:00",
+          "train_no" : "1177"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:27:00",
+          "train_no" : "1179"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:37:00",
+          "train_no" : "1183"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:57:00",
+          "train_no" : "1189"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:02:00",
+          "train_no" : "1191"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:17:00",
+          "train_no" : "1193"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:27:00",
+          "train_no" : "1197"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:37:00",
+          "train_no" : "1199F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:47:00",
+          "train_no" : "1203"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:52:00",
+          "train_no" : "1205"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:57:00",
+          "train_no" : "1207"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:03:00",
+          "train_no" : "1209"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:11:00",
+          "train_no" : "1211A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:16:00",
+          "train_no" : "1213A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:20:00",
+          "train_no" : "1215A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:31:00",
+          "train_no" : "1217A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:37:00",
+          "train_no" : "1219"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:52:00",
+          "train_no" : "1225"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:07:00",
+          "train_no" : "1227"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:12:00",
+          "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:26:00",
+          "train_no" : "1233"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:30:00",
+          "train_no" : "1235"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:47:00",
+          "train_no" : "1239"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:52:00",
+          "train_no" : "1241"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:57:00",
+          "train_no" : "1243"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:01:00",
+          "train_no" : "1245"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:06:00",
+          "train_no" : "1247"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:16:00",
+          "train_no" : "1251"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:32:00",
+          "train_no" : "1253"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:37:00",
+          "train_no" : "1255"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:01:00",
+          "train_no" : "1263"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:06:00",
+          "train_no" : "1265"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:19:00",
+          "train_no" : "1269"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:24:00",
+          "train_no" : "1271"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:40:00",
+          "train_no" : "1275"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:50:00",
+          "train_no" : "1279"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:54:00",
+          "train_no" : "1281"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:08:00",
+          "train_no" : "1285"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:17:00",
+          "train_no" : "1289"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:42:00",
+          "train_no" : "1295"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:51:00",
+          "train_no" : "1299"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:01:00",
+          "train_no" : "1303"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:06:00",
+          "train_no" : "1305"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:17:00",
+          "train_no" : "1309"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:22:00",
+          "train_no" : "1311A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:42:00",
+          "train_no" : "1315A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:51:00",
+          "train_no" : "1317A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:09:00",
+          "train_no" : "1325"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:25:00",
+          "train_no" : "1329"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:30:00",
+          "train_no" : "1331"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:35:00",
+          "train_no" : "1333"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:50:00",
+          "train_no" : "1337"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:00:00",
+          "train_no" : "1339"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:09:00",
+          "train_no" : "1343"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:13:00",
+          "train_no" : "1345"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:34:00",
+          "train_no" : "1351"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:55:00",
+          "train_no" : "1357"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:12:00",
+          "train_no" : "1361"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:22:00",
+          "train_no" : "1363"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:27:00",
+          "train_no" : "1365"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:37:00",
+          "train_no" : "1367"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:42:00",
+          "train_no" : "1369"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:46:00",
+          "train_no" : "1371"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:55:00",
+          "train_no" : "1373"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:18:00",
+          "train_no" : "1379"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:23:00",
+          "train_no" : "1381"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1383"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:34:00",
+          "train_no" : "1385"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:44:00",
+          "train_no" : "1387"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:49:00",
+          "train_no" : "1389"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:53:00",
+          "train_no" : "1391A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:09:00",
+          "train_no" : "1393"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:16:00",
+          "train_no" : "1397A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:27:00",
+          "train_no" : "1399"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:32:00",
+          "train_no" : "1401"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:49:00",
+          "train_no" : "1405"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:54:00",
+          "train_no" : "1407"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:03:00",
+          "train_no" : "1409"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:08:00",
+          "train_no" : "1411"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:23:00",
+          "train_no" : "1413"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:28:00",
+          "train_no" : "1415"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:37:00",
+          "train_no" : "1419"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:51:00",
+          "train_no" : "1421"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:00:00",
+          "train_no" : "1423"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:04:00",
+          "train_no" : "1425"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:16:00",
+          "train_no" : "1429F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:30:00",
+          "train_no" : "1431"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:35:00",
+          "train_no" : "1433"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:41:00",
+          "train_no" : "1435"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:56:00",
+          "train_no" : "1437"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:04:00",
+          "train_no" : "1439"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:14:00",
+          "train_no" : "1443"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:41:00",
+          "train_no" : "1447"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:45:00",
+          "train_no" : "1449"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:52:00",
+          "train_no" : "1451"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:15:00",
+          "train_no" : "1455"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:22:00",
+          "train_no" : "1457A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:32:00",
+          "train_no" : "1459A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:39:00",
+          "train_no" : "1461A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:11:00",
+          "train_no" : "1465"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:29:00",
+          "train_no" : "1467"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:19:00",
+          "train_no" : "1469"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BOO",
+      "dest_station_name" : "BOGOR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "00:05:00",
+          "train_no" : "1458"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "00:17:00",
+          "train_no" : "1460"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "00:32:00",
+          "train_no" : "1462"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "00:50:00",
+          "train_no" : "1468"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "01:07:00",
+          "train_no" : "1470"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:09:00",
+          "train_no" : "1104"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:23:00",
+          "train_no" : "1108"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:44:00",
+          "train_no" : "1110"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:52:00",
+          "train_no" : "1112"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:58:00",
+          "train_no" : "1114"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:07:00",
+          "train_no" : "1116"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:23:00",
+          "train_no" : "1120"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:47:00",
+          "train_no" : "1122"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:06:00",
+          "train_no" : "1000"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:11:00",
+          "train_no" : "1126F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:19:00",
+          "train_no" : "1128"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:24:00",
+          "train_no" : "1130"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:28:00",
+          "train_no" : "1002"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:33:00",
+          "train_no" : "1132"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:41:00",
+          "train_no" : "1150F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:46:00",
+          "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:51:00",
+          "train_no" : "1004"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:06:00",
+          "train_no" : "1156A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:12:00",
+          "train_no" : "1158A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:23:00",
+          "train_no" : "1006"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:37:00",
+          "train_no" : "1164"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1166"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:48:00",
+          "train_no" : "1168"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:58:00",
+          "train_no" : "1170"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1172"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:13:00",
+          "train_no" : "1010"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:18:00",
+          "train_no" : "1176"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:24:00",
+          "train_no" : "1178"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:28:00",
+          "train_no" : "1180"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:33:00",
+          "train_no" : "1012"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:38:00",
+          "train_no" : "1182"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:47:00",
+          "train_no" : "1186"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:52:00",
+          "train_no" : "1188"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:03:00",
+          "train_no" : "1190"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:11:00",
+          "train_no" : "1194"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:37:00",
+          "train_no" : "1200"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:42:00",
+          "train_no" : "1202"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:53:00",
+          "train_no" : "1016"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:59:00",
+          "train_no" : "1206"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:13:00",
+          "train_no" : "1210"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:17:00",
+          "train_no" : "1018"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:21:00",
+          "train_no" : "1212"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:26:00",
+          "train_no" : "1214"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1216"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:41:00",
+          "train_no" : "1020"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:49:00",
+          "train_no" : "1222"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:02:00",
+          "train_no" : "1226"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:13:00",
+          "train_no" : "1230"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:23:00",
+          "train_no" : "1022"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:37:00",
+          "train_no" : "1236"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:42:00",
+          "train_no" : "1238"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:52:00",
+          "train_no" : "1242"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:57:00",
+          "train_no" : "1244"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:07:00",
+          "train_no" : "1248A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:18:00",
+          "train_no" : "1250A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:23:00",
+          "train_no" : "1252A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:44:00",
+          "train_no" : "1260"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:50:00",
+          "train_no" : "1262"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:01:00",
+          "train_no" : "1266"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:06:00",
+          "train_no" : "1024"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:10:00",
+          "train_no" : "1268"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1026"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:34:00",
+          "train_no" : "1272"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:42:00",
+          "train_no" : "1276"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:47:00",
+          "train_no" : "1278"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:56:00",
+          "train_no" : "1282"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:07:00",
+          "train_no" : "1286"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:16:00",
+          "train_no" : "1290"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:31:00",
+          "train_no" : "1028"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:41:00",
+          "train_no" : "1296"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:53:00",
+          "train_no" : "1300"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:58:00",
+          "train_no" : "1302"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:08:00",
+          "train_no" : "1306"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1030"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:18:00",
+          "train_no" : "1308"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:23:00",
+          "train_no" : "1310"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:28:00",
+          "train_no" : "1312"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:36:00",
+          "train_no" : "1314"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:55:00",
+          "train_no" : "1322"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:59:00",
+          "train_no" : "1324"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:04:00",
+          "train_no" : "1326"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:11:00",
+          "train_no" : "1328"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:16:00",
+          "train_no" : "1330"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:21:00",
+          "train_no" : "1032"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:26:00",
+          "train_no" : "1332"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:31:00",
+          "train_no" : "1334"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:43:00",
+          "train_no" : "1336A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:51:00",
+          "train_no" : "1034"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:56:00",
+          "train_no" : "1340"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:02:00",
+          "train_no" : "1342A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:07:00",
+          "train_no" : "1344A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1346A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:19:00",
+          "train_no" : "1348"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:25:00",
+          "train_no" : "1350"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:35:00",
+          "train_no" : "1352"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:39:00",
+          "train_no" : "1354"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:49:00",
+          "train_no" : "1040"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:54:00",
+          "train_no" : "1356"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:00:00",
+          "train_no" : "1358"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:10:00",
+          "train_no" : "1360"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:15:00",
+          "train_no" : "1362"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:20:00",
+          "train_no" : "1364"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:27:00",
+          "train_no" : "1366"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:31:00",
+          "train_no" : "1368"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:36:00",
+          "train_no" : "1044"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:40:00",
+          "train_no" : "1370"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:52:00",
+          "train_no" : "1374F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:56:00",
+          "train_no" : "1046"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:05:00",
+          "train_no" : "1376"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:09:00",
+          "train_no" : "1378"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:16:00",
+          "train_no" : "1380"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:21:00",
+          "train_no" : "1048"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:27:00",
+          "train_no" : "1382"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:32:00",
+          "train_no" : "1384"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:36:00",
+          "train_no" : "1050"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:40:00",
+          "train_no" : "1386"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:45:00",
+          "train_no" : "1388"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:50:00",
+          "train_no" : "1390"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:00:00",
+          "train_no" : "1392"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:14:00",
+          "train_no" : "1054"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:19:00",
+          "train_no" : "1396"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:26:00",
+          "train_no" : "1398"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:42:00",
+          "train_no" : "1404"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:47:00",
+          "train_no" : "1056"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:51:00",
+          "train_no" : "1406"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:55:00",
+          "train_no" : "1408"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:08:00",
+          "train_no" : "1410A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:14:00",
+          "train_no" : "1412A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:19:00",
+          "train_no" : "1414A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:26:00",
+          "train_no" : "1416A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:37:00",
+          "train_no" : "1418"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:43:00",
+          "train_no" : "1420"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:52:00",
+          "train_no" : "1422"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:04:00",
+          "train_no" : "1426F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:10:00",
+          "train_no" : "1428"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:15:00",
+          "train_no" : "1430"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:21:00",
+          "train_no" : "1432"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:28:00",
+          "train_no" : "1434"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:38:00",
+          "train_no" : "1436"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:48:00",
+          "train_no" : "1438"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:01:00",
+          "train_no" : "1442"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:19:00",
+          "train_no" : "1446"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:27:00",
+          "train_no" : "1448"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:38:00",
+          "train_no" : "1452"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DP",
+      "dest_station_name" : "DEPOK",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:41:00",
+          "train_no" : "1101"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:55:00",
+          "train_no" : "1103"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:21:00",
+          "train_no" : "1057"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:46:00",
+          "train_no" : "1059"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "19:51:00",
+          "train_no" : "1105"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:00:00",
+          "train_no" : "1107"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:09:00",
+          "train_no" : "1441"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "20:25:00",
+          "train_no" : "1445"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:09:00",
+          "train_no" : "1113"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:27:00",
+          "train_no" : "1115A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "21:48:00",
+          "train_no" : "1117"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:01:00",
+          "train_no" : "1119"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:20:00",
+          "train_no" : "1123"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:34:00",
+          "train_no" : "1125F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:40:00",
+          "train_no" : "1127"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:47:00",
+          "train_no" : "1129"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "22:54:00",
+          "train_no" : "1131"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:06:00",
+          "train_no" : "1133"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "23:31:00",
+          "train_no" : "1137"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:22:00",
+          "train_no" : "1001"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "04:51:00",
+          "train_no" : "1003"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "05:22:00",
+          "train_no" : "1005"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:12:00",
+          "train_no" : "1009"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1011"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "07:56:00",
+          "train_no" : "1015"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:16:00",
+          "train_no" : "1017"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "08:37:00",
+          "train_no" : "1019"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "09:21:00",
+          "train_no" : "1021"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "10:58:00",
+          "train_no" : "1023"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "11:27:00",
+          "train_no" : "1025"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "12:31:00",
+          "train_no" : "1027A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "13:15:00",
+          "train_no" : "1029"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:22:00",
+          "train_no" : "1031"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "14:45:00",
+          "train_no" : "1033"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "15:51:00",
+          "train_no" : "1039"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:39:00",
+          "train_no" : "1043"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "16:58:00",
+          "train_no" : "1045A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:23:00",
+          "train_no" : "1047"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "17:37:00",
+          "train_no" : "1049"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:18:00",
+          "train_no" : "1053"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CILEBUT",
+          "time_at_station" : "18:45:00",
+          "train_no" : "1055"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795546
+}

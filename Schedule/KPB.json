@@ -1,0 +1,1767 @@
+{
+  "data" : [
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "00:30:00",
+          "train_no" : "6085A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:42:00",
+          "train_no" : "2203A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:12:00",
+          "train_no" : "2205A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:42:00",
+          "train_no" : "2207A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:12:00",
+          "train_no" : "2209A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:42:00",
+          "train_no" : "2211A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:12:00",
+          "train_no" : "2213A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:42:00",
+          "train_no" : "2215A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:12:00",
+          "train_no" : "2217A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:42:00",
+          "train_no" : "2219A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:12:00",
+          "train_no" : "2221A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:42:00",
+          "train_no" : "2223A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:12:00",
+          "train_no" : "2225A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:42:00",
+          "train_no" : "2227A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:12:00",
+          "train_no" : "2229A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:42:00",
+          "train_no" : "2231A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:12:00",
+          "train_no" : "2233A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:42:00",
+          "train_no" : "2235A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:12:00",
+          "train_no" : "2237A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:42:00",
+          "train_no" : "2239A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:12:00",
+          "train_no" : "2241A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:42:00",
+          "train_no" : "2243A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:12:00",
+          "train_no" : "2245A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:42:00",
+          "train_no" : "2247A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:12:00",
+          "train_no" : "2249A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:42:00",
+          "train_no" : "2251A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:12:00",
+          "train_no" : "2253A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:42:00",
+          "train_no" : "2255A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:12:00",
+          "train_no" : "2257A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:42:00",
+          "train_no" : "2259A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:12:00",
+          "train_no" : "2261A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:42:00",
+          "train_no" : "2263A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:12:00",
+          "train_no" : "2265A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:38:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-JAKARTAKOTA",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "23:32:00",
+          "train_no" : "6083"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TPK",
+      "dest_station_name" : "TANJUNGPRIUK",
+      "trains" : [
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:04:00",
+          "train_no" : "2200"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:34:00",
+          "train_no" : "2202"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:04:00",
+          "train_no" : "2204"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:34:00",
+          "train_no" : "2206"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:04:00",
+          "train_no" : "2208"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:34:00",
+          "train_no" : "2210"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:04:00",
+          "train_no" : "2212"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:34:00",
+          "train_no" : "2214"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:04:00",
+          "train_no" : "2216"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:34:00",
+          "train_no" : "2218"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:04:00",
+          "train_no" : "2220"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:34:00",
+          "train_no" : "2222"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:04:00",
+          "train_no" : "2224"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:34:00",
+          "train_no" : "2226"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:04:00",
+          "train_no" : "2228"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:34:00",
+          "train_no" : "2230"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:04:00",
+          "train_no" : "2232"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:34:00",
+          "train_no" : "2234"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:04:00",
+          "train_no" : "2236"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:34:00",
+          "train_no" : "2238"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:04:00",
+          "train_no" : "2240"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:34:00",
+          "train_no" : "2242"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:04:00",
+          "train_no" : "2244"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:34:00",
+          "train_no" : "2246"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:04:00",
+          "train_no" : "2248"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:34:00",
+          "train_no" : "2250"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:04:00",
+          "train_no" : "2252"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:34:00",
+          "train_no" : "2254"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:04:00",
+          "train_no" : "2256"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:34:00",
+          "train_no" : "2258"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:04:00",
+          "train_no" : "2260"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:34:00",
+          "train_no" : "2262"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "04:26:00",
+          "train_no" : "5500A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:34:00",
+          "train_no" : "5504"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:44:00",
+          "train_no" : "5510A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:29:00",
+          "train_no" : "5514B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:48:00",
+          "train_no" : "5520A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:07:00",
+          "train_no" : "5522B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:22:00",
+          "train_no" : "5524A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:45:00",
+          "train_no" : "5526A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:09:00",
+          "train_no" : "5532A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:21:00",
+          "train_no" : "5538A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:24:00",
+          "train_no" : "5546A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:39:00",
+          "train_no" : "5552A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:21:00",
+          "train_no" : "5562A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:53:00",
+          "train_no" : "5564B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:47:00",
+          "train_no" : "5568B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:48:00",
+          "train_no" : "5576A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:13:00",
+          "train_no" : "5578B"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "04:58:00",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:50:00",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:16:00",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:03:00",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:17:00",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:31:00",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:10:00",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:17:00",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:11:00",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:36:00",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:54:00",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:20:00",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:10:00",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:41:00",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:09:00",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:26:00",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:17:00",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:07:00",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:38:00",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:49:00",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:56:00",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "22:32:00",
+          "train_no" : "6080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "22:58:00",
+          "train_no" : "6082C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "23:27:00",
+          "train_no" : "5194C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:33:00",
+          "train_no" : "5706C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:03:00",
+          "train_no" : "5708C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:45:00",
+          "train_no" : "5712C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:04:00",
+          "train_no" : "5714C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:28:00",
+          "train_no" : "5716C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:47:00",
+          "train_no" : "5718C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:37:00",
+          "train_no" : "6030C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:28:00",
+          "train_no" : "5730C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:32:00",
+          "train_no" : "5732C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:02:00",
+          "train_no" : "5738C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:01:00",
+          "train_no" : "5742D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-MANGGARAI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:53:00",
+          "train_no" : "5746C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BKS",
+      "dest_station_name" : "BEKASI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:18:00",
+          "train_no" : "5502"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "05:55:00",
+          "train_no" : "5506A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:13:00",
+          "train_no" : "5508A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "06:48:00",
+          "train_no" : "6006C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:09:00",
+          "train_no" : "5512A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:16:00",
+          "train_no" : "6008C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "07:50:00",
+          "train_no" : "5516A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "08:13:00",
+          "train_no" : "5518A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:34:00",
+          "train_no" : "5066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:08:00",
+          "train_no" : "5072C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:10:00",
+          "train_no" : "5528A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:41:00",
+          "train_no" : "6022C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "10:45:00",
+          "train_no" : "5530A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:25:00",
+          "train_no" : "5534A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:36:00",
+          "train_no" : "6026D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "11:45:00",
+          "train_no" : "5536A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:16:00",
+          "train_no" : "5092C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "12:47:00",
+          "train_no" : "5540A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:11:00",
+          "train_no" : "6032C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:12:00",
+          "train_no" : "5542B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:20:00",
+          "train_no" : "6034C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "13:45:00",
+          "train_no" : "5544A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:02:00",
+          "train_no" : "5108C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:26:00",
+          "train_no" : "6040C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:52:00",
+          "train_no" : "5548A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "14:53:00",
+          "train_no" : "6042C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:16:00",
+          "train_no" : "6044C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "15:18:00",
+          "train_no" : "5550A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:08:00",
+          "train_no" : "5554A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:17:00",
+          "train_no" : "6050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:41:00",
+          "train_no" : "5556A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "16:45:00",
+          "train_no" : "6052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:02:00",
+          "train_no" : "5138C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:13:00",
+          "train_no" : "5558A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:48:00",
+          "train_no" : "6058C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:49:00",
+          "train_no" : "5560A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:09:00",
+          "train_no" : "5150C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:33:00",
+          "train_no" : "6062C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:39:00",
+          "train_no" : "5152C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "18:51:00",
+          "train_no" : "5154C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:24:00",
+          "train_no" : "5566B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "19:25:00",
+          "train_no" : "5160C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:08:00",
+          "train_no" : "5570A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:23:00",
+          "train_no" : "5572A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:24:00",
+          "train_no" : "6070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "20:38:00",
+          "train_no" : "5574A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:02:00",
+          "train_no" : "6074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "21:49:00",
+          "train_no" : "5580A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "22:18:00",
+          "train_no" : "5582A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "22:43:00",
+          "train_no" : "5584A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TB",
+      "dest_station_name" : "TAMBUN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "09:45:00",
+          "train_no" : "6018D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "KAMPUNG BANDAN",
+          "time_at_station" : "17:39:00",
+          "train_no" : "5146D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795553
+}

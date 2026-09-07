@@ -1,0 +1,157 @@
+{
+  "data" : [
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "06:37:00",
+          "train_no" : "311"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "09:22:00",
+          "train_no" : "319"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "11:39:00",
+          "train_no" : "313"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "14:17:00",
+          "train_no" : "321"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "18:15:00",
+          "train_no" : "315"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "20:34:00",
+          "train_no" : "323"
+        },
+        {
+          "color" : "#16812b",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuterline Merak",
+          "route" : "MERAK-RANGKASBITUNG",
+          "station_name" : "CATANG",
+          "time_at_station" : "22:54:00",
+          "train_no" : "317"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MER",
+      "dest_station_name" : "MERAK",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "05:49:00",
+          "train_no" : "318"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "07:49:00",
+          "train_no" : "312"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "10:29:00",
+          "train_no" : "320"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "14:16:00",
+          "train_no" : "314"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "17:04:00",
+          "train_no" : "322"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "19:24:00",
+          "train_no" : "316"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "CATANG",
+          "time_at_station" : "21:44:00",
+          "train_no" : "324"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795566
+}

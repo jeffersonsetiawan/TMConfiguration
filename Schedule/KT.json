@@ -1,0 +1,287 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PL",
+      "dest_station_name" : "PALUR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "05:40:00",
+          "train_no" : "720"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "06:35:00",
+          "train_no" : "730F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "07:39:00",
+          "train_no" : "702"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "08:28:00",
+          "train_no" : "712"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "09:23:00",
+          "train_no" : "722"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "11:30:00",
+          "train_no" : "704"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "12:41:00",
+          "train_no" : "724"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "14:33:00",
+          "train_no" : "714"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "15:36:00",
+          "train_no" : "706"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "16:44:00",
+          "train_no" : "726"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "18:08:00",
+          "train_no" : "716"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "18:42:00",
+          "train_no" : "708"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "20:50:00",
+          "train_no" : "728"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "21:58:00",
+          "train_no" : "718A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "KLATEN",
+          "time_at_station" : "23:10:00",
+          "train_no" : "710"
+        }
+      ]
+    },
+    {
+      "dest_station" : "YK",
+      "dest_station_name" : "YOGYAKARTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "05:48:00",
+          "train_no" : "701"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "06:53:00",
+          "train_no" : "711"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "08:02:00",
+          "train_no" : "721"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "09:55:00",
+          "train_no" : "703"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "11:26:00",
+          "train_no" : "723"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "13:38:00",
+          "train_no" : "705"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "14:29:00",
+          "train_no" : "725"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "16:23:00",
+          "train_no" : "715"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "17:21:00",
+          "train_no" : "707"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "18:53:00",
+          "train_no" : "727"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "20:36:00",
+          "train_no" : "717"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "KLATEN",
+          "time_at_station" : "21:28:00",
+          "train_no" : "709"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795563
+}

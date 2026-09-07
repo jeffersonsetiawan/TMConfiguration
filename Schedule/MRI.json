@@ -1,0 +1,5607 @@
+{
+  "data" : [
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "00:15:00",
+          "train_no" : "1469"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:41:00",
+          "train_no" : "1151"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:46:00",
+          "train_no" : "1153F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:56:00",
+          "train_no" : "1155"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:11:00",
+          "train_no" : "1159"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:21:00",
+          "train_no" : "1161"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:26:00",
+          "train_no" : "1163F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:31:00",
+          "train_no" : "1165"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:38:00",
+          "train_no" : "1167"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:42:00",
+          "train_no" : "1169"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:51:00",
+          "train_no" : "1171"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:57:00",
+          "train_no" : "1173"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:01:00",
+          "train_no" : "1501"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:06:00",
+          "train_no" : "1175"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:13:00",
+          "train_no" : "1177"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:21:00",
+          "train_no" : "1179"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOJONGGEDE-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:29:00",
+          "train_no" : "1181"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:33:00",
+          "train_no" : "1183"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:41:00",
+          "train_no" : "1185"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOJONGGEDE-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:48:00",
+          "train_no" : "1187"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:53:00",
+          "train_no" : "1189"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:57:00",
+          "train_no" : "1191"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:03:00",
+          "train_no" : "1503"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:12:00",
+          "train_no" : "1193"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:24:00",
+          "train_no" : "1197"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:30:00",
+          "train_no" : "1199F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1203"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1205"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:54:00",
+          "train_no" : "1207"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:58:00",
+          "train_no" : "1209"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1505"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:09:00",
+          "train_no" : "1211A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:13:00",
+          "train_no" : "1213A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:23:00",
+          "train_no" : "1215A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:29:00",
+          "train_no" : "1217A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:35:00",
+          "train_no" : "1219"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1225"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:55:00",
+          "train_no" : "1507"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:01:00",
+          "train_no" : "1227"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:09:00",
+          "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:20:00",
+          "train_no" : "1233"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:24:00",
+          "train_no" : "1235"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:42:00",
+          "train_no" : "1239"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:46:00",
+          "train_no" : "1241"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:51:00",
+          "train_no" : "1243"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:55:00",
+          "train_no" : "1245"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:01:00",
+          "train_no" : "1247"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:11:00",
+          "train_no" : "1251"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:20:00",
+          "train_no" : "1509"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:26:00",
+          "train_no" : "1253"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1255"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:55:00",
+          "train_no" : "1263"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:04:00",
+          "train_no" : "1265"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:14:00",
+          "train_no" : "1269"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:19:00",
+          "train_no" : "1271"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:25:00",
+          "train_no" : "1511"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:34:00",
+          "train_no" : "1275"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:44:00",
+          "train_no" : "1279"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:48:00",
+          "train_no" : "1281"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:03:00",
+          "train_no" : "1285"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:14:00",
+          "train_no" : "1289"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:26:00",
+          "train_no" : "1513"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:36:00",
+          "train_no" : "1295"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:48:00",
+          "train_no" : "1299"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:56:00",
+          "train_no" : "1303"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:00:00",
+          "train_no" : "1305"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:11:00",
+          "train_no" : "1309"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:16:00",
+          "train_no" : "1311A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:21:00",
+          "train_no" : "1313"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:36:00",
+          "train_no" : "1315A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:41:00",
+          "train_no" : "1515A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:46:00",
+          "train_no" : "1317A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:06:00",
+          "train_no" : "1325"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:19:00",
+          "train_no" : "1329"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:24:00",
+          "train_no" : "1331"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:29:00",
+          "train_no" : "1333"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:39:00",
+          "train_no" : "1335"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:44:00",
+          "train_no" : "1337"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:50:00",
+          "train_no" : "1517"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:54:00",
+          "train_no" : "1339"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:03:00",
+          "train_no" : "1343"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:07:00",
+          "train_no" : "1345"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:12:00",
+          "train_no" : "1347"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:23:00",
+          "train_no" : "1349"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:28:00",
+          "train_no" : "1351"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:35:00",
+          "train_no" : "1353"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:43:00",
+          "train_no" : "1355"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:49:00",
+          "train_no" : "1357"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:58:00",
+          "train_no" : "1519"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:02:00",
+          "train_no" : "1359"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:07:00",
+          "train_no" : "1361"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:16:00",
+          "train_no" : "1363"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:21:00",
+          "train_no" : "1365"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:32:00",
+          "train_no" : "1367"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:37:00",
+          "train_no" : "1369"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:41:00",
+          "train_no" : "1371"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:51:00",
+          "train_no" : "1373"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:01:00",
+          "train_no" : "1377F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:09:00",
+          "train_no" : "1521"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1379"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:17:00",
+          "train_no" : "1381"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:24:00",
+          "train_no" : "1383"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:28:00",
+          "train_no" : "1385"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:38:00",
+          "train_no" : "1387"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:43:00",
+          "train_no" : "1389"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1391A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:59:00",
+          "train_no" : "1523"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:03:00",
+          "train_no" : "1393"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:13:00",
+          "train_no" : "1397A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:22:00",
+          "train_no" : "1399"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:29:00",
+          "train_no" : "1401"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:44:00",
+          "train_no" : "1405"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:48:00",
+          "train_no" : "1407"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:57:00",
+          "train_no" : "1409"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:02:00",
+          "train_no" : "1411"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:09:00",
+          "train_no" : "1525"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:19:00",
+          "train_no" : "1413"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:25:00",
+          "train_no" : "1415"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:36:00",
+          "train_no" : "1419"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:48:00",
+          "train_no" : "1421"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:54:00",
+          "train_no" : "1423"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:58:00",
+          "train_no" : "1425"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:12:00",
+          "train_no" : "1429F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:20:00",
+          "train_no" : "1527"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:24:00",
+          "train_no" : "1431"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:30:00",
+          "train_no" : "1433"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:34:00",
+          "train_no" : "1435"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:50:00",
+          "train_no" : "1437"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:58:00",
+          "train_no" : "1439"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:09:00",
+          "train_no" : "1443"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:31:00",
+          "train_no" : "1529"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:35:00",
+          "train_no" : "1447"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:39:00",
+          "train_no" : "1449"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:46:00",
+          "train_no" : "1451"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:08:00",
+          "train_no" : "1455"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:19:00",
+          "train_no" : "1457A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:25:00",
+          "train_no" : "1459A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:35:00",
+          "train_no" : "1461A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:59:00",
+          "train_no" : "1531"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:04:00",
+          "train_no" : "1465"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:21:00",
+          "train_no" : "1467"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:15:00",
+          "train_no" : "5701C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:53:00",
+          "train_no" : "5031C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:21:00",
+          "train_no" : "5707C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:55:00",
+          "train_no" : "5513C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:15:00",
+          "train_no" : "5515C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:47:00",
+          "train_no" : "5715C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:35:00",
+          "train_no" : "5521C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:48:00",
+          "train_no" : "5523C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:12:00",
+          "train_no" : "5525D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:10:00",
+          "train_no" : "5529C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:17:00",
+          "train_no" : "5725C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:52:00",
+          "train_no" : "5533D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:12:00",
+          "train_no" : "5535C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:25:00",
+          "train_no" : "5089C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:46:00",
+          "train_no" : "5537C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:16:00",
+          "train_no" : "5107C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:51:00",
+          "train_no" : "5545C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:06:00",
+          "train_no" : "5551C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:44:00",
+          "train_no" : "5129C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:06:00",
+          "train_no" : "5555C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:15:00",
+          "train_no" : "5137D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:40:00",
+          "train_no" : "5557C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:55:00",
+          "train_no" : "5143C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:12:00",
+          "train_no" : "5559C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:47:00",
+          "train_no" : "5561C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:55:00",
+          "train_no" : "5737C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:05:00",
+          "train_no" : "5153C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:20:00",
+          "train_no" : "5563C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:25:00",
+          "train_no" : "5157C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:34:00",
+          "train_no" : "5569C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:50:00",
+          "train_no" : "5571C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:05:00",
+          "train_no" : "5573C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:17:00",
+          "train_no" : "5579C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:10:00",
+          "train_no" : "5583C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BOO",
+      "dest_station_name" : "BOGOR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "00:15:00",
+          "train_no" : "1470"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:10:00",
+          "train_no" : "1000"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:27:00",
+          "train_no" : "1002"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:43:00",
+          "train_no" : "1150F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:50:00",
+          "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:54:00",
+          "train_no" : "1004"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:05:00",
+          "train_no" : "1156A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:13:00",
+          "train_no" : "1158A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:26:00",
+          "train_no" : "1006"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:39:00",
+          "train_no" : "1164"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:48:00",
+          "train_no" : "1166"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:52:00",
+          "train_no" : "1168"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:00:00",
+          "train_no" : "1170"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:05:00",
+          "train_no" : "1172"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:17:00",
+          "train_no" : "1010"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:21:00",
+          "train_no" : "1176"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:28:00",
+          "train_no" : "1178"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:33:00",
+          "train_no" : "1180"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:38:00",
+          "train_no" : "1012"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1182"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:52:00",
+          "train_no" : "1186"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:59:00",
+          "train_no" : "1188"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:07:00",
+          "train_no" : "1190"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1194"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:43:00",
+          "train_no" : "1200"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:47:00",
+          "train_no" : "1202"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:58:00",
+          "train_no" : "1016"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:03:00",
+          "train_no" : "1206"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:18:00",
+          "train_no" : "1210"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:22:00",
+          "train_no" : "1018"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:25:00",
+          "train_no" : "1212"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:32:00",
+          "train_no" : "1214"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:37:00",
+          "train_no" : "1216"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:46:00",
+          "train_no" : "1020"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:55:00",
+          "train_no" : "1222"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:07:00",
+          "train_no" : "1226"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:19:00",
+          "train_no" : "1230"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:28:00",
+          "train_no" : "1022"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:44:00",
+          "train_no" : "1236"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:48:00",
+          "train_no" : "1238"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:57:00",
+          "train_no" : "1242"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:03:00",
+          "train_no" : "1244"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:12:00",
+          "train_no" : "1248A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:23:00",
+          "train_no" : "1250A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:28:00",
+          "train_no" : "1252A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:49:00",
+          "train_no" : "1260"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:56:00",
+          "train_no" : "1262"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:07:00",
+          "train_no" : "1266"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:11:00",
+          "train_no" : "1024"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:16:00",
+          "train_no" : "1268"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:31:00",
+          "train_no" : "1026"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:37:00",
+          "train_no" : "1272"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:47:00",
+          "train_no" : "1276"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:52:00",
+          "train_no" : "1278"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:02:00",
+          "train_no" : "1282"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:13:00",
+          "train_no" : "1286"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:21:00",
+          "train_no" : "1290"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:36:00",
+          "train_no" : "1028"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:47:00",
+          "train_no" : "1296"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:58:00",
+          "train_no" : "1300"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:03:00",
+          "train_no" : "1302"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:14:00",
+          "train_no" : "1306"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:18:00",
+          "train_no" : "1030"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:23:00",
+          "train_no" : "1308"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:29:00",
+          "train_no" : "1310"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:34:00",
+          "train_no" : "1312"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:42:00",
+          "train_no" : "1314"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:01:00",
+          "train_no" : "1322"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:05:00",
+          "train_no" : "1324"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:09:00",
+          "train_no" : "1326"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:17:00",
+          "train_no" : "1328"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:21:00",
+          "train_no" : "1330"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:26:00",
+          "train_no" : "1032"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:31:00",
+          "train_no" : "1332"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:36:00",
+          "train_no" : "1334"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:47:00",
+          "train_no" : "1336A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:54:00",
+          "train_no" : "1034"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:59:00",
+          "train_no" : "1340"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:04:00",
+          "train_no" : "1342A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:09:00",
+          "train_no" : "1344A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:16:00",
+          "train_no" : "1346A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:24:00",
+          "train_no" : "1348"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:31:00",
+          "train_no" : "1350"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:39:00",
+          "train_no" : "1352"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:43:00",
+          "train_no" : "1354"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:54:00",
+          "train_no" : "1040"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:59:00",
+          "train_no" : "1356"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:06:00",
+          "train_no" : "1358"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:16:00",
+          "train_no" : "1360"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:21:00",
+          "train_no" : "1362"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:25:00",
+          "train_no" : "1364"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:30:00",
+          "train_no" : "1366"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:37:00",
+          "train_no" : "1368"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:41:00",
+          "train_no" : "1044"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:46:00",
+          "train_no" : "1370"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:58:00",
+          "train_no" : "1374F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:01:00",
+          "train_no" : "1046"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:09:00",
+          "train_no" : "1376"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:14:00",
+          "train_no" : "1378"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:21:00",
+          "train_no" : "1380"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:25:00",
+          "train_no" : "1048"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:29:00",
+          "train_no" : "1382"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:38:00",
+          "train_no" : "1384"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:41:00",
+          "train_no" : "1050"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:45:00",
+          "train_no" : "1386"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:49:00",
+          "train_no" : "1388"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:57:00",
+          "train_no" : "1390"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:04:00",
+          "train_no" : "1392"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:19:00",
+          "train_no" : "1054"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:25:00",
+          "train_no" : "1396"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:32:00",
+          "train_no" : "1398"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:48:00",
+          "train_no" : "1404"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:52:00",
+          "train_no" : "1056"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:56:00",
+          "train_no" : "1406"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:00:00",
+          "train_no" : "1408"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:10:00",
+          "train_no" : "1410A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:17:00",
+          "train_no" : "1412A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:21:00",
+          "train_no" : "1414A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:27:00",
+          "train_no" : "1416A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:43:00",
+          "train_no" : "1418"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:49:00",
+          "train_no" : "1420"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:58:00",
+          "train_no" : "1422"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:10:00",
+          "train_no" : "1426F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:16:00",
+          "train_no" : "1428"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:20:00",
+          "train_no" : "1430"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:27:00",
+          "train_no" : "1432"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:34:00",
+          "train_no" : "1434"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:44:00",
+          "train_no" : "1436"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:53:00",
+          "train_no" : "1438"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:08:00",
+          "train_no" : "1442"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:25:00",
+          "train_no" : "1446"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:33:00",
+          "train_no" : "1448"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:44:00",
+          "train_no" : "1452"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:11:00",
+          "train_no" : "1458"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:23:00",
+          "train_no" : "1460"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:38:00",
+          "train_no" : "1462"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:58:00",
+          "train_no" : "1468"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "00:15:00",
+          "train_no" : "5198C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:15:00",
+          "train_no" : "5002"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:57:00",
+          "train_no" : "5010"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:16:00",
+          "train_no" : "5014"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:40:00",
+          "train_no" : "5020A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:03:00",
+          "train_no" : "5026"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:00:00",
+          "train_no" : "5034D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:32:00",
+          "train_no" : "5038D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:43:00",
+          "train_no" : "5044E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:14:00",
+          "train_no" : "5048E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:23:00",
+          "train_no" : "5050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:33:00",
+          "train_no" : "5052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:52:00",
+          "train_no" : "5064C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:35:00",
+          "train_no" : "5070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:36:00",
+          "train_no" : "5082D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:59:00",
+          "train_no" : "5086C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:21:00",
+          "train_no" : "5088C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:55:00",
+          "train_no" : "5094C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:24:00",
+          "train_no" : "5100D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:59:00",
+          "train_no" : "5104D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:05:00",
+          "train_no" : "5114C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:19:00",
+          "train_no" : "5116C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:06:00",
+          "train_no" : "5124C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:29:00",
+          "train_no" : "5126D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:03:00",
+          "train_no" : "5132C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:24:00",
+          "train_no" : "5136C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:54:00",
+          "train_no" : "5142C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:28:00",
+          "train_no" : "5148C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:30:00",
+          "train_no" : "5156C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:30:00",
+          "train_no" : "5166D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:45:00",
+          "train_no" : "5168D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:21:00",
+          "train_no" : "5174C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:50:00",
+          "train_no" : "5176C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:43:00",
+          "train_no" : "5186D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-CIKARANG",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:48:00",
+          "train_no" : "5192C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "AK",
+      "dest_station_name" : "ANGKE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:30:00",
+          "train_no" : "5703C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:55:00",
+          "train_no" : "5021C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:05:00",
+          "train_no" : "5023C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:11:00",
+          "train_no" : "5027C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:24:00",
+          "train_no" : "5029C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:04:00",
+          "train_no" : "5033C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:17:00",
+          "train_no" : "5037C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:38:00",
+          "train_no" : "5039D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:44:00",
+          "train_no" : "5041D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:50:00",
+          "train_no" : "5043D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:05:00",
+          "train_no" : "5045C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:10:00",
+          "train_no" : "5049C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:20:00",
+          "train_no" : "5711C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:25:00",
+          "train_no" : "5051C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:34:00",
+          "train_no" : "5053C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:56:00",
+          "train_no" : "5055D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:04:00",
+          "train_no" : "5057D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:19:00",
+          "train_no" : "5719C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:25:00",
+          "train_no" : "5059C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:53:00",
+          "train_no" : "5065C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:05:00",
+          "train_no" : "5067C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:25:00",
+          "train_no" : "5723C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:45:00",
+          "train_no" : "5071C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:55:00",
+          "train_no" : "5075C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:05:00",
+          "train_no" : "5077C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:24:00",
+          "train_no" : "5079C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:42:00",
+          "train_no" : "5081C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:05:00",
+          "train_no" : "5085C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:19:00",
+          "train_no" : "5087C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:35:00",
+          "train_no" : "5091C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:41:00",
+          "train_no" : "5093D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:55:00",
+          "train_no" : "5095C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:10:00",
+          "train_no" : "5097C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:25:00",
+          "train_no" : "5099D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:35:00",
+          "train_no" : "5101D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:51:00",
+          "train_no" : "5103C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:21:00",
+          "train_no" : "5729C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:45:00",
+          "train_no" : "5111D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:04:00",
+          "train_no" : "1727E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:10:00",
+          "train_no" : "5115C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:22:00",
+          "train_no" : "5117C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:39:00",
+          "train_no" : "5121C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:52:00",
+          "train_no" : "5123C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:16:00",
+          "train_no" : "5125C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:39:00",
+          "train_no" : "5731C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:49:00",
+          "train_no" : "5131C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:54:00",
+          "train_no" : "5733C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:20:00",
+          "train_no" : "5133D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:25:00",
+          "train_no" : "5735C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:35:00",
+          "train_no" : "5139C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:50:00",
+          "train_no" : "5141C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:05:00",
+          "train_no" : "5145C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:35:00",
+          "train_no" : "5149C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:42:00",
+          "train_no" : "5151D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:11:00",
+          "train_no" : "5155C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:43:00",
+          "train_no" : "5161C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:08:00",
+          "train_no" : "5165C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:26:00",
+          "train_no" : "5167C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:40:00",
+          "train_no" : "5169D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:45:00",
+          "train_no" : "5171D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:55:00",
+          "train_no" : "5173D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:23:00",
+          "train_no" : "5175C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:09:00",
+          "train_no" : "5181C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:48:00",
+          "train_no" : "5185D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:04:00",
+          "train_no" : "5187C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:21:00",
+          "train_no" : "5189C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:38:00",
+          "train_no" : "5193C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:21:00",
+          "train_no" : "5197D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-ANGKE",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:30:00",
+          "train_no" : "5199C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DP",
+      "dest_station_name" : "DEPOK",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:13:00",
+          "train_no" : "1174"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1184"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:26:00",
+          "train_no" : "1196F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:14:00",
+          "train_no" : "1208F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:51:00",
+          "train_no" : "1220F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:03:00",
+          "train_no" : "1224"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:24:00",
+          "train_no" : "1232"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:52:00",
+          "train_no" : "1240"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:44:00",
+          "train_no" : "1402"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:39:00",
+          "train_no" : "1450"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:04:00",
+          "train_no" : "1456"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:53:00",
+          "train_no" : "1466"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:29:00",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:23:00",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:51:00",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:36:00",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:50:00",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:06:00",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:45:00",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:51:00",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:44:00",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:14:00",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:28:00",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:51:00",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:45:00",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:16:00",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:44:00",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:00:00",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:51:00",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:46:00",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:14:00",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:20:00",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:27:00",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:08:00",
+          "train_no" : "6080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:29:00",
+          "train_no" : "6082C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:58:00",
+          "train_no" : "5194C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BKS",
+      "dest_station_name" : "BEKASI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:26:00",
+          "train_no" : "5004"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:35:00",
+          "train_no" : "5006"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "04:48:00",
+          "train_no" : "5008"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "MANGGARAI-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:10:00",
+          "train_no" : "5012"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:22:00",
+          "train_no" : "5016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:59:00",
+          "train_no" : "5024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:37:00",
+          "train_no" : "5028C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:55:00",
+          "train_no" : "5030D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:14:00",
+          "train_no" : "5036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:19:00",
+          "train_no" : "6006C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:49:00",
+          "train_no" : "6008C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:59:00",
+          "train_no" : "5046C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:45:00",
+          "train_no" : "5054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:54:00",
+          "train_no" : "5056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:15:00",
+          "train_no" : "6014C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:30:00",
+          "train_no" : "5060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:45:00",
+          "train_no" : "5062D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:06:00",
+          "train_no" : "5066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:24:00",
+          "train_no" : "5068C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:44:00",
+          "train_no" : "5072C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:14:00",
+          "train_no" : "6022C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:20:00",
+          "train_no" : "5078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:26:00",
+          "train_no" : "5080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:14:00",
+          "train_no" : "6026D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:30:00",
+          "train_no" : "5090D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:49:00",
+          "train_no" : "5092C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:19:00",
+          "train_no" : "5098D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:38:00",
+          "train_no" : "5102C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:43:00",
+          "train_no" : "6032C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:54:00",
+          "train_no" : "6034C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:21:00",
+          "train_no" : "5106C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:35:00",
+          "train_no" : "5108C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:45:00",
+          "train_no" : "5110C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:59:00",
+          "train_no" : "6040C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:25:00",
+          "train_no" : "6042C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:37:00",
+          "train_no" : "5120C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:59:00",
+          "train_no" : "6044C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:38:00",
+          "train_no" : "5128C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:50:00",
+          "train_no" : "6050D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:13:00",
+          "train_no" : "5134C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:20:00",
+          "train_no" : "6052D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:37:00",
+          "train_no" : "5138C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:49:00",
+          "train_no" : "5140C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:07:00",
+          "train_no" : "5144C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:22:00",
+          "train_no" : "6058C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:45:00",
+          "train_no" : "5150C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:05:00",
+          "train_no" : "6062C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:13:00",
+          "train_no" : "5152C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:23:00",
+          "train_no" : "5154C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:59:00",
+          "train_no" : "5160C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:58:00",
+          "train_no" : "6070C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:14:00",
+          "train_no" : "5170C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:35:00",
+          "train_no" : "6074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:07:00",
+          "train_no" : "5180C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-BEKASI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:21:00",
+          "train_no" : "5190C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:19:00",
+          "train_no" : "5505C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:42:00",
+          "train_no" : "5507C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:11:00",
+          "train_no" : "5509C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:33:00",
+          "train_no" : "5511D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "07:40:00",
+          "train_no" : "5517C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:13:00",
+          "train_no" : "5519D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:42:00",
+          "train_no" : "5063D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:20:00",
+          "train_no" : "5069D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:38:00",
+          "train_no" : "5527C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:50:00",
+          "train_no" : "5073C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:35:00",
+          "train_no" : "5531D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:15:00",
+          "train_no" : "5539C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:41:00",
+          "train_no" : "5541D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:11:00",
+          "train_no" : "5543C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:38:00",
+          "train_no" : "5109C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:16:00",
+          "train_no" : "5547C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:33:00",
+          "train_no" : "5119D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:44:00",
+          "train_no" : "5549C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:34:00",
+          "train_no" : "5553C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "17:23:00",
+          "train_no" : "5147D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:36:00",
+          "train_no" : "5159C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:54:00",
+          "train_no" : "5565D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:16:00",
+          "train_no" : "5567C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:17:00",
+          "train_no" : "5575D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:40:00",
+          "train_no" : "5577C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:55:00",
+          "train_no" : "5179C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "21:43:00",
+          "train_no" : "5581D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "22:29:00",
+          "train_no" : "5191C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "NMO",
+      "dest_station_name" : "NAMBO",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:37:00",
+          "train_no" : "1504"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "06:34:00",
+          "train_no" : "1506"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1508"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:07:00",
+          "train_no" : "1510"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "09:59:00",
+          "train_no" : "1512"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "11:17:00",
+          "train_no" : "1514"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "12:23:00",
+          "train_no" : "1516"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "13:32:00",
+          "train_no" : "1518"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "14:38:00",
+          "train_no" : "1520"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "15:43:00",
+          "train_no" : "1522"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "16:50:00",
+          "train_no" : "1524"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:05:00",
+          "train_no" : "1526"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "19:16:00",
+          "train_no" : "1528"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "20:35:00",
+          "train_no" : "1530"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TB",
+      "dest_station_name" : "TAMBUN",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "ANGKE-TAMBUN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "05:52:00",
+          "train_no" : "5022D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "10:19:00",
+          "train_no" : "6018D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "18:15:00",
+          "train_no" : "5146D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#F76114",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "MANGGARAI-DURI",
+          "station_name" : "MANGGARAI",
+          "time_at_station" : "23:15:00",
+          "train_no" : "2023C"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795555
+}

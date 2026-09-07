@@ -1,0 +1,1573 @@
+{
+  "data" : [
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:13:00",
+          "train_no" : "1001"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:42:00",
+          "train_no" : "1003"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:13:00",
+          "train_no" : "1005"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:02:00",
+          "train_no" : "1009"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:22:00",
+          "train_no" : "1011"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1015"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:07:00",
+          "train_no" : "1017"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:28:00",
+          "train_no" : "1019"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:12:00",
+          "train_no" : "1021"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:49:00",
+          "train_no" : "1023"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:18:00",
+          "train_no" : "1025"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "12:22:00",
+          "train_no" : "1027A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:06:00",
+          "train_no" : "1029"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:13:00",
+          "train_no" : "1031"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:36:00",
+          "train_no" : "1033"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:41:00",
+          "train_no" : "1039"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:30:00",
+          "train_no" : "1043"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:48:00",
+          "train_no" : "1045A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:14:00",
+          "train_no" : "1047"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:28:00",
+          "train_no" : "1049"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:09:00",
+          "train_no" : "1053"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:36:00",
+          "train_no" : "1055"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DP",
+      "dest_station_name" : "DEPOK",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:32:00",
+          "train_no" : "1101"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:46:00",
+          "train_no" : "1103"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:12:00",
+          "train_no" : "1057"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:37:00",
+          "train_no" : "1059"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:42:00",
+          "train_no" : "1105"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:51:00",
+          "train_no" : "1107"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:00:00",
+          "train_no" : "1441"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:16:00",
+          "train_no" : "1445"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:00:00",
+          "train_no" : "1113"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:18:00",
+          "train_no" : "1115A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:39:00",
+          "train_no" : "1117"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:52:00",
+          "train_no" : "1119"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:11:00",
+          "train_no" : "1123"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:25:00",
+          "train_no" : "1125F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:31:00",
+          "train_no" : "1127"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:38:00",
+          "train_no" : "1129"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:45:00",
+          "train_no" : "1131"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:57:00",
+          "train_no" : "1133"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Dinas Rangkaian Commuterline",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:05:00",
+          "train_no" : "D1\/R1438-1"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:22:00",
+          "train_no" : "1137"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Dinas Rangkaian Commuterline",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:42:00",
+          "train_no" : "R1141"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Dinas Rangkaian Commuterline",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:50:00",
+          "train_no" : "R1143"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Dinas Rangkaian Commuterline",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:55:00",
+          "train_no" : "D1\/R1452-1"
+        }
+      ]
+    },
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:08:00",
+          "train_no" : "1159"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:18:00",
+          "train_no" : "1161"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:23:00",
+          "train_no" : "1163F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:28:00",
+          "train_no" : "1165"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:38:00",
+          "train_no" : "1169"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:48:00",
+          "train_no" : "1171"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "04:53:00",
+          "train_no" : "1173"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:03:00",
+          "train_no" : "1175"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:09:00",
+          "train_no" : "1177"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:18:00",
+          "train_no" : "1179"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:28:00",
+          "train_no" : "1183"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:48:00",
+          "train_no" : "1189"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "05:53:00",
+          "train_no" : "1191"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:08:00",
+          "train_no" : "1193"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:18:00",
+          "train_no" : "1197"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:28:00",
+          "train_no" : "1199F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:38:00",
+          "train_no" : "1203"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:43:00",
+          "train_no" : "1205"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:48:00",
+          "train_no" : "1207"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "06:54:00",
+          "train_no" : "1209"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:01:00",
+          "train_no" : "1211A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:07:00",
+          "train_no" : "1213A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:11:00",
+          "train_no" : "1215A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:22:00",
+          "train_no" : "1217A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:28:00",
+          "train_no" : "1219"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:42:00",
+          "train_no" : "1225"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "07:58:00",
+          "train_no" : "1227"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1233"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:21:00",
+          "train_no" : "1235"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:38:00",
+          "train_no" : "1239"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:43:00",
+          "train_no" : "1241"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1243"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:52:00",
+          "train_no" : "1245"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "08:57:00",
+          "train_no" : "1247"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:07:00",
+          "train_no" : "1251"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:23:00",
+          "train_no" : "1253"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:28:00",
+          "train_no" : "1255"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:52:00",
+          "train_no" : "1263"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "09:57:00",
+          "train_no" : "1265"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:10:00",
+          "train_no" : "1269"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:15:00",
+          "train_no" : "1271"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1275"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:41:00",
+          "train_no" : "1279"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:45:00",
+          "train_no" : "1281"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "10:59:00",
+          "train_no" : "1285"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:08:00",
+          "train_no" : "1289"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:33:00",
+          "train_no" : "1295"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:42:00",
+          "train_no" : "1299"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:52:00",
+          "train_no" : "1303"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "11:57:00",
+          "train_no" : "1305"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "12:08:00",
+          "train_no" : "1309"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "12:12:00",
+          "train_no" : "1311A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "12:33:00",
+          "train_no" : "1315A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "12:42:00",
+          "train_no" : "1317A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:00:00",
+          "train_no" : "1325"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:16:00",
+          "train_no" : "1329"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:21:00",
+          "train_no" : "1331"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1333"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:41:00",
+          "train_no" : "1337"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "13:51:00",
+          "train_no" : "1339"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:00:00",
+          "train_no" : "1343"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:04:00",
+          "train_no" : "1345"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:25:00",
+          "train_no" : "1351"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "14:46:00",
+          "train_no" : "1357"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:03:00",
+          "train_no" : "1361"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1363"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:18:00",
+          "train_no" : "1365"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:28:00",
+          "train_no" : "1367"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:33:00",
+          "train_no" : "1369"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:37:00",
+          "train_no" : "1371"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "15:46:00",
+          "train_no" : "1373"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:09:00",
+          "train_no" : "1379"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:14:00",
+          "train_no" : "1381"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:20:00",
+          "train_no" : "1383"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:25:00",
+          "train_no" : "1385"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:35:00",
+          "train_no" : "1387"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:40:00",
+          "train_no" : "1389"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "16:44:00",
+          "train_no" : "1391A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:00:00",
+          "train_no" : "1393"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:07:00",
+          "train_no" : "1397A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:18:00",
+          "train_no" : "1399"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:23:00",
+          "train_no" : "1401"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:40:00",
+          "train_no" : "1405"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:45:00",
+          "train_no" : "1407"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:54:00",
+          "train_no" : "1409"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "17:59:00",
+          "train_no" : "1411"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:14:00",
+          "train_no" : "1413"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:19:00",
+          "train_no" : "1415"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:28:00",
+          "train_no" : "1419"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:42:00",
+          "train_no" : "1421"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:51:00",
+          "train_no" : "1423"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "18:55:00",
+          "train_no" : "1425"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:07:00",
+          "train_no" : "1429F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:21:00",
+          "train_no" : "1431"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:26:00",
+          "train_no" : "1433"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:32:00",
+          "train_no" : "1435"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:47:00",
+          "train_no" : "1437"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "19:55:00",
+          "train_no" : "1439"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:05:00",
+          "train_no" : "1443"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:31:00",
+          "train_no" : "1447"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:36:00",
+          "train_no" : "1449"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "20:43:00",
+          "train_no" : "1451"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:06:00",
+          "train_no" : "1455"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:12:00",
+          "train_no" : "1457A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:23:00",
+          "train_no" : "1459A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "21:30:00",
+          "train_no" : "1461A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:02:00",
+          "train_no" : "1465"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "22:20:00",
+          "train_no" : "1467"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOGOR",
+          "time_at_station" : "23:10:00",
+          "train_no" : "1469"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795543
+}

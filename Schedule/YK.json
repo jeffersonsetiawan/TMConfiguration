@@ -1,0 +1,217 @@
+{
+  "data" : [
+    {
+      "dest_station" : "KTA",
+      "dest_station_name" : "KUTOARJO",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "06:40:00",
+          "train_no" : "501"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "11:50:00",
+          "train_no" : "503"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:15:00",
+          "train_no" : "505"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "16:20:00",
+          "train_no" : "509"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "18:05:00",
+          "train_no" : "507"
+        }
+      ]
+    },
+    {
+      "dest_station" : "PL",
+      "dest_station_name" : "PALUR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "05:05:00",
+          "train_no" : "720"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "06:00:00",
+          "train_no" : "730F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "07:05:00",
+          "train_no" : "702"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "07:54:00",
+          "train_no" : "712"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "08:49:00",
+          "train_no" : "722"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "10:56:00",
+          "train_no" : "704"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "12:07:00",
+          "train_no" : "724"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "13:57:00",
+          "train_no" : "714"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:01:00",
+          "train_no" : "706"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "16:10:00",
+          "train_no" : "726"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "17:35:00",
+          "train_no" : "716"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "18:08:00",
+          "train_no" : "708"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "20:15:00",
+          "train_no" : "728"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "21:25:00",
+          "train_no" : "718A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "PL",
+          "dest_station_name" : "PALUR",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "YOGYAKARTA-PALUR",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "22:35:00",
+          "train_no" : "710"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795565
+}

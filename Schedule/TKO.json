@@ -1,0 +1,1217 @@
+{
+  "data" : [
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "04:45:30",
+          "train_no" : "1903A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:08:30",
+          "train_no" : "1905A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:25:30",
+          "train_no" : "1907A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:38:30",
+          "train_no" : "1909A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:55:30",
+          "train_no" : "1911A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:08:30",
+          "train_no" : "1913A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:25:30",
+          "train_no" : "1915A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:38:30",
+          "train_no" : "1917A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:55:30",
+          "train_no" : "1919A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:08:30",
+          "train_no" : "1921A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:25:30",
+          "train_no" : "1923A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:38:30",
+          "train_no" : "1925A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:55:30",
+          "train_no" : "1927A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:08:30",
+          "train_no" : "1929A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:25:30",
+          "train_no" : "1931A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:38:30",
+          "train_no" : "1933A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:55:30",
+          "train_no" : "1935A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:08:30",
+          "train_no" : "1937A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:25:30",
+          "train_no" : "1939A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:38:30",
+          "train_no" : "1941A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:55:30",
+          "train_no" : "1943A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:08:30",
+          "train_no" : "1945A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:25:30",
+          "train_no" : "1947A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:55:30",
+          "train_no" : "1949A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "11:25:30",
+          "train_no" : "1951A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "11:55:30",
+          "train_no" : "1953A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "12:25:30",
+          "train_no" : "1955A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "12:55:30",
+          "train_no" : "1957A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "13:25:30",
+          "train_no" : "1959A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "13:55:30",
+          "train_no" : "1961A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "14:25:30",
+          "train_no" : "1963A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "14:55:30",
+          "train_no" : "1965A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "15:25:30",
+          "train_no" : "1967A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "15:38:30",
+          "train_no" : "1969A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "15:55:30",
+          "train_no" : "1971A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:08:30",
+          "train_no" : "1973A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:25:30",
+          "train_no" : "1975A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:38:30",
+          "train_no" : "1977A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:55:30",
+          "train_no" : "1979A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:08:30",
+          "train_no" : "1981A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:25:30",
+          "train_no" : "1983A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:38:30",
+          "train_no" : "1985A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:55:30",
+          "train_no" : "1987A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:08:30",
+          "train_no" : "1989A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:25:30",
+          "train_no" : "1991A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:38:30",
+          "train_no" : "1993A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:55:30",
+          "train_no" : "1995A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:08:30",
+          "train_no" : "1997A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:25:30",
+          "train_no" : "1999A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:38:30",
+          "train_no" : "2001A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:55:30",
+          "train_no" : "2003A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:08:30",
+          "train_no" : "2005A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:25:30",
+          "train_no" : "2007A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:38:30",
+          "train_no" : "2009A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:55:30",
+          "train_no" : "2011A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "21:25:30",
+          "train_no" : "2013A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "21:38:30",
+          "train_no" : "2015A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "22:08:30",
+          "train_no" : "2017A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "22:25:30",
+          "train_no" : "2019A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "22:55:30",
+          "train_no" : "2021A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TNG",
+      "dest_station_name" : "TANGERANG",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:17:00",
+          "train_no" : "1904A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:31:00",
+          "train_no" : "1906A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "05:47:00",
+          "train_no" : "1908A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:01:00",
+          "train_no" : "1910A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:17:00",
+          "train_no" : "1912A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1914A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "06:47:00",
+          "train_no" : "1916A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:01:00",
+          "train_no" : "1918A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:17:00",
+          "train_no" : "1920A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:31:00",
+          "train_no" : "1922A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1924A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:01:00",
+          "train_no" : "1926A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1928A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:31:00",
+          "train_no" : "1930A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "08:47:00",
+          "train_no" : "1932A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:01:00",
+          "train_no" : "1934A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:17:00",
+          "train_no" : "1936A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:31:00",
+          "train_no" : "1938A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "09:47:00",
+          "train_no" : "1940A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:01:00",
+          "train_no" : "1942A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:17:00",
+          "train_no" : "1944A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1946A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "10:47:00",
+          "train_no" : "1948A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "11:17:00",
+          "train_no" : "1950A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "11:47:00",
+          "train_no" : "1952A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "12:17:00",
+          "train_no" : "1954A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "12:47:00",
+          "train_no" : "1956A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "13:17:00",
+          "train_no" : "1958A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "13:47:00",
+          "train_no" : "1960A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "14:17:00",
+          "train_no" : "1962A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "14:47:00",
+          "train_no" : "1964A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "15:17:00",
+          "train_no" : "1966A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "15:47:00",
+          "train_no" : "1968A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:01:00",
+          "train_no" : "1970A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:17:00",
+          "train_no" : "1972A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:31:00",
+          "train_no" : "1974A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "16:47:00",
+          "train_no" : "1976A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:01:00",
+          "train_no" : "1978A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:17:00",
+          "train_no" : "1980A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:31:00",
+          "train_no" : "1982A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1984A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:01:00",
+          "train_no" : "1986A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:17:00",
+          "train_no" : "1988A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:31:00",
+          "train_no" : "1990A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "18:47:00",
+          "train_no" : "1992A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:01:00",
+          "train_no" : "1994A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:17:00",
+          "train_no" : "1996A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:31:00",
+          "train_no" : "1998A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "19:47:00",
+          "train_no" : "2000A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:01:00",
+          "train_no" : "2002A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:17:00",
+          "train_no" : "2004A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:31:00",
+          "train_no" : "2006A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "20:47:00",
+          "train_no" : "2008A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "21:01:00",
+          "train_no" : "2010A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "21:17:00",
+          "train_no" : "2012A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "22:01:00",
+          "train_no" : "2016A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "22:31:00",
+          "train_no" : "2018A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "23:01:00",
+          "train_no" : "2020A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "23:22:00",
+          "train_no" : "2022A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TAMAN KOTA",
+          "time_at_station" : "23:55:00",
+          "train_no" : "2024A"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795561
+}

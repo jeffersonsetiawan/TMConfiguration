@@ -1,0 +1,1949 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "00:31:00",
+          "train_no" : "1820D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:14:00",
+          "train_no" : "1632D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:54:00",
+          "train_no" : "1640D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:36:00",
+          "train_no" : "1648D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:15:00",
+          "train_no" : "1656D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:58:00",
+          "train_no" : "1664D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:38:00",
+          "train_no" : "1672D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:38:00",
+          "train_no" : "1684D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:16:00",
+          "train_no" : "1692D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:43:00",
+          "train_no" : "1696D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:05:00",
+          "train_no" : "1700D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:40:00",
+          "train_no" : "1706D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:20:00",
+          "train_no" : "1714D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:56:00",
+          "train_no" : "1720D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:30:00",
+          "train_no" : "1726D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:56:00",
+          "train_no" : "1730D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:36:00",
+          "train_no" : "1738D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:57:00",
+          "train_no" : "1742D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:37:00",
+          "train_no" : "1750D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:17:00",
+          "train_no" : "1758D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:56:00",
+          "train_no" : "1766D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:17:00",
+          "train_no" : "7100D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:36:00",
+          "train_no" : "1772D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:17:00",
+          "train_no" : "1788D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:39:00",
+          "train_no" : "1796D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "23:01:00",
+          "train_no" : "1806D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "THB",
+      "dest_station_name" : "TANAHABANG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "04:03:00",
+          "train_no" : "1613D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "04:24:00",
+          "train_no" : "1615"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "04:39:00",
+          "train_no" : "1617D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "04:50:00",
+          "train_no" : "1619D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:02:00",
+          "train_no" : "1621D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:12:00",
+          "train_no" : "1623B"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:21:00",
+          "train_no" : "1625D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:31:00",
+          "train_no" : "1627D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:41:00",
+          "train_no" : "1629D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:51:00",
+          "train_no" : "1631D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:01:00",
+          "train_no" : "1633D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:10:00",
+          "train_no" : "1635B"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:20:00",
+          "train_no" : "1637D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1639D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:44:00",
+          "train_no" : "1641D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:53:00",
+          "train_no" : "1643D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:02:00",
+          "train_no" : "1645D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:14:00",
+          "train_no" : "1647D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:24:00",
+          "train_no" : "1649D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:33:00",
+          "train_no" : "1651D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1653D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:53:00",
+          "train_no" : "1655D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:04:00",
+          "train_no" : "1657D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:14:00",
+          "train_no" : "1659D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:24:00",
+          "train_no" : "1661D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:36:00",
+          "train_no" : "1663D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:45:00",
+          "train_no" : "1665D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:54:00",
+          "train_no" : "1667D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:05:00",
+          "train_no" : "1669D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:15:00",
+          "train_no" : "1671D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:24:00",
+          "train_no" : "1673D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:36:00",
+          "train_no" : "1675D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:46:00",
+          "train_no" : "1677D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:09:00",
+          "train_no" : "1681D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:18:00",
+          "train_no" : "1683D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:31:00",
+          "train_no" : "1685D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:42:00",
+          "train_no" : "1689D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:54:00",
+          "train_no" : "1691D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:08:00",
+          "train_no" : "1693D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:19:00",
+          "train_no" : "1695D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:30:00",
+          "train_no" : "1701D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:43:00",
+          "train_no" : "1699D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:03:00",
+          "train_no" : "1703D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:16:00",
+          "train_no" : "1705D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:32:00",
+          "train_no" : "1707D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:43:00",
+          "train_no" : "1711D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:54:00",
+          "train_no" : "1713D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:04:00",
+          "train_no" : "1715D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:24:00",
+          "train_no" : "1717D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:33:00",
+          "train_no" : "1719D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:44:00",
+          "train_no" : "1721D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:53:00",
+          "train_no" : "1723D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:13:00",
+          "train_no" : "1725D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:33:00",
+          "train_no" : "1729D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:45:00",
+          "train_no" : "1731D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:01:00",
+          "train_no" : "1733D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1737D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:24:00",
+          "train_no" : "1739D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:34:00",
+          "train_no" : "1741D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:43:00",
+          "train_no" : "1743D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:53:00",
+          "train_no" : "1745D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:02:00",
+          "train_no" : "1747D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:11:00",
+          "train_no" : "1749D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:21:00",
+          "train_no" : "1751D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:32:00",
+          "train_no" : "1753D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:42:00",
+          "train_no" : "1755D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:52:00",
+          "train_no" : "1757D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:03:00",
+          "train_no" : "1759D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:12:00",
+          "train_no" : "1761D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:22:00",
+          "train_no" : "1763D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:34:00",
+          "train_no" : "1765D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1767D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:58:00",
+          "train_no" : "1769D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:08:00",
+          "train_no" : "1771D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:18:00",
+          "train_no" : "1773D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:31:00",
+          "train_no" : "1775D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:41:00",
+          "train_no" : "1777D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:51:00",
+          "train_no" : "1779D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:01:00",
+          "train_no" : "1781D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:11:00",
+          "train_no" : "1783D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:21:00",
+          "train_no" : "1785D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:34:00",
+          "train_no" : "1787D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:43:00",
+          "train_no" : "1789D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:53:00",
+          "train_no" : "1791D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:15:00",
+          "train_no" : "1793D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:24:00",
+          "train_no" : "1795D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:33:00",
+          "train_no" : "1797D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:44:00",
+          "train_no" : "1799D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:54:00",
+          "train_no" : "7101D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:07:00",
+          "train_no" : "1801D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:17:00",
+          "train_no" : "1803D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:30:00",
+          "train_no" : "1805D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:51:00",
+          "train_no" : "1809D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "22:14:00",
+          "train_no" : "1813D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "22:25:00",
+          "train_no" : "1815D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "23:09:00",
+          "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "03:58:00",
+          "train_no" : "1602D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "04:57:00",
+          "train_no" : "1610D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:26:00",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "05:48:00",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:01:00",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:24:00",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:44:00",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:04:00",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:25:00",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:45:00",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:05:00",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:26:00",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:46:00",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:06:00",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:25:00",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:47:00",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:07:00",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:28:00",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:48:00",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:10:00",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:29:00",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "11:54:00",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:06:00",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:30:00",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "12:55:00",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "13:53:00",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:08:00",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:30:00",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "14:46:00",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:07:00",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:20:00",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "15:44:00",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:10:00",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:23:00",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "16:47:00",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:07:00",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:27:00",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:07:00",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:26:00",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:47:00",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:06:00",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:28:00",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:47:00",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:06:00",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:26:00",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:48:00",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:02:00",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:29:00",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "21:50:00",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "22:17:00",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "22:35:00",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "22:46:00",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "23:15:00",
+          "train_no" : "1810D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "23:38:00",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "SERPONG",
+          "time_at_station" : "23:55:00",
+          "train_no" : "1816D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:11:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "06:34:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "07:35:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:16:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "08:56:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "09:34:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "10:17:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:17:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "17:57:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "18:36:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "19:56:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:17:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "SERPONG",
+          "time_at_station" : "20:37:00",
+          "train_no" : "1784D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795558
+}

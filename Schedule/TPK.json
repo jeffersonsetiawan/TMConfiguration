@@ -1,0 +1,331 @@
+{
+  "data" : [
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "05:29:00",
+          "train_no" : "2203A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "05:59:00",
+          "train_no" : "2205A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "06:29:00",
+          "train_no" : "2207A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "06:59:00",
+          "train_no" : "2209A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "07:29:00",
+          "train_no" : "2211A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "07:59:00",
+          "train_no" : "2213A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "08:29:00",
+          "train_no" : "2215A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "08:59:00",
+          "train_no" : "2217A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "09:29:00",
+          "train_no" : "2219A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "09:59:00",
+          "train_no" : "2221A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "10:29:00",
+          "train_no" : "2223A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "10:59:00",
+          "train_no" : "2225A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "11:29:00",
+          "train_no" : "2227A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "11:59:00",
+          "train_no" : "2229A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "12:29:00",
+          "train_no" : "2231A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "12:59:00",
+          "train_no" : "2233A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "13:29:00",
+          "train_no" : "2235A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "13:59:00",
+          "train_no" : "2237A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "14:29:00",
+          "train_no" : "2239A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "14:59:00",
+          "train_no" : "2241A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "15:29:00",
+          "train_no" : "2243A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "15:59:00",
+          "train_no" : "2245A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "16:29:00",
+          "train_no" : "2247A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "16:59:00",
+          "train_no" : "2249A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "17:29:00",
+          "train_no" : "2251A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "17:59:00",
+          "train_no" : "2253A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "18:29:00",
+          "train_no" : "2255A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "18:59:00",
+          "train_no" : "2257A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "19:29:00",
+          "train_no" : "2259A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "19:59:00",
+          "train_no" : "2261A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "20:29:00",
+          "train_no" : "2263A"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "TANJUNGPRIUK-JAKARTAKOTA",
+          "station_name" : "TANJUNG PRIOK",
+          "time_at_station" : "20:59:00",
+          "train_no" : "2265A"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795561
+}

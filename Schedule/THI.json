@@ -1,0 +1,1217 @@
+{
+  "data" : [
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "04:30:30",
+          "train_no" : "1903A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "04:53:30",
+          "train_no" : "1905A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:10:30",
+          "train_no" : "1907A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:23:30",
+          "train_no" : "1909A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:40:30",
+          "train_no" : "1911A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:53:30",
+          "train_no" : "1913A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:10:30",
+          "train_no" : "1915A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:23:30",
+          "train_no" : "1917A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:40:30",
+          "train_no" : "1919A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:53:30",
+          "train_no" : "1921A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:10:30",
+          "train_no" : "1923A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:23:30",
+          "train_no" : "1925A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:40:30",
+          "train_no" : "1927A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:53:30",
+          "train_no" : "1929A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:10:30",
+          "train_no" : "1931A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:23:30",
+          "train_no" : "1933A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:40:30",
+          "train_no" : "1935A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:53:30",
+          "train_no" : "1937A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:10:30",
+          "train_no" : "1939A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:23:30",
+          "train_no" : "1941A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:40:30",
+          "train_no" : "1943A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:53:30",
+          "train_no" : "1945A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:10:30",
+          "train_no" : "1947A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:40:30",
+          "train_no" : "1949A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "11:10:30",
+          "train_no" : "1951A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "11:40:30",
+          "train_no" : "1953A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "12:10:30",
+          "train_no" : "1955A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "12:40:30",
+          "train_no" : "1957A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "13:10:30",
+          "train_no" : "1959A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "13:40:30",
+          "train_no" : "1961A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "14:10:30",
+          "train_no" : "1963A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "14:40:30",
+          "train_no" : "1965A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:10:30",
+          "train_no" : "1967A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:23:30",
+          "train_no" : "1969A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:40:30",
+          "train_no" : "1971A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:53:30",
+          "train_no" : "1973A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:10:30",
+          "train_no" : "1975A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:23:30",
+          "train_no" : "1977A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:40:30",
+          "train_no" : "1979A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:53:30",
+          "train_no" : "1981A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:10:30",
+          "train_no" : "1983A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:23:30",
+          "train_no" : "1985A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:40:30",
+          "train_no" : "1987A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:53:30",
+          "train_no" : "1989A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:10:30",
+          "train_no" : "1991A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:23:30",
+          "train_no" : "1993A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:40:30",
+          "train_no" : "1995A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:53:30",
+          "train_no" : "1997A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:10:30",
+          "train_no" : "1999A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:23:30",
+          "train_no" : "2001A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:40:30",
+          "train_no" : "2003A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:53:30",
+          "train_no" : "2005A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:10:30",
+          "train_no" : "2007A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:23:30",
+          "train_no" : "2009A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:40:30",
+          "train_no" : "2011A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:10:30",
+          "train_no" : "2013A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:23:30",
+          "train_no" : "2015A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:53:30",
+          "train_no" : "2017A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "22:10:30",
+          "train_no" : "2019A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "22:40:30",
+          "train_no" : "2021A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TNG",
+      "dest_station_name" : "TANGERANG",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "00:11:00",
+          "train_no" : "2024A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:33:00",
+          "train_no" : "1904A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "05:47:00",
+          "train_no" : "1906A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:03:00",
+          "train_no" : "1908A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:17:00",
+          "train_no" : "1910A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:33:00",
+          "train_no" : "1912A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "06:47:00",
+          "train_no" : "1914A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:03:00",
+          "train_no" : "1916A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:17:00",
+          "train_no" : "1918A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:33:00",
+          "train_no" : "1920A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1922A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1924A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1926A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:33:00",
+          "train_no" : "1928A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "08:47:00",
+          "train_no" : "1930A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:03:00",
+          "train_no" : "1932A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:17:00",
+          "train_no" : "1934A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:33:00",
+          "train_no" : "1936A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "09:47:00",
+          "train_no" : "1938A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:03:00",
+          "train_no" : "1940A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:17:00",
+          "train_no" : "1942A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:33:00",
+          "train_no" : "1944A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "10:47:00",
+          "train_no" : "1946A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "11:03:00",
+          "train_no" : "1948A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "11:33:00",
+          "train_no" : "1950A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "12:03:00",
+          "train_no" : "1952A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "12:33:00",
+          "train_no" : "1954A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "13:03:00",
+          "train_no" : "1956A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "13:33:00",
+          "train_no" : "1958A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "14:03:00",
+          "train_no" : "1960A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "14:33:00",
+          "train_no" : "1962A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:03:00",
+          "train_no" : "1964A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "15:33:00",
+          "train_no" : "1966A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:03:00",
+          "train_no" : "1968A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:17:00",
+          "train_no" : "1970A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:33:00",
+          "train_no" : "1972A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "16:47:00",
+          "train_no" : "1974A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:03:00",
+          "train_no" : "1976A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:17:00",
+          "train_no" : "1978A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:33:00",
+          "train_no" : "1980A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1982A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:03:00",
+          "train_no" : "1984A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:17:00",
+          "train_no" : "1986A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:33:00",
+          "train_no" : "1988A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "18:47:00",
+          "train_no" : "1990A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:03:00",
+          "train_no" : "1992A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:17:00",
+          "train_no" : "1994A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:33:00",
+          "train_no" : "1996A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "19:47:00",
+          "train_no" : "1998A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:03:00",
+          "train_no" : "2000A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:17:00",
+          "train_no" : "2002A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:33:00",
+          "train_no" : "2004A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "20:47:00",
+          "train_no" : "2006A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:03:00",
+          "train_no" : "2008A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:17:00",
+          "train_no" : "2010A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "21:33:00",
+          "train_no" : "2012A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "22:17:00",
+          "train_no" : "2016A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "22:47:00",
+          "train_no" : "2018A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "23:17:00",
+          "train_no" : "2020A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "TNG",
+          "dest_station_name" : "TANGERANG",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "DURI-TANGERANG",
+          "station_name" : "TANAH TINGGI",
+          "time_at_station" : "23:38:00",
+          "train_no" : "2022A"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795562
+}

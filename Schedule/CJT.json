@@ -1,0 +1,1475 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "00:12:00",
+          "train_no" : "1831"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-PARUNGPANJANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:38:00",
+          "train_no" : "1811A"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "23:15:00",
+          "train_no" : "1823"
+        }
+      ]
+    },
+    {
+      "dest_station" : "THB",
+      "dest_station_name" : "TANAHABANG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "04:38:00",
+          "train_no" : "1621D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "04:56:00",
+          "train_no" : "1625D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:06:00",
+          "train_no" : "1627D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:16:00",
+          "train_no" : "1629D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:36:00",
+          "train_no" : "1633D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:55:00",
+          "train_no" : "1637D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:07:00",
+          "train_no" : "1639D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:19:00",
+          "train_no" : "1641D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:38:00",
+          "train_no" : "1645D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:57:00",
+          "train_no" : "1649D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:07:00",
+          "train_no" : "1651D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:18:00",
+          "train_no" : "1653D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:39:00",
+          "train_no" : "1657D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:49:00",
+          "train_no" : "1659D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:00:00",
+          "train_no" : "1661D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:20:00",
+          "train_no" : "1665D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:30:00",
+          "train_no" : "1667D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:40:00",
+          "train_no" : "1669D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:59:00",
+          "train_no" : "1673D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:12:00",
+          "train_no" : "1675D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:22:00",
+          "train_no" : "1677D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:43:00",
+          "train_no" : "1681D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:53:00",
+          "train_no" : "1683D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:05:00",
+          "train_no" : "1685D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:18:00",
+          "train_no" : "1689D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:30:00",
+          "train_no" : "1691D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:44:00",
+          "train_no" : "1693D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:05:00",
+          "train_no" : "1701D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:19:00",
+          "train_no" : "1699D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:39:00",
+          "train_no" : "1703D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:06:00",
+          "train_no" : "1707D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:19:00",
+          "train_no" : "1711D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:40:00",
+          "train_no" : "1715D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "13:09:00",
+          "train_no" : "1719D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "13:29:00",
+          "train_no" : "1723D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "13:50:00",
+          "train_no" : "1725D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:09:00",
+          "train_no" : "1729D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:35:00",
+          "train_no" : "1733D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:49:00",
+          "train_no" : "1737D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:10:00",
+          "train_no" : "1741D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:29:00",
+          "train_no" : "1745D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:47:00",
+          "train_no" : "1749D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:08:00",
+          "train_no" : "1753D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:28:00",
+          "train_no" : "1757D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:47:00",
+          "train_no" : "1761D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:09:00",
+          "train_no" : "1765D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:32:00",
+          "train_no" : "1769D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:44:00",
+          "train_no" : "1771D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:07:00",
+          "train_no" : "1775D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:17:00",
+          "train_no" : "1777D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:27:00",
+          "train_no" : "1779D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:47:00",
+          "train_no" : "1783D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:57:00",
+          "train_no" : "1785D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:08:00",
+          "train_no" : "1787D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:28:00",
+          "train_no" : "1791D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:49:00",
+          "train_no" : "1793D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:59:00",
+          "train_no" : "1795D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:20:00",
+          "train_no" : "1799D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:42:00",
+          "train_no" : "1801D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:53:00",
+          "train_no" : "1803D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:05:00",
+          "train_no" : "1805D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:27:00",
+          "train_no" : "1809D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:50:00",
+          "train_no" : "1813D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:00:00",
+          "train_no" : "1815D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:43:00",
+          "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "00:01:00",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "00:18:00",
+          "train_no" : "1816D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "04:21:00",
+          "train_no" : "1602D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "04:42:30",
+          "train_no" : "1606A"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:21:00",
+          "train_no" : "1610D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:49:00",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:10:00",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:23:00",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:46:00",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:06:00",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:26:00",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:07:00",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:27:00",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:08:00",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:29:00",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:47:00",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:10:00",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:30:00",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:50:00",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:11:00",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:32:00",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "11:51:00",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:16:00",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:29:00",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "12:53:00",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "13:17:00",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "13:48:00",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:15:00",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:31:00",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "14:52:00",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:09:00",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:30:00",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "15:43:00",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:07:00",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:32:00",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "16:45:00",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:10:00",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:30:00",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:50:00",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:09:00",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:29:00",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:49:00",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:10:00",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:29:00",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "19:51:00",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:09:00",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:29:00",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:49:00",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:11:00",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:24:00",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:51:00",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:12:00",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:39:00",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:57:00",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "23:08:00",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "23:37:00",
+          "train_no" : "1810D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:32:30",
+          "train_no" : "1612D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:33:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:56:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:57:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:38:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:18:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:56:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:39:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:40:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:19:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:19:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:39:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:59:00",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-SERPONG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "21:16:00",
+          "train_no" : "1807D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "22:15:00",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "23:00:00",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "23:35:00",
+          "train_no" : "1825D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795545
+}

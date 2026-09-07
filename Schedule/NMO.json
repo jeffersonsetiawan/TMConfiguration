@@ -1,0 +1,171 @@
+{
+  "data" : [
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "04:55:00",
+          "train_no" : "1501"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "05:55:00",
+          "train_no" : "1503"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "06:55:00",
+          "train_no" : "1505"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "07:50:00",
+          "train_no" : "1507"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "09:15:00",
+          "train_no" : "1509"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "10:20:00",
+          "train_no" : "1511"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "11:20:00",
+          "train_no" : "1513"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "12:35:00",
+          "train_no" : "1515A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "13:45:00",
+          "train_no" : "1517"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "14:50:00",
+          "train_no" : "1519"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "16:00:00",
+          "train_no" : "1521"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "16:55:00",
+          "train_no" : "1523"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "18:00:00",
+          "train_no" : "1525"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "19:17:00",
+          "train_no" : "1527"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "20:27:00",
+          "train_no" : "1529"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "NAMBO",
+          "time_at_station" : "21:55:00",
+          "train_no" : "1531"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795555
+}

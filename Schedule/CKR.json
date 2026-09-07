@@ -1,0 +1,887 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PWK",
+      "dest_station_name" : "PURWAKARTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "PWK",
+          "dest_station_name" : "PURWAKARTA",
+          "line_name" : "Commuter Line Walahar",
+          "route" : "CIKARANG-PURWAKARTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:00:00",
+          "train_no" : "326"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "PWK",
+          "dest_station_name" : "PURWAKARTA",
+          "line_name" : "Commuter Line Walahar",
+          "route" : "CIKARANG-PURWAKARTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "07:48:00",
+          "train_no" : "328"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "PWK",
+          "dest_station_name" : "PURWAKARTA",
+          "line_name" : "Commuter Line Walahar",
+          "route" : "CIKARANG-PURWAKARTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "11:36:00",
+          "train_no" : "330"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "PWK",
+          "dest_station_name" : "PURWAKARTA",
+          "line_name" : "Commuter Line Walahar",
+          "route" : "CIKARANG-PURWAKARTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "13:26:00",
+          "train_no" : "332"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "PWK",
+          "dest_station_name" : "PURWAKARTA",
+          "line_name" : "Commuter Line Walahar",
+          "route" : "CIKARANG-PURWAKARTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "18:35:00",
+          "train_no" : "334"
+        }
+      ]
+    },
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:30:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "23:23:00",
+          "train_no" : "6085A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "AK",
+      "dest_station_name" : "ANGKE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "04:12:00",
+          "train_no" : "5027C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "04:34:00",
+          "train_no" : "5029C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "05:11:00",
+          "train_no" : "5033C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "05:48:00",
+          "train_no" : "5039D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "05:55:00",
+          "train_no" : "5043D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:19:00",
+          "train_no" : "5049C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:55:00",
+          "train_no" : "5055D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "08:01:00",
+          "train_no" : "5065C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "09:05:00",
+          "train_no" : "5075C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "09:15:00",
+          "train_no" : "5077C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "09:28:00",
+          "train_no" : "5079C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "10:12:00",
+          "train_no" : "5085C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "10:40:00",
+          "train_no" : "5091C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "11:04:00",
+          "train_no" : "5095C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "11:32:00",
+          "train_no" : "5101D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "12:48:00",
+          "train_no" : "5111D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "13:14:00",
+          "train_no" : "5115C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:26:00",
+          "train_no" : "5133D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:42:00",
+          "train_no" : "5139C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:49:00",
+          "train_no" : "5141C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:07:00",
+          "train_no" : "5145C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:53:00",
+          "train_no" : "5151D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "18:34:00",
+          "train_no" : "5167C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "18:52:00",
+          "train_no" : "5171D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "18:58:00",
+          "train_no" : "5173D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:10:00",
+          "train_no" : "5181C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "21:08:00",
+          "train_no" : "5187C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "21:43:00",
+          "train_no" : "5193C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "AK",
+          "dest_station_name" : "ANGKE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-ANGKE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "22:20:00",
+          "train_no" : "5197D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:06:00",
+          "train_no" : "6007A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:38:00",
+          "train_no" : "6009A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "07:27:00",
+          "train_no" : "6013A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "10:01:00",
+          "train_no" : "6023B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "10:30:00",
+          "train_no" : "6025E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "12:04:00",
+          "train_no" : "6031A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "14:06:00",
+          "train_no" : "6043B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "14:16:00",
+          "train_no" : "6045A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:05:00",
+          "train_no" : "6049B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:01:00",
+          "train_no" : "6053A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:32:00",
+          "train_no" : "6057A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:58:00",
+          "train_no" : "6059B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "17:21:00",
+          "train_no" : "6061A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "19:39:00",
+          "train_no" : "5177A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "22:04:00",
+          "train_no" : "5195"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "22:43:00",
+          "train_no" : "5201"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "22:51:00",
+          "train_no" : "5203"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "23:40:00",
+          "train_no" : "5205A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKP",
+      "dest_station_name" : "CIKAMPEK",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKP",
+          "dest_station_name" : "CIKAMPEK",
+          "line_name" : "Commuter Line Jatiluhur",
+          "route" : "CIKARANG-CIKAMPEK",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:35:00",
+          "train_no" : "336"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKP",
+          "dest_station_name" : "CIKAMPEK",
+          "line_name" : "Commuter Line Jatiluhur",
+          "route" : "CIKARANG-CIKAMPEK",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:14:00",
+          "train_no" : "338"
+        }
+      ]
+    },
+    {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "04:28:00",
+          "train_no" : "5505C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "04:44:00",
+          "train_no" : "5507C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "05:19:00",
+          "train_no" : "5509C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "05:33:00",
+          "train_no" : "5511D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "06:45:00",
+          "train_no" : "5517C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "07:10:00",
+          "train_no" : "5519D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "07:50:00",
+          "train_no" : "5063D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "08:26:00",
+          "train_no" : "5069D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "08:45:00",
+          "train_no" : "5527C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "09:00:00",
+          "train_no" : "5073C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "09:46:00",
+          "train_no" : "5531D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "11:14:00",
+          "train_no" : "5539C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "11:43:00",
+          "train_no" : "5541D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "12:20:00",
+          "train_no" : "5543C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "12:38:00",
+          "train_no" : "5109C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "13:20:00",
+          "train_no" : "5547C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "13:36:00",
+          "train_no" : "5119D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "13:54:00",
+          "train_no" : "5549C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "14:39:00",
+          "train_no" : "5553C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "16:26:00",
+          "train_no" : "5147D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "17:41:00",
+          "train_no" : "5159C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "17:56:00",
+          "train_no" : "5565D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "18:14:00",
+          "train_no" : "5567C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "19:23:00",
+          "train_no" : "5575D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "19:46:00",
+          "train_no" : "5577C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "19:57:00",
+          "train_no" : "5179C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:56:00",
+          "train_no" : "5581D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA MRI",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "21:29:00",
+          "train_no" : "5191C"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795546
+}

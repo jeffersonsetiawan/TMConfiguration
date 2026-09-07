@@ -1,0 +1,1179 @@
+{
+  "data" : [
+    {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:58:30",
+          "train_no" : "1823"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "23:55:30",
+          "train_no" : "1831"
+        }
+      ]
+    },
+    {
+      "dest_station" : "THB",
+      "dest_station_name" : "TANAHABANG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "04:21:30",
+          "train_no" : "1621D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "04:39:30",
+          "train_no" : "1625D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "04:58:30",
+          "train_no" : "1629D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "05:19:30",
+          "train_no" : "1633D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "05:38:30",
+          "train_no" : "1637D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:02:30",
+          "train_no" : "1641D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:21:30",
+          "train_no" : "1645D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:40:30",
+          "train_no" : "1649D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:01:30",
+          "train_no" : "1653D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:22:30",
+          "train_no" : "1657D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:43:30",
+          "train_no" : "1661D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:03:30",
+          "train_no" : "1665D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:23:30",
+          "train_no" : "1669D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:42:30",
+          "train_no" : "1673D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:04:30",
+          "train_no" : "1677D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:25:30",
+          "train_no" : "1681D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:48:30",
+          "train_no" : "1685D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:01:30",
+          "train_no" : "1689D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:27:30",
+          "train_no" : "1693D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:48:30",
+          "train_no" : "1701D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "11:22:30",
+          "train_no" : "1703D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "11:47:30",
+          "train_no" : "1707D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:02:30",
+          "train_no" : "1711D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:23:30",
+          "train_no" : "1715D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:52:30",
+          "train_no" : "1719D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "13:12:30",
+          "train_no" : "1723D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "13:32:30",
+          "train_no" : "1725D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "13:52:30",
+          "train_no" : "1729D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:18:30",
+          "train_no" : "1733D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:32:30",
+          "train_no" : "1737D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:53:30",
+          "train_no" : "1741D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:12:30",
+          "train_no" : "1745D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:30:30",
+          "train_no" : "1749D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:51:30",
+          "train_no" : "1753D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:11:30",
+          "train_no" : "1757D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:30:30",
+          "train_no" : "1761D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:52:30",
+          "train_no" : "1765D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:15:30",
+          "train_no" : "1769D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:27:30",
+          "train_no" : "1771D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:50:30",
+          "train_no" : "1775D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:10:30",
+          "train_no" : "1779D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:30:30",
+          "train_no" : "1783D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:51:30",
+          "train_no" : "1787D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "19:11:30",
+          "train_no" : "1791D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "19:42:30",
+          "train_no" : "1795D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:03:30",
+          "train_no" : "1799D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:25:30",
+          "train_no" : "1801D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:47:30",
+          "train_no" : "1805D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:10:30",
+          "train_no" : "1809D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:31:30",
+          "train_no" : "1813D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:43:30",
+          "train_no" : "1815D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "THB",
+          "dest_station_name" : "TANAHABANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-TANAHABANG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:26:30",
+          "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "00:17:00",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "00:35:00",
+          "train_no" : "1816D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "04:38:00",
+          "train_no" : "1602D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "04:59:00",
+          "train_no" : "1606A"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "SERPONG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "05:39:00",
+          "train_no" : "1610D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:06:00",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:27:00",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "06:40:00",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:04:00",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:23:00",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "07:43:00",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:05:00",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:26:00",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "08:45:00",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:06:00",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:27:00",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "09:48:00",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:05:00",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:27:00",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "10:47:00",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "11:07:00",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "11:28:00",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "11:49:00",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:09:00",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:33:00",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "12:48:00",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "13:10:00",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "13:34:00",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:05:00",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:32:00",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "14:48:00",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:09:00",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:27:00",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "15:47:00",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:00:00",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:25:00",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "16:49:00",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:02:00",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:27:00",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "17:47:00",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:08:00",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:26:00",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "18:46:00",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "19:06:00",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "19:27:00",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "19:46:00",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:09:00",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:26:00",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "20:48:00",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:06:00",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:28:00",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:42:00",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:08:00",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:29:00",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:56:00",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "23:14:00",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "23:25:00",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "23:54:00",
+          "train_no" : "1810D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "21:58:30",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "22:43:30",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CIKOYA",
+          "time_at_station" : "23:18:30",
+          "train_no" : "1825D"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1788795546
+}
