@@ -1,0 +1,261 @@
+{
+  "data" : [
+    {
+      "dest_station" : "YK",
+      "dest_station_name" : "YOGYAKARTA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "05:16:00",
+          "train_no" : "522"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "06:20:00",
+          "train_no" : "562"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "07:00:00",
+          "train_no" : "548F"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "07:46:00",
+          "train_no" : "524"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "08:40:00",
+          "train_no" : "536"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "09:05:00",
+          "train_no" : "550"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "09:53:00",
+          "train_no" : "526"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "10:20:00",
+          "train_no" : "538"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "10:54:00",
+          "train_no" : "552"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "11:35:00",
+          "train_no" : "564"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "12:24:00",
+          "train_no" : "540"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "13:25:00",
+          "train_no" : "528"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "14:45:00",
+          "train_no" : "554"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "14:56:00",
+          "train_no" : "566"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "15:20:00",
+          "train_no" : "530"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "15:45:00",
+          "train_no" : "542"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "16:17:00",
+          "train_no" : "556"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "17:00:00",
+          "train_no" : "568"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "17:34:00",
+          "train_no" : "532"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "18:00:00",
+          "train_no" : "558"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "18:54:00",
+          "train_no" : "544"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "19:46:00",
+          "train_no" : "570"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "20:15:00",
+          "train_no" : "560"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "20:55:00",
+          "train_no" : "534"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "YIA STATION",
+          "time_at_station" : "21:30:00",
+          "train_no" : "546"
+        }
+      ]
+    }
+  ],
+  "timestamp" : 1795106062
+}
