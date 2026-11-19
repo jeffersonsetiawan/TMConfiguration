@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.391065,
-        "i_long": 106.819451,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "DPB",
-        "station_name": "Depokbaru",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.391065,
+        "i_long" : 106.819451,
+        "line" : 2,
+        "station_id" : "DPB",
+        "station_name" : "Depok Baru",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 2727,
-        "i_lat": -6.369073,
-        "i_long": 106.831114,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "POC",
-        "station_name": "Pondok Cina",
-        "time": 4,
-        "transit": false
+        "distance" : 2727,
+        "i_lat" : -6.369073,
+        "i_long" : 106.831114,
+        "line" : 2,
+        "station_id" : "POC",
+        "station_name" : "Pondok Cina",
+        "time" : 3,
+        "transit" : false
       }
     ]
   ]

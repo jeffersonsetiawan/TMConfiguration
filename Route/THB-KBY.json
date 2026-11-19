@@ -1,38 +1,35 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.185545,
-        "i_long": 106.811091,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "THB",
-        "station_name": "Tanah Abang",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.185545,
+        "i_long" : 106.811091,
+        "line" : 1,
+        "station_id" : "THB",
+        "station_name" : "Tanah Abang",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 3191,
-        "i_lat": -6.207404,
-        "i_long": 106.79689,
-        "is_transit": false,
-        "line": 6,
-        "station_id": "PLM",
-        "station_name": "Palmerah",
-        "time": 6,
-        "transit": false
+        "distance" : 3191,
+        "i_lat" : -6.207404,
+        "i_long" : 106.79689,
+        "line" : 6,
+        "station_id" : "PLM",
+        "station_name" : "Palmerah",
+        "time" : 6,
+        "transit" : false
       },
       {
-        "distance": 3737,
-        "i_lat": -6.237242,
-        "i_long": 106.780334,
-        "is_transit": false,
-        "line": 6,
-        "station_id": "KBY",
-        "station_name": "Kebayoran",
-        "time": 7,
-        "transit": false
+        "distance" : 3737,
+        "i_lat" : -6.237242,
+        "i_long" : 106.780334,
+        "line" : 6,
+        "station_id" : "KBY",
+        "station_name" : "Kebayoran",
+        "time" : 6,
+        "transit" : false
       }
     ]
   ]

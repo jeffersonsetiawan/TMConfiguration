@@ -1,6 +1,152 @@
 {
   "data" : [
     {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "05:41:30",
+          "train_no" : "1612D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "06:43:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "07:06:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "08:06:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "09:28:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "10:06:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "10:49:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "17:50:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "18:29:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "19:09:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "20:29:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "20:49:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "TENJO",
+          "time_at_station" : "21:09:00",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
       "dest_station" : "PRP",
       "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
@@ -1279,152 +1425,6 @@
       ]
     },
     {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "PARUNGPANJANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "05:41:30",
-          "train_no" : "1612D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "06:43:00",
-          "train_no" : "1620D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "07:06:00",
-          "train_no" : "1624D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "08:06:00",
-          "train_no" : "1636D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "08:48:00",
-          "train_no" : "1644D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "09:28:00",
-          "train_no" : "1652D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "10:06:00",
-          "train_no" : "1660D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "10:49:00",
-          "train_no" : "1668D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "17:50:00",
-          "train_no" : "1746D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "18:29:00",
-          "train_no" : "1754D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "19:09:00",
-          "train_no" : "1762D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "20:29:00",
-          "train_no" : "1776D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "20:49:00",
-          "train_no" : "1780D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "TENJO",
-          "time_at_station" : "21:09:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
       "dest_station" : "SRP",
       "dest_station_name" : "SERPONG",
       "trains" : [
@@ -1461,5 +1461,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795560
+  "timestamp" : 1794990209
 }

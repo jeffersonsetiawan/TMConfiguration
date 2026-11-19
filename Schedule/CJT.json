@@ -1,6 +1,152 @@
 {
   "data" : [
     {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "05:32:30",
+          "train_no" : "1612D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:33:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "06:56:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "07:57:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "08:38:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:18:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "09:56:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "10:39:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "17:40:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:19:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:19:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:39:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "CILEJIT",
+          "time_at_station" : "20:59:00",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
       "dest_station" : "PRP",
       "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
@@ -1279,152 +1425,6 @@
       ]
     },
     {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "PARUNGPANJANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "05:32:30",
-          "train_no" : "1612D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "06:33:00",
-          "train_no" : "1620D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "06:56:00",
-          "train_no" : "1624D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "07:57:00",
-          "train_no" : "1636D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "08:38:00",
-          "train_no" : "1644D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "09:18:00",
-          "train_no" : "1652D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "09:56:00",
-          "train_no" : "1660D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "10:39:00",
-          "train_no" : "1668D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "17:40:00",
-          "train_no" : "1746D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "18:19:00",
-          "train_no" : "1754D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1762D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "20:19:00",
-          "train_no" : "1776D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "20:39:00",
-          "train_no" : "1780D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "CILEJIT",
-          "time_at_station" : "20:59:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
       "dest_station" : "SRP",
       "dest_station_name" : "SERPONG",
       "trains" : [
@@ -1471,5 +1471,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795545
+  "timestamp" : 1794990185
 }

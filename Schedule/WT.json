@@ -1,6 +1,308 @@
 {
   "data" : [
     {
+      "dest_station" : "YK",
+      "dest_station_name" : "YOGYAKARTA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "05:31:00",
+          "train_no" : "522"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "05:45:00",
+          "train_no" : "508"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "06:35:00",
+          "train_no" : "562"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "08:01:00",
+          "train_no" : "524"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "09:41:00",
+          "train_no" : "502"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "10:08:00",
+          "train_no" : "526"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "11:50:00",
+          "train_no" : "564"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "13:40:00",
+          "train_no" : "528"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "13:54:00",
+          "train_no" : "504"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "15:11:00",
+          "train_no" : "566"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "15:35:00",
+          "train_no" : "530"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "17:15:00",
+          "train_no" : "568"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "17:28:00",
+          "train_no" : "506"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "17:49:00",
+          "train_no" : "532"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "KUTOARJO-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "19:20:00",
+          "train_no" : "510"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "20:01:00",
+          "train_no" : "570"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YIA-YOGYAKARTA",
+          "station_name" : "WATES",
+          "time_at_station" : "21:10:00",
+          "train_no" : "534"
+        }
+      ]
+    },
+    {
+      "dest_station" : "YIA",
+      "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "04:46:00",
+          "train_no" : "521"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "05:36:00",
+          "train_no" : "561"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "06:56:00",
+          "train_no" : "523"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "08:59:00",
+          "train_no" : "525"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "09:21:00",
+          "train_no" : "563"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "12:26:00",
+          "train_no" : "527"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "13:01:00",
+          "train_no" : "565"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "14:39:00",
+          "train_no" : "529"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "16:15:00",
+          "train_no" : "567"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "16:33:00",
+          "train_no" : "531"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "18:51:00",
+          "train_no" : "569"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "WATES",
+          "time_at_station" : "19:42:00",
+          "train_no" : "533"
+        }
+      ]
+    },
+    {
       "dest_station" : "KTA",
       "dest_station_name" : "KUTOARJO",
       "trains" : [
@@ -8,7 +310,7 @@
           "color" : "#0084D8",
           "dest_station" : "KTA",
           "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
           "route" : "YOGYAKARTA-KUTOARJO",
           "station_name" : "WATES",
           "time_at_station" : "07:07:00",
@@ -18,7 +320,7 @@
           "color" : "#0084D8",
           "dest_station" : "KTA",
           "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
           "route" : "YOGYAKARTA-KUTOARJO",
           "station_name" : "WATES",
           "time_at_station" : "12:15:00",
@@ -28,7 +330,7 @@
           "color" : "#0084D8",
           "dest_station" : "KTA",
           "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
           "route" : "YOGYAKARTA-KUTOARJO",
           "station_name" : "WATES",
           "time_at_station" : "15:42:00",
@@ -38,7 +340,7 @@
           "color" : "#0084D8",
           "dest_station" : "KTA",
           "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
           "route" : "YOGYAKARTA-KUTOARJO",
           "station_name" : "WATES",
           "time_at_station" : "16:45:00",
@@ -48,70 +350,14 @@
           "color" : "#0084D8",
           "dest_station" : "KTA",
           "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
           "route" : "YOGYAKARTA-KUTOARJO",
           "station_name" : "WATES",
           "time_at_station" : "18:29:00",
           "train_no" : "507"
         }
       ]
-    },
-    {
-      "dest_station" : "YK",
-      "dest_station_name" : "YOGYAKARTA",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "KUTOARJO-YOGYAKARTA",
-          "station_name" : "WATES",
-          "time_at_station" : "05:45:00",
-          "train_no" : "508"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "KUTOARJO-YOGYAKARTA",
-          "station_name" : "WATES",
-          "time_at_station" : "09:41:00",
-          "train_no" : "502"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "KUTOARJO-YOGYAKARTA",
-          "station_name" : "WATES",
-          "time_at_station" : "13:54:00",
-          "train_no" : "504"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "KUTOARJO-YOGYAKARTA",
-          "station_name" : "WATES",
-          "time_at_station" : "17:28:00",
-          "train_no" : "506"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "KUTOARJO-YOGYAKARTA",
-          "station_name" : "WATES",
-          "time_at_station" : "19:20:00",
-          "train_no" : "510"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795565
+  "timestamp" : 1794990215
 }

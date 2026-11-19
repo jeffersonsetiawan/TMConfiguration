@@ -1,6 +1,142 @@
 {
   "data" : [
     {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "05:58:30",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "06:21:30",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "07:22:30",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "08:03:30",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "08:43:30",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "09:21:30",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "10:04:30",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "17:02:30",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "17:42:30",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "18:21:30",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "19:42:30",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "20:02:30",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "20:22:30",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
       "dest_station" : "PRP",
       "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
@@ -263,6 +399,588 @@
           "station_name" : "JURANG MANGU",
           "time_at_station" : "22:48:30",
           "train_no" : "1806D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-SERPONG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "06:41:30",
+          "train_no" : "1628D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-SERPONG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "21:52:30",
+          "train_no" : "1800A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "05:13:30",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "05:35:30",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "05:48:30",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "06:11:30",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "06:31:30",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "06:51:30",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "07:12:30",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "07:32:30",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "07:52:30",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "08:13:30",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "08:33:30",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "08:53:30",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "09:12:30",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "09:34:30",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "09:54:30",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "10:15:30",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "10:35:30",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "10:56:30",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "11:16:30",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "11:41:30",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "11:53:30",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "12:17:30",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "12:41:30",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "13:13:30",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "13:40:30",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "13:53:30",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "14:17:30",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "14:32:30",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "14:53:30",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "15:07:30",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "15:30:30",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "15:55:30",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "16:08:30",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "16:32:30",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "16:52:30",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "17:12:30",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "17:32:30",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "17:52:30",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "18:11:30",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "18:32:30",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "18:51:30",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "19:13:30",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "19:32:30",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "19:52:30",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "20:11:30",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "20:34:30",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "20:47:30",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "21:14:30",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "21:37:30",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "22:02:30",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "22:21:30",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "22:32:30",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "23:02:30",
+          "train_no" : "1810D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "23:24:30",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "JURANG MANGU",
+          "time_at_station" : "23:42:30",
+          "train_no" : "1816D"
         }
       ]
     },
@@ -1231,725 +1949,7 @@
           "train_no" : "1819D"
         }
       ]
-    },
-    {
-      "dest_station" : "RK",
-      "dest_station_name" : "RANGKASBITUNG",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "05:13:30",
-          "train_no" : "1614D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "05:35:30",
-          "train_no" : "1616D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "05:48:30",
-          "train_no" : "1618D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "06:11:30",
-          "train_no" : "1622D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "06:31:30",
-          "train_no" : "1626D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "06:51:30",
-          "train_no" : "1630D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "07:12:30",
-          "train_no" : "1634D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "07:32:30",
-          "train_no" : "1638D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "07:52:30",
-          "train_no" : "1642D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "08:13:30",
-          "train_no" : "1646D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "08:33:30",
-          "train_no" : "1650D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "08:53:30",
-          "train_no" : "1654D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "09:12:30",
-          "train_no" : "1658D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "09:34:30",
-          "train_no" : "1662D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "09:54:30",
-          "train_no" : "1666D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "10:15:30",
-          "train_no" : "1670D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "10:35:30",
-          "train_no" : "1674D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "10:56:30",
-          "train_no" : "1678D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "11:16:30",
-          "train_no" : "1682D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "11:41:30",
-          "train_no" : "1686D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "11:53:30",
-          "train_no" : "1690D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "12:17:30",
-          "train_no" : "1694D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "12:41:30",
-          "train_no" : "1702D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "13:13:30",
-          "train_no" : "1704D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "13:40:30",
-          "train_no" : "1708D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "13:53:30",
-          "train_no" : "1712D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "14:17:30",
-          "train_no" : "1716D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "14:32:30",
-          "train_no" : "1718D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "14:53:30",
-          "train_no" : "1722D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "15:07:30",
-          "train_no" : "1724D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "15:30:30",
-          "train_no" : "1728D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "15:55:30",
-          "train_no" : "1732D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "16:08:30",
-          "train_no" : "1736D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "16:32:30",
-          "train_no" : "1740D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "16:52:30",
-          "train_no" : "1744D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "17:12:30",
-          "train_no" : "1748D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "17:32:30",
-          "train_no" : "1752D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "17:52:30",
-          "train_no" : "1756D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "18:11:30",
-          "train_no" : "1760D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "18:32:30",
-          "train_no" : "1764D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "18:51:30",
-          "train_no" : "1768D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "19:13:30",
-          "train_no" : "1770D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "19:32:30",
-          "train_no" : "1774D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "19:52:30",
-          "train_no" : "1778D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "20:11:30",
-          "train_no" : "1782D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "20:34:30",
-          "train_no" : "1786D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "20:47:30",
-          "train_no" : "1790D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "21:14:30",
-          "train_no" : "1792D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "21:37:30",
-          "train_no" : "1794D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "22:02:30",
-          "train_no" : "1798D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "22:21:30",
-          "train_no" : "1802D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "22:32:30",
-          "train_no" : "1804D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "23:02:30",
-          "train_no" : "1810D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "23:24:30",
-          "train_no" : "1814D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "23:42:30",
-          "train_no" : "1816D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "05:58:30",
-          "train_no" : "1620D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "06:21:30",
-          "train_no" : "1624D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "07:22:30",
-          "train_no" : "1636D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "08:03:30",
-          "train_no" : "1644D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "08:43:30",
-          "train_no" : "1652D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "09:21:30",
-          "train_no" : "1660D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "10:04:30",
-          "train_no" : "1668D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "17:02:30",
-          "train_no" : "1746D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "17:42:30",
-          "train_no" : "1754D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "18:21:30",
-          "train_no" : "1762D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "19:42:30",
-          "train_no" : "1776D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "20:02:30",
-          "train_no" : "1780D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "20:22:30",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "SRP",
-      "dest_station_name" : "SERPONG",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-SERPONG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "06:41:30",
-          "train_no" : "1628D"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-SERPONG",
-          "station_name" : "JURANG MANGU",
-          "time_at_station" : "21:52:30",
-          "train_no" : "1800A"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795551
+  "timestamp" : 1794990193
 }

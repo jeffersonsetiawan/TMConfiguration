@@ -1,128 +1,148 @@
 {
   "data" : [
     {
-      "dest_station" : "DP",
-      "dest_station_name" : "DEPOK",
+      "dest_station" : "NMO",
+      "dest_station_name" : "NAMBO",
       "trains" : [
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "06:49:00",
-          "train_no" : "1174"
+          "time_at_station" : "05:15:00",
+          "train_no" : "1504"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "07:24:00",
-          "train_no" : "1184"
+          "time_at_station" : "06:11:00",
+          "train_no" : "1506"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "08:03:00",
-          "train_no" : "1196F"
+          "time_at_station" : "07:40:00",
+          "train_no" : "1508"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "08:51:00",
-          "train_no" : "1208F"
+          "time_at_station" : "08:43:00",
+          "train_no" : "1510"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "09:27:00",
-          "train_no" : "1220F"
+          "time_at_station" : "09:36:00",
+          "train_no" : "1512"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "09:40:00",
-          "train_no" : "1224"
+          "time_at_station" : "10:54:00",
+          "train_no" : "1514"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "10:01:00",
-          "train_no" : "1232"
+          "time_at_station" : "11:57:00",
+          "train_no" : "1516"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "10:28:00",
-          "train_no" : "1240"
+          "time_at_station" : "13:09:00",
+          "train_no" : "1518"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "19:20:00",
-          "train_no" : "1402"
+          "time_at_station" : "14:14:00",
+          "train_no" : "1520"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "22:16:00",
-          "train_no" : "1450"
+          "time_at_station" : "15:21:00",
+          "train_no" : "1522"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "22:41:00",
-          "train_no" : "1456"
+          "time_at_station" : "16:27:00",
+          "train_no" : "1524"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "23:30:00",
-          "train_no" : "1466"
+          "time_at_station" : "17:41:00",
+          "train_no" : "1526"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "18:52:00",
+          "train_no" : "1528"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "20:10:00",
+          "train_no" : "1530"
         }
       ]
     },
@@ -149,6 +169,16 @@
           "station_name" : "JAKARTA KOTA",
           "time_at_station" : "05:28:00",
           "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "05:36:00",
+          "train_no" : "1154"
         },
         {
           "color" : "#E30A16",
@@ -1263,32 +1293,6 @@
       ]
     },
     {
-      "dest_station" : "CKR",
-      "dest_station_name" : "CIKARANG",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "JAKARTAKOTA-CIKARANG",
-          "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "04:20:00",
-          "train_no" : "5500A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "JAKARTAKOTA-CIKARANG",
-          "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "05:28:00",
-          "train_no" : "5504"
-        }
-      ]
-    },
-    {
       "dest_station" : "TPK",
       "dest_station_name" : "TANJUNGPRIUK",
       "trains" : [
@@ -1615,22 +1619,6 @@
       ]
     },
     {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Dinas Rangkaian Commuterline",
-          "route" : "JAKARTAKOTA-MANGGARAI",
-          "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "08:31:00",
-          "train_no" : "R1207-2"
-        }
-      ]
-    },
-    {
       "dest_station" : "BKS",
       "dest_station_name" : "BEKASI",
       "trains" : [
@@ -1647,151 +1635,193 @@
       ]
     },
     {
-      "dest_station" : "NMO",
-      "dest_station_name" : "NAMBO",
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "04:20:00",
+          "train_no" : "5500A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-CIKARANG",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "05:28:00",
+          "train_no" : "5504"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
       "trains" : [
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Dinas Rangkaian Commuterline",
+          "route" : "JAKARTAKOTA-MANGGARAI",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "05:15:00",
-          "train_no" : "1504"
+          "time_at_station" : "08:31:00",
+          "train_no" : "R1207-2"
+        }
+      ]
+    },
+    {
+      "dest_station" : "DP",
+      "dest_station_name" : "DEPOK",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "JAKARTA KOTA",
+          "time_at_station" : "06:49:00",
+          "train_no" : "1174"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "06:11:00",
-          "train_no" : "1506"
+          "time_at_station" : "07:24:00",
+          "train_no" : "1184"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "07:40:00",
-          "train_no" : "1508"
+          "time_at_station" : "07:48:00",
+          "train_no" : "1192F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "08:43:00",
-          "train_no" : "1510"
+          "time_at_station" : "08:03:00",
+          "train_no" : "1196F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "09:36:00",
-          "train_no" : "1512"
+          "time_at_station" : "08:51:00",
+          "train_no" : "1208F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "10:54:00",
-          "train_no" : "1514"
+          "time_at_station" : "09:27:00",
+          "train_no" : "1220F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "11:57:00",
-          "train_no" : "1516"
+          "time_at_station" : "09:40:00",
+          "train_no" : "1224"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "13:09:00",
-          "train_no" : "1518"
+          "time_at_station" : "09:48:00",
+          "train_no" : "1228"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "14:14:00",
-          "train_no" : "1520"
+          "time_at_station" : "10:01:00",
+          "train_no" : "1232"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "15:21:00",
-          "train_no" : "1522"
+          "time_at_station" : "10:28:00",
+          "train_no" : "1240"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "16:27:00",
-          "train_no" : "1524"
+          "time_at_station" : "19:20:00",
+          "train_no" : "1402"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "17:41:00",
-          "train_no" : "1526"
+          "time_at_station" : "22:16:00",
+          "train_no" : "1450"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "18:52:00",
-          "train_no" : "1528"
+          "time_at_station" : "22:41:00",
+          "train_no" : "1456"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "JAKARTA KOTA",
-          "time_at_station" : "20:10:00",
-          "train_no" : "1530"
+          "time_at_station" : "23:30:00",
+          "train_no" : "1466"
         }
       ]
     }
   ],
-  "timestamp" : 1788795550
+  "timestamp" : 1794990192
 }

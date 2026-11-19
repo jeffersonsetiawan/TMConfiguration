@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.405256,
-        "i_long": 106.816926,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "DP",
-        "station_name": "Depok",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.405256,
+        "i_long" : 106.816926,
+        "line" : 2,
+        "station_id" : "DP",
+        "station_name" : "Depok",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 1584,
-        "i_lat": -6.391065,
-        "i_long": 106.819451,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "DPB",
-        "station_name": "Depokbaru",
-        "time": 3,
-        "transit": false
+        "distance" : 1584,
+        "i_lat" : -6.391065,
+        "i_long" : 106.819451,
+        "line" : 2,
+        "station_id" : "DPB",
+        "station_name" : "Depok Baru",
+        "time" : 4,
+        "transit" : false
       }
     ]
   ]

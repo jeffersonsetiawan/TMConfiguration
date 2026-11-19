@@ -1,32 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "PRP",
-      "dest_station_name" : "PARUNGPANJANG",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "MAJA",
-          "time_at_station" : "22:56:00",
-          "train_no" : "1823"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "MAJA",
-          "time_at_station" : "23:53:00",
-          "train_no" : "1831"
-        }
-      ]
-    },
-    {
       "dest_station" : "THB",
       "dest_station_name" : "TANAHABANG",
       "trains" : [
@@ -549,6 +523,32 @@
           "station_name" : "MAJA",
           "time_at_station" : "22:24:00",
           "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "22:56:00",
+          "train_no" : "1823"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "MAJA",
+          "time_at_station" : "23:53:00",
+          "train_no" : "1831"
         }
       ]
     },
@@ -1175,5 +1175,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795554
+  "timestamp" : 1794990199
 }

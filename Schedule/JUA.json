@@ -1,1418 +1,148 @@
 {
   "data" : [
     {
-      "dest_station" : "JAKK",
-      "dest_station_name" : "JAKARTAKOTA",
+      "dest_station" : "NMO",
+      "dest_station_name" : "NAMBO",
       "trains" : [
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "00:25:00",
-          "train_no" : "1469"
+          "time_at_station" : "05:23:00",
+          "train_no" : "1504"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "04:52:00",
-          "train_no" : "1151"
+          "time_at_station" : "06:19:00",
+          "train_no" : "1506"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "04:57:00",
-          "train_no" : "1153F"
+          "time_at_station" : "07:48:00",
+          "train_no" : "1508"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:07:00",
-          "train_no" : "1155"
+          "time_at_station" : "08:51:00",
+          "train_no" : "1510"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:22:00",
-          "train_no" : "1159"
+          "time_at_station" : "09:44:00",
+          "train_no" : "1512"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:32:00",
-          "train_no" : "1161"
+          "time_at_station" : "11:02:00",
+          "train_no" : "1514"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:37:00",
-          "train_no" : "1163F"
+          "time_at_station" : "12:05:00",
+          "train_no" : "1516"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:42:00",
-          "train_no" : "1165"
+          "time_at_station" : "13:17:00",
+          "train_no" : "1518"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:49:00",
-          "train_no" : "1167"
+          "time_at_station" : "14:22:00",
+          "train_no" : "1520"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:53:00",
-          "train_no" : "1169"
+          "time_at_station" : "15:29:00",
+          "train_no" : "1522"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "06:02:00",
-          "train_no" : "1171"
+          "time_at_station" : "16:35:00",
+          "train_no" : "1524"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "06:08:00",
-          "train_no" : "1173"
+          "time_at_station" : "17:49:00",
+          "train_no" : "1526"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "06:12:00",
-          "train_no" : "1501"
+          "time_at_station" : "19:00:00",
+          "train_no" : "1528"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
           "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
+          "route" : "JAKARTAKOTA-NAMBO",
           "station_name" : "JUANDA",
-          "time_at_station" : "06:17:00",
-          "train_no" : "1175"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:24:00",
-          "train_no" : "1177"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:31:00",
-          "train_no" : "1179"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOJONGGEDE-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:39:00",
-          "train_no" : "1181"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:43:00",
-          "train_no" : "1183"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:52:00",
-          "train_no" : "1185"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOJONGGEDE-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "06:59:00",
-          "train_no" : "1187"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:04:00",
-          "train_no" : "1189"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:08:00",
-          "train_no" : "1191"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:14:00",
-          "train_no" : "1503"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:22:00",
-          "train_no" : "1193"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:35:00",
-          "train_no" : "1197"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:41:00",
-          "train_no" : "1199F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:54:00",
-          "train_no" : "1203"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "07:58:00",
-          "train_no" : "1205"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:04:00",
-          "train_no" : "1207"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:08:00",
-          "train_no" : "1209"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:14:00",
-          "train_no" : "1505"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:20:00",
-          "train_no" : "1211A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:24:00",
-          "train_no" : "1213A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:34:00",
-          "train_no" : "1215A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:39:00",
-          "train_no" : "1217A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:46:00",
-          "train_no" : "1219"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "08:59:00",
-          "train_no" : "1225"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:05:00",
-          "train_no" : "1507"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:11:00",
-          "train_no" : "1227"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:20:00",
-          "train_no" : "1229"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:31:00",
-          "train_no" : "1233"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:35:00",
-          "train_no" : "1235"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:52:00",
-          "train_no" : "1239"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "09:56:00",
-          "train_no" : "1241"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:01:00",
-          "train_no" : "1243"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:05:00",
-          "train_no" : "1245"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:11:00",
-          "train_no" : "1247"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:21:00",
-          "train_no" : "1251"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:30:00",
-          "train_no" : "1509"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:36:00",
-          "train_no" : "1253"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "10:41:00",
-          "train_no" : "1255"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:06:00",
-          "train_no" : "1263"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:14:00",
-          "train_no" : "1265"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:25:00",
-          "train_no" : "1269"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:30:00",
-          "train_no" : "1271"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:35:00",
-          "train_no" : "1511"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:44:00",
-          "train_no" : "1275"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:54:00",
-          "train_no" : "1279"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "11:58:00",
-          "train_no" : "1281"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "12:14:00",
-          "train_no" : "1285"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "12:24:00",
-          "train_no" : "1289"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "12:36:00",
-          "train_no" : "1513"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "12:46:00",
-          "train_no" : "1295"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "12:59:00",
-          "train_no" : "1299"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:07:00",
-          "train_no" : "1303"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:11:00",
-          "train_no" : "1305"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:22:00",
-          "train_no" : "1309"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:26:00",
-          "train_no" : "1311A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:31:00",
-          "train_no" : "1313"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:46:00",
-          "train_no" : "1315A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:51:00",
-          "train_no" : "1515A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "13:56:00",
-          "train_no" : "1317A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:16:00",
-          "train_no" : "1325"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:29:00",
-          "train_no" : "1329"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:34:00",
-          "train_no" : "1331"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:39:00",
-          "train_no" : "1333"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:49:00",
-          "train_no" : "1335"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "14:54:00",
-          "train_no" : "1337"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:00:00",
-          "train_no" : "1517"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:04:00",
-          "train_no" : "1339"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:13:00",
-          "train_no" : "1343"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:17:00",
-          "train_no" : "1345"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:22:00",
-          "train_no" : "1347"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:33:00",
-          "train_no" : "1349"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:38:00",
-          "train_no" : "1351"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:45:00",
-          "train_no" : "1353"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:53:00",
-          "train_no" : "1355"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "15:59:00",
-          "train_no" : "1357"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:08:00",
-          "train_no" : "1519"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:12:00",
-          "train_no" : "1359"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:18:00",
-          "train_no" : "1361"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:26:00",
-          "train_no" : "1363"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:31:00",
-          "train_no" : "1365"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:43:00",
-          "train_no" : "1367"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:47:00",
-          "train_no" : "1369"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "16:52:00",
-          "train_no" : "1371"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:01:00",
-          "train_no" : "1373"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:12:00",
-          "train_no" : "1377F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:20:00",
-          "train_no" : "1521"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:24:00",
-          "train_no" : "1379"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:28:00",
-          "train_no" : "1381"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:35:00",
-          "train_no" : "1383"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:39:00",
-          "train_no" : "1385"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:48:00",
-          "train_no" : "1387"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:54:00",
-          "train_no" : "1389"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "17:58:00",
-          "train_no" : "1391A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:09:00",
-          "train_no" : "1523"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:13:00",
-          "train_no" : "1393"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:24:00",
-          "train_no" : "1397A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:32:00",
-          "train_no" : "1399"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:39:00",
-          "train_no" : "1401"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:55:00",
-          "train_no" : "1405"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1407"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:07:00",
-          "train_no" : "1409"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:12:00",
-          "train_no" : "1411"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:20:00",
-          "train_no" : "1525"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:30:00",
-          "train_no" : "1413"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:36:00",
-          "train_no" : "1415"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:49:00",
-          "train_no" : "1419"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "19:59:00",
-          "train_no" : "1421"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:05:00",
-          "train_no" : "1423"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:09:00",
-          "train_no" : "1425"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:23:00",
-          "train_no" : "1429F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:30:00",
-          "train_no" : "1527"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:34:00",
-          "train_no" : "1431"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:40:00",
-          "train_no" : "1433"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "20:44:00",
-          "train_no" : "1435"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:00:00",
-          "train_no" : "1437"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:08:00",
-          "train_no" : "1439"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:20:00",
-          "train_no" : "1443"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:42:00",
-          "train_no" : "1529"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:46:00",
-          "train_no" : "1447"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:50:00",
-          "train_no" : "1449"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "21:57:00",
-          "train_no" : "1451"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "22:18:00",
-          "train_no" : "1455"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "22:29:00",
-          "train_no" : "1457A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "22:35:00",
-          "train_no" : "1459A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "22:46:00",
-          "train_no" : "1461A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "NAMBO-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "23:10:00",
-          "train_no" : "1531"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "23:15:00",
-          "train_no" : "1465"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-JAKARTAKOTA",
-          "station_name" : "JUANDA",
-          "time_at_station" : "23:31:00",
-          "train_no" : "1467"
+          "time_at_station" : "20:18:00",
+          "train_no" : "1530"
         }
       ]
     },
@@ -1439,6 +169,16 @@
           "station_name" : "JUANDA",
           "time_at_station" : "05:36:00",
           "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "JUANDA",
+          "time_at_station" : "05:44:00",
+          "train_no" : "1154"
         },
         {
           "color" : "#E30A16",
@@ -2553,148 +1293,1448 @@
       ]
     },
     {
-      "dest_station" : "NMO",
-      "dest_station_name" : "NAMBO",
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "05:23:00",
-          "train_no" : "1504"
+          "time_at_station" : "00:25:00",
+          "train_no" : "1469"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "DEPOK-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "06:19:00",
-          "train_no" : "1506"
+          "time_at_station" : "04:52:00",
+          "train_no" : "1151"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "DEPOK-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "07:48:00",
-          "train_no" : "1508"
+          "time_at_station" : "04:57:00",
+          "train_no" : "1153F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "DEPOK-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "08:51:00",
-          "train_no" : "1510"
+          "time_at_station" : "05:07:00",
+          "train_no" : "1155"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "09:44:00",
-          "train_no" : "1512"
+          "time_at_station" : "05:17:00",
+          "train_no" : "1157"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "11:02:00",
-          "train_no" : "1514"
+          "time_at_station" : "05:22:00",
+          "train_no" : "1159"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "12:05:00",
-          "train_no" : "1516"
+          "time_at_station" : "05:32:00",
+          "train_no" : "1161"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "13:17:00",
-          "train_no" : "1518"
+          "time_at_station" : "05:37:00",
+          "train_no" : "1163F"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "14:22:00",
-          "train_no" : "1520"
+          "time_at_station" : "05:42:00",
+          "train_no" : "1165"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "DEPOK-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "15:29:00",
-          "train_no" : "1522"
+          "time_at_station" : "05:49:00",
+          "train_no" : "1167"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "16:35:00",
-          "train_no" : "1524"
+          "time_at_station" : "05:53:00",
+          "train_no" : "1169"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "17:49:00",
-          "train_no" : "1526"
+          "time_at_station" : "06:02:00",
+          "train_no" : "1171"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "19:00:00",
-          "train_no" : "1528"
+          "time_at_station" : "06:08:00",
+          "train_no" : "1173"
         },
         {
           "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
           "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
+          "route" : "NAMBO-JAKARTAKOTA",
           "station_name" : "JUANDA",
-          "time_at_station" : "20:18:00",
-          "train_no" : "1530"
+          "time_at_station" : "06:12:00",
+          "train_no" : "1501"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:17:00",
+          "train_no" : "1175"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:24:00",
+          "train_no" : "1177"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1179"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOJONGGEDE-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:39:00",
+          "train_no" : "1181"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:43:00",
+          "train_no" : "1183"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:52:00",
+          "train_no" : "1185"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOJONGGEDE-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "06:59:00",
+          "train_no" : "1187"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:04:00",
+          "train_no" : "1189"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:08:00",
+          "train_no" : "1191"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:14:00",
+          "train_no" : "1503"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:22:00",
+          "train_no" : "1193"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:26:00",
+          "train_no" : "1195F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:35:00",
+          "train_no" : "1197"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:41:00",
+          "train_no" : "1199F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:54:00",
+          "train_no" : "1203"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:58:00",
+          "train_no" : "1205"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:04:00",
+          "train_no" : "1207"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:08:00",
+          "train_no" : "1209"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:14:00",
+          "train_no" : "1505"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:20:00",
+          "train_no" : "1211A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:24:00",
+          "train_no" : "1213A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:34:00",
+          "train_no" : "1215A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:39:00",
+          "train_no" : "1217A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:46:00",
+          "train_no" : "1219"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "08:59:00",
+          "train_no" : "1225"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:05:00",
+          "train_no" : "1507"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:11:00",
+          "train_no" : "1227"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:20:00",
+          "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:27:00",
+          "train_no" : "1231"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:31:00",
+          "train_no" : "1233"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:35:00",
+          "train_no" : "1235"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:52:00",
+          "train_no" : "1239"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:56:00",
+          "train_no" : "1241"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:01:00",
+          "train_no" : "1243"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:05:00",
+          "train_no" : "1245"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:11:00",
+          "train_no" : "1247"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:21:00",
+          "train_no" : "1251"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:30:00",
+          "train_no" : "1509"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:36:00",
+          "train_no" : "1253"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "10:41:00",
+          "train_no" : "1255"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:06:00",
+          "train_no" : "1263"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:14:00",
+          "train_no" : "1265"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:25:00",
+          "train_no" : "1269"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:30:00",
+          "train_no" : "1271"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:35:00",
+          "train_no" : "1511"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:44:00",
+          "train_no" : "1275"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:54:00",
+          "train_no" : "1279"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "11:58:00",
+          "train_no" : "1281"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "12:14:00",
+          "train_no" : "1285"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "12:24:00",
+          "train_no" : "1289"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "12:36:00",
+          "train_no" : "1513"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "12:46:00",
+          "train_no" : "1295"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "12:59:00",
+          "train_no" : "1299"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:07:00",
+          "train_no" : "1303"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:11:00",
+          "train_no" : "1305"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:22:00",
+          "train_no" : "1309"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1311A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:31:00",
+          "train_no" : "1313"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:46:00",
+          "train_no" : "1315A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:51:00",
+          "train_no" : "1515A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "13:56:00",
+          "train_no" : "1317A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:16:00",
+          "train_no" : "1325"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:29:00",
+          "train_no" : "1329"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:34:00",
+          "train_no" : "1331"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:39:00",
+          "train_no" : "1333"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:49:00",
+          "train_no" : "1335"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "14:54:00",
+          "train_no" : "1337"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:00:00",
+          "train_no" : "1517"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:04:00",
+          "train_no" : "1339"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:13:00",
+          "train_no" : "1343"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:17:00",
+          "train_no" : "1345"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:22:00",
+          "train_no" : "1347"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:33:00",
+          "train_no" : "1349"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:38:00",
+          "train_no" : "1351"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:45:00",
+          "train_no" : "1353"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:53:00",
+          "train_no" : "1355"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "15:59:00",
+          "train_no" : "1357"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:08:00",
+          "train_no" : "1519"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:12:00",
+          "train_no" : "1359"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:18:00",
+          "train_no" : "1361"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:26:00",
+          "train_no" : "1363"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:31:00",
+          "train_no" : "1365"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:43:00",
+          "train_no" : "1367"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:47:00",
+          "train_no" : "1369"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "16:52:00",
+          "train_no" : "1371"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:01:00",
+          "train_no" : "1373"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:12:00",
+          "train_no" : "1377F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:20:00",
+          "train_no" : "1521"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:24:00",
+          "train_no" : "1379"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:28:00",
+          "train_no" : "1381"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:35:00",
+          "train_no" : "1383"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:39:00",
+          "train_no" : "1385"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:48:00",
+          "train_no" : "1387"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:54:00",
+          "train_no" : "1389"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "17:58:00",
+          "train_no" : "1391A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:09:00",
+          "train_no" : "1523"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:13:00",
+          "train_no" : "1393"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:24:00",
+          "train_no" : "1397A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:32:00",
+          "train_no" : "1399"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:39:00",
+          "train_no" : "1401"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:55:00",
+          "train_no" : "1405"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1407"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:07:00",
+          "train_no" : "1409"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:12:00",
+          "train_no" : "1411"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:20:00",
+          "train_no" : "1525"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:30:00",
+          "train_no" : "1413"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:36:00",
+          "train_no" : "1415"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:49:00",
+          "train_no" : "1419"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "19:59:00",
+          "train_no" : "1421"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:05:00",
+          "train_no" : "1423"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:09:00",
+          "train_no" : "1425"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:23:00",
+          "train_no" : "1429F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:30:00",
+          "train_no" : "1527"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:34:00",
+          "train_no" : "1431"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:40:00",
+          "train_no" : "1433"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "20:44:00",
+          "train_no" : "1435"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:00:00",
+          "train_no" : "1437"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:08:00",
+          "train_no" : "1439"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:20:00",
+          "train_no" : "1443"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:42:00",
+          "train_no" : "1529"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:46:00",
+          "train_no" : "1447"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:50:00",
+          "train_no" : "1449"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "21:57:00",
+          "train_no" : "1451"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "22:18:00",
+          "train_no" : "1455"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "22:29:00",
+          "train_no" : "1457A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "22:35:00",
+          "train_no" : "1459A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "22:46:00",
+          "train_no" : "1461A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "NAMBO-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "23:10:00",
+          "train_no" : "1531"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "23:15:00",
+          "train_no" : "1465"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "JUANDA",
+          "time_at_station" : "23:31:00",
+          "train_no" : "1467"
         }
       ]
     },
@@ -2721,6 +2761,16 @@
           "station_name" : "JUANDA",
           "time_at_station" : "07:31:30",
           "train_no" : "1184"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "JUANDA",
+          "time_at_station" : "07:56:00",
+          "train_no" : "1192F"
         },
         {
           "color" : "#E30A16",
@@ -2761,6 +2811,16 @@
           "station_name" : "JUANDA",
           "time_at_station" : "09:47:30",
           "train_no" : "1224"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "JUANDA",
+          "time_at_station" : "09:55:30",
+          "train_no" : "1228"
         },
         {
           "color" : "#E30A16",
@@ -2825,5 +2885,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795551
+  "timestamp" : 1794990195
 }

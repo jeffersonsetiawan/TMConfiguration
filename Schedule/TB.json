@@ -1,58 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "KPB",
-      "dest_station_name" : "KAMPUNGBANDAN",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "TAMBUN-KAMPUNGBANDAN",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "06:37:00",
-          "train_no" : "5515C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "TAMBUN-KAMPUNGBANDAN",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "11:05:00",
-          "train_no" : "5537C"
-        }
-      ]
-    },
-    {
-      "dest_station" : "JAKK",
-      "dest_station_name" : "JAKARTAKOTA",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "20:43:00",
-          "train_no" : "6075"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "23:36:00",
-          "train_no" : "6085A"
-        }
-      ]
-    },
-    {
       "dest_station" : "AK",
       "dest_station_name" : "ANGKE",
       "trains" : [
@@ -355,6 +303,32 @@
           "station_name" : "TAMBUN",
           "time_at_station" : "22:39:00",
           "train_no" : "5197D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "20:43:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "23:36:00",
+          "train_no" : "6085A"
         }
       ]
     },
@@ -1031,304 +1005,28 @@
       ]
     },
     {
-      "dest_station" : "CKR",
-      "dest_station_name" : "CIKARANG VIA MRI",
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN",
       "trains" : [
         {
           "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
           "station_name" : "TAMBUN",
-          "time_at_station" : "00:11:00",
-          "train_no" : "6082C"
+          "time_at_station" : "06:37:00",
+          "train_no" : "5515C"
         },
         {
           "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
           "station_name" : "TAMBUN",
-          "time_at_station" : "00:35:00",
-          "train_no" : "5194C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "06:13:00",
-          "train_no" : "5018C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "07:04:00",
-          "train_no" : "6002C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "07:25:00",
-          "train_no" : "6004D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "10:13:00",
-          "train_no" : "6016C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "11:30:00",
-          "train_no" : "6020C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "11:46:00",
-          "train_no" : "5074C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "12:24:00",
-          "train_no" : "5084D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "12:37:00",
-          "train_no" : "6024D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "13:23:00",
-          "train_no" : "6028D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "14:51:00",
-          "train_no" : "6036D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "15:08:00",
-          "train_no" : "6038C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "15:29:00",
-          "train_no" : "5112C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "16:25:00",
-          "train_no" : "5122D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "16:54:00",
-          "train_no" : "6048C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "18:23:00",
-          "train_no" : "6054C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "18:44:00",
-          "train_no" : "6056C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "19:38:00",
-          "train_no" : "6060C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "20:30:00",
-          "train_no" : "5158C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "21:01:00",
-          "train_no" : "6066C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "22:57:00",
-          "train_no" : "5182C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "23:04:00",
-          "train_no" : "6078C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "23:53:00",
-          "train_no" : "6080C"
-        }
-      ]
-    },
-    {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "19:54:00",
-          "train_no" : "5177A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "22:17:00",
-          "train_no" : "5195"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "22:56:00",
-          "train_no" : "5201"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "23:04:00",
-          "train_no" : "5203"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "TAMBUN",
-          "time_at_station" : "23:53:00",
-          "train_no" : "5205A"
+          "time_at_station" : "11:05:00",
+          "train_no" : "5537C"
         }
       ]
     },
@@ -1617,7 +1315,309 @@
           "train_no" : "5191C"
         }
       ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "19:54:00",
+          "train_no" : "5177A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "22:17:00",
+          "train_no" : "5195"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "22:56:00",
+          "train_no" : "5201"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "23:04:00",
+          "train_no" : "5203"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "23:53:00",
+          "train_no" : "5205A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "00:11:00",
+          "train_no" : "6082C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "00:35:00",
+          "train_no" : "5194C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "06:13:00",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "07:04:00",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "07:25:00",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "10:13:00",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "11:30:00",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "11:46:00",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "12:24:00",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "12:37:00",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "13:23:00",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "14:51:00",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "15:08:00",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "15:29:00",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "16:25:00",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "16:54:00",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "18:23:00",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "18:44:00",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "19:38:00",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "20:30:00",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "21:01:00",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "22:57:00",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "23:04:00",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "TAMBUN",
+          "time_at_station" : "23:53:00",
+          "train_no" : "6080C"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795560
+  "timestamp" : 1794990208
 }

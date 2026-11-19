@@ -1,172 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "NMO",
-      "dest_station_name" : "NAMBO",
-      "trains" : [
-        {
-          "color" : "#F76114",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "04:28:00",
-          "train_no" : "1500"
-        },
-        {
-          "color" : "#F76114",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "05:23:00",
-          "train_no" : "1502"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "06:29:00",
-          "train_no" : "1504"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "07:24:00",
-          "train_no" : "1506"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "08:48:00",
-          "train_no" : "1508"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "09:53:00",
-          "train_no" : "1510"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "10:46:00",
-          "train_no" : "1512"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "12:03:00",
-          "train_no" : "1514"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "13:09:00",
-          "train_no" : "1516"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "14:17:00",
-          "train_no" : "1518"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "15:24:00",
-          "train_no" : "1520"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "16:29:00",
-          "train_no" : "1522"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "17:35:00",
-          "train_no" : "1524"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "18:53:00",
-          "train_no" : "1526"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "20:02:00",
-          "train_no" : "1528"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "NMO",
-          "dest_station_name" : "NAMBO",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-NAMBO",
-          "station_name" : "PONDOK RAJEG",
-          "time_at_station" : "21:22:00",
-          "train_no" : "1530"
-        }
-      ]
-    },
-    {
       "dest_station" : "JAKK",
       "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
@@ -331,7 +165,173 @@
           "train_no" : "1531"
         }
       ]
+    },
+    {
+      "dest_station" : "NMO",
+      "dest_station_name" : "NAMBO",
+      "trains" : [
+        {
+          "color" : "#F76114",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "04:28:00",
+          "train_no" : "1500"
+        },
+        {
+          "color" : "#F76114",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "05:23:00",
+          "train_no" : "1502"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "06:29:00",
+          "train_no" : "1504"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "07:24:00",
+          "train_no" : "1506"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1508"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "09:53:00",
+          "train_no" : "1510"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "10:46:00",
+          "train_no" : "1512"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "12:03:00",
+          "train_no" : "1514"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "13:09:00",
+          "train_no" : "1516"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "14:17:00",
+          "train_no" : "1518"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "15:24:00",
+          "train_no" : "1520"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1522"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "17:35:00",
+          "train_no" : "1524"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "18:53:00",
+          "train_no" : "1526"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "20:02:00",
+          "train_no" : "1528"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "NMO",
+          "dest_station_name" : "NAMBO",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-NAMBO",
+          "station_name" : "PONDOK RAJEG",
+          "time_at_station" : "21:22:00",
+          "train_no" : "1530"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795555
+  "timestamp" : 1794990201
 }

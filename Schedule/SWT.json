@@ -1,6 +1,132 @@
 {
   "data" : [
     {
+      "dest_station" : "YK",
+      "dest_station_name" : "YOGYAKARTA",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "05:55:00",
+          "train_no" : "701"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "07:00:00",
+          "train_no" : "711"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "08:09:00",
+          "train_no" : "721"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "10:02:00",
+          "train_no" : "703"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "11:33:00",
+          "train_no" : "723"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "13:45:00",
+          "train_no" : "705"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "14:36:00",
+          "train_no" : "725"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "16:30:00",
+          "train_no" : "715"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "17:28:00",
+          "train_no" : "707"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "19:00:00",
+          "train_no" : "727"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "20:43:00",
+          "train_no" : "717"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "YK",
+          "dest_station_name" : "YOGYAKARTA",
+          "line_name" : "Commuter Line Yogyakarta",
+          "route" : "PALUR-YOGYAKARTA",
+          "station_name" : "SROWOT",
+          "time_at_station" : "21:35:00",
+          "train_no" : "709"
+        }
+      ]
+    },
+    {
       "dest_station" : "PL",
       "dest_station_name" : "PALUR",
       "trains" : [
@@ -155,133 +281,7 @@
           "train_no" : "710"
         }
       ]
-    },
-    {
-      "dest_station" : "YK",
-      "dest_station_name" : "YOGYAKARTA",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "05:55:00",
-          "train_no" : "701"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "07:00:00",
-          "train_no" : "711"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "08:09:00",
-          "train_no" : "721"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "10:02:00",
-          "train_no" : "703"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "11:33:00",
-          "train_no" : "723"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "13:45:00",
-          "train_no" : "705"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "14:36:00",
-          "train_no" : "725"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "16:30:00",
-          "train_no" : "715"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "17:28:00",
-          "train_no" : "707"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "19:00:00",
-          "train_no" : "727"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "20:43:00",
-          "train_no" : "717"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "YK",
-          "dest_station_name" : "YOGYAKARTA",
-          "line_name" : "Commuter Line Yogyakarta",
-          "route" : "PALUR-YOGYAKARTA",
-          "station_name" : "SROWOT",
-          "time_at_station" : "21:35:00",
-          "train_no" : "709"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795565
+  "timestamp" : 1794990214
 }

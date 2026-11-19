@@ -1,32 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "PRP",
-      "dest_station_name" : "PARUNGPANJANG",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "CITERAS",
-          "time_at_station" : "22:47:00",
-          "train_no" : "1823"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "CITERAS",
-          "time_at_station" : "23:44:00",
-          "train_no" : "1831"
-        }
-      ]
-    },
-    {
       "dest_station" : "THB",
       "dest_station_name" : "TANAHABANG",
       "trains" : [
@@ -549,6 +523,42 @@
           "station_name" : "CITERAS",
           "time_at_station" : "22:15:00",
           "train_no" : "1819D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CITERAS",
+          "time_at_station" : "21:47:00",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CITERAS",
+          "time_at_station" : "22:32:00",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CITERAS",
+          "time_at_station" : "23:07:00",
+          "train_no" : "1825D"
         }
       ]
     },
@@ -1139,41 +1149,31 @@
       ]
     },
     {
-      "dest_station" : "SRP",
-      "dest_station_name" : "SERPONG",
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
         {
-          "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
           "station_name" : "CITERAS",
-          "time_at_station" : "21:47:00",
-          "train_no" : "1817D"
+          "time_at_station" : "22:47:00",
+          "train_no" : "1823"
         },
         {
-          "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
           "station_name" : "CITERAS",
-          "time_at_station" : "22:32:00",
-          "train_no" : "1821D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
-          "station_name" : "CITERAS",
-          "time_at_station" : "23:07:00",
-          "train_no" : "1825D"
+          "time_at_station" : "23:44:00",
+          "train_no" : "1831"
         }
       ]
     }
   ],
-  "timestamp" : 1788795547
+  "timestamp" : 1794990187
 }

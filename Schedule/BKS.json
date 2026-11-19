@@ -1,284 +1,38 @@
 {
   "data" : [
     {
-      "dest_station" : "KPB",
-      "dest_station_name" : "KAMPUNGBANDAN",
+      "dest_station" : "TB",
+      "dest_station_name" : "TAMBUN",
       "trains" : [
         {
           "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
+          "route" : "ANGKE-TAMBUN",
           "station_name" : "BEKASI",
-          "time_at_station" : "05:23:00",
-          "train_no" : "5031C"
+          "time_at_station" : "06:21:00",
+          "train_no" : "5022D"
         },
         {
           "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
           "station_name" : "BEKASI",
-          "time_at_station" : "06:47:00",
-          "train_no" : "5515C"
+          "time_at_station" : "10:48:00",
+          "train_no" : "6018D"
         },
         {
           "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
+          "dest_station" : "TB",
+          "dest_station_name" : "TAMBUN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
+          "route" : "KAMPUNGBANDAN-TAMBUN",
           "station_name" : "BEKASI",
-          "time_at_station" : "08:03:00",
-          "train_no" : "5521C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "08:44:00",
-          "train_no" : "5525D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "09:43:00",
-          "train_no" : "5529C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "10:23:00",
-          "train_no" : "5533D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "10:57:00",
-          "train_no" : "5089C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "TAMBUN-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "11:17:00",
-          "train_no" : "5537C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "12:49:00",
-          "train_no" : "5107C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "13:23:00",
-          "train_no" : "5545C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "14:34:00",
-          "train_no" : "5551C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "15:16:00",
-          "train_no" : "5129C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "15:38:00",
-          "train_no" : "5555C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "15:48:00",
-          "train_no" : "5137D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "16:10:00",
-          "train_no" : "5557C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "16:29:00",
-          "train_no" : "5143C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "17:19:00",
-          "train_no" : "5561C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "17:34:00",
-          "train_no" : "5153C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "17:52:00",
-          "train_no" : "5563C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "17:57:00",
-          "train_no" : "5157C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "19:02:00",
-          "train_no" : "5569C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "19:32:00",
-          "train_no" : "5573C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "20:48:00",
-          "train_no" : "5579C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN",
-          "station_name" : "BEKASI",
-          "time_at_station" : "21:36:00",
-          "train_no" : "5583C"
-        }
-      ]
-    },
-    {
-      "dest_station" : "JAKK",
-      "dest_station_name" : "JAKARTAKOTA",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "BEKASI",
-          "time_at_station" : "20:53:00",
-          "train_no" : "6075"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-JAKARTAKOTA",
-          "station_name" : "BEKASI",
-          "time_at_station" : "22:40:00",
-          "train_no" : "6083"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "BEKASI",
-          "time_at_station" : "23:44:00",
-          "train_no" : "6085A"
+          "time_at_station" : "18:42:00",
+          "train_no" : "5146D"
         }
       ]
     },
@@ -889,6 +643,42 @@
       ]
     },
     {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "BEKASI",
+          "time_at_station" : "20:53:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-JAKARTAKOTA",
+          "station_name" : "BEKASI",
+          "time_at_station" : "22:40:00",
+          "train_no" : "6083"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "BEKASI",
+          "time_at_station" : "23:44:00",
+          "train_no" : "6085A"
+        }
+      ]
+    },
+    {
       "dest_station" : "CKR",
       "dest_station_name" : "CIKARANG",
       "trains" : [
@@ -1425,6 +1215,62 @@
       ]
     },
     {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "00:02:00",
+          "train_no" : "5205A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "20:04:00",
+          "train_no" : "5177A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "22:26:00",
+          "train_no" : "5195"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "23:05:00",
+          "train_no" : "5201"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-MANGGARAI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "23:13:00",
+          "train_no" : "5203"
+        }
+      ]
+    },
+    {
       "dest_station" : "KPB",
       "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
       "trains" : [
@@ -1831,308 +1677,6 @@
       ]
     },
     {
-      "dest_station" : "CKR",
-      "dest_station_name" : "CIKARANG VIA MRI",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "00:26:00",
-          "train_no" : "5194C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "05:58:00",
-          "train_no" : "5018C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "06:50:00",
-          "train_no" : "6002C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "07:16:00",
-          "train_no" : "6004D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "10:04:00",
-          "train_no" : "6016C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "11:21:00",
-          "train_no" : "6020C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "11:37:00",
-          "train_no" : "5074C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "12:15:00",
-          "train_no" : "5084D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "12:20:00",
-          "train_no" : "6024D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "13:12:00",
-          "train_no" : "6028D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "14:42:00",
-          "train_no" : "6036D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "14:59:00",
-          "train_no" : "6038C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "15:20:00",
-          "train_no" : "5112C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "16:16:00",
-          "train_no" : "5122D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "16:45:00",
-          "train_no" : "6048C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "18:14:00",
-          "train_no" : "6054C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "18:28:00",
-          "train_no" : "6056C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "19:25:00",
-          "train_no" : "6060C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "20:16:00",
-          "train_no" : "5158C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "20:45:00",
-          "train_no" : "6066C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "22:48:00",
-          "train_no" : "5182C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "22:55:00",
-          "train_no" : "6078C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "23:38:00",
-          "train_no" : "6080C"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKR",
-          "dest_station_name" : "CIKARANG VIA MRI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "23:57:00",
-          "train_no" : "6082C"
-        }
-      ]
-    },
-    {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "00:02:00",
-          "train_no" : "5205A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "20:04:00",
-          "train_no" : "5177A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "22:26:00",
-          "train_no" : "5195"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "23:05:00",
-          "train_no" : "5201"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-MANGGARAI",
-          "station_name" : "BEKASI",
-          "time_at_station" : "23:13:00",
-          "train_no" : "5203"
-        }
-      ]
-    },
-    {
       "dest_station" : "KPB",
       "dest_station_name" : "KAMPUNGBANDAN VIA MRI",
       "trains" : [
@@ -2419,41 +1963,497 @@
       ]
     },
     {
-      "dest_station" : "TB",
-      "dest_station_name" : "TAMBUN",
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN",
       "trains" : [
         {
           "color" : "#0084D8",
-          "dest_station" : "TB",
-          "dest_station_name" : "TAMBUN",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "ANGKE-TAMBUN",
+          "route" : "BEKASI-KAMPUNGBANDAN",
           "station_name" : "BEKASI",
-          "time_at_station" : "06:21:00",
-          "train_no" : "5022D"
+          "time_at_station" : "05:23:00",
+          "train_no" : "5031C"
         },
         {
           "color" : "#0084D8",
-          "dest_station" : "TB",
-          "dest_station_name" : "TAMBUN",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
           "station_name" : "BEKASI",
-          "time_at_station" : "10:48:00",
-          "train_no" : "6018D"
+          "time_at_station" : "06:47:00",
+          "train_no" : "5515C"
         },
         {
           "color" : "#0084D8",
-          "dest_station" : "TB",
-          "dest_station_name" : "TAMBUN",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
           "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-TAMBUN",
+          "route" : "BEKASI-KAMPUNGBANDAN",
           "station_name" : "BEKASI",
-          "time_at_station" : "18:42:00",
-          "train_no" : "5146D"
+          "time_at_station" : "08:03:00",
+          "train_no" : "5521C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "08:44:00",
+          "train_no" : "5525D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "09:43:00",
+          "train_no" : "5529C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "10:23:00",
+          "train_no" : "5533D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "10:57:00",
+          "train_no" : "5089C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "TAMBUN-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "11:17:00",
+          "train_no" : "5537C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "12:49:00",
+          "train_no" : "5107C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "13:23:00",
+          "train_no" : "5545C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "14:34:00",
+          "train_no" : "5551C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "15:16:00",
+          "train_no" : "5129C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "15:38:00",
+          "train_no" : "5555C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "15:48:00",
+          "train_no" : "5137D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "16:10:00",
+          "train_no" : "5557C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "16:29:00",
+          "train_no" : "5143C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "17:19:00",
+          "train_no" : "5561C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "17:34:00",
+          "train_no" : "5153C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "17:52:00",
+          "train_no" : "5563C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "17:57:00",
+          "train_no" : "5157C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "19:02:00",
+          "train_no" : "5569C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "19:32:00",
+          "train_no" : "5573C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "20:48:00",
+          "train_no" : "5579C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN",
+          "station_name" : "BEKASI",
+          "time_at_station" : "21:36:00",
+          "train_no" : "5583C"
+        }
+      ]
+    },
+    {
+      "dest_station" : "CKR",
+      "dest_station_name" : "CIKARANG VIA MRI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "00:26:00",
+          "train_no" : "5194C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "05:58:00",
+          "train_no" : "5018C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "06:50:00",
+          "train_no" : "6002C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "07:16:00",
+          "train_no" : "6004D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "10:04:00",
+          "train_no" : "6016C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "11:21:00",
+          "train_no" : "6020C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "11:37:00",
+          "train_no" : "5074C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "12:15:00",
+          "train_no" : "5084D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "12:20:00",
+          "train_no" : "6024D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "13:12:00",
+          "train_no" : "6028D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "14:42:00",
+          "train_no" : "6036D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "14:59:00",
+          "train_no" : "6038C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "15:20:00",
+          "train_no" : "5112C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "16:16:00",
+          "train_no" : "5122D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "16:45:00",
+          "train_no" : "6048C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "18:14:00",
+          "train_no" : "6054C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "18:28:00",
+          "train_no" : "6056C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "19:25:00",
+          "train_no" : "6060C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "20:16:00",
+          "train_no" : "5158C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "20:45:00",
+          "train_no" : "6066C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "22:48:00",
+          "train_no" : "5182C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "22:55:00",
+          "train_no" : "6078C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "23:38:00",
+          "train_no" : "6080C"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKR",
+          "dest_station_name" : "CIKARANG VIA MRI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-CIKARANG VIA MRI",
+          "station_name" : "BEKASI",
+          "time_at_station" : "23:57:00",
+          "train_no" : "6082C"
         }
       ]
     }
   ],
-  "timestamp" : 1788795543
+  "timestamp" : 1794990182
 }

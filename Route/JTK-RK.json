@@ -1,0 +1,106 @@
+{
+  "data" : [
+    [
+      {
+        "distance" : 0,
+        "i_lat" : -6.3348327,
+        "i_long" : 106.6040965,
+        "line" : 3,
+        "station_id" : "JTK",
+        "station_name" : "Jatake",
+        "time" : 0,
+        "transit" : false
+      },
+      {
+        "distance" : 4370,
+        "i_lat" : -6.3441410000000005,
+        "i_long" : 106.568863,
+        "line" : 6,
+        "station_id" : "PRP",
+        "station_name" : "Parung Panjang",
+        "time" : 6,
+        "transit" : false
+      },
+      {
+        "distance" : 7025,
+        "i_lat" : -6.354349,
+        "i_long" : 106.508482,
+        "line" : 3,
+        "station_id" : "CJT",
+        "station_name" : "Cilejit",
+        "time" : 7,
+        "transit" : false
+      },
+      {
+        "distance" : 2675,
+        "i_lat" : -6.338021,
+        "i_long" : 106.491338,
+        "line" : 0,
+        "station_id" : "DAR",
+        "station_name" : "Daru",
+        "time" : 5,
+        "transit" : false
+      },
+      {
+        "distance" : 3902,
+        "i_lat" : -6.327251,
+        "i_long" : 106.460812,
+        "line" : 6,
+        "station_id" : "TEJ",
+        "station_name" : "Tenjo",
+        "time" : 5,
+        "transit" : false
+      },
+      {
+        "distance" : 2974,
+        "i_lat" : -6.328533,
+        "i_long" : 106.425991,
+        "line" : 6,
+        "station_id" : "TGS",
+        "station_name" : "Tigaraksa",
+        "time" : 5,
+        "transit" : false
+      },
+      {
+        "distance" : 2651,
+        "i_lat" : -6.33561,
+        "i_long" : 106.411216,
+        "line" : 3,
+        "station_id" : "CKY",
+        "station_name" : "Cikoya",
+        "time" : 3,
+        "transit" : false
+      },
+      {
+        "distance" : 1853,
+        "i_lat" : -6.332307,
+        "i_long" : 106.394373,
+        "line" : 6,
+        "station_id" : "MJ",
+        "station_name" : "Maja",
+        "time" : 4,
+        "transit" : false
+      },
+      {
+        "distance" : 7293,
+        "i_lat" : -6.334892,
+        "i_long" : 106.332092,
+        "line" : 3,
+        "station_id" : "CTR",
+        "station_name" : "Citeras",
+        "time" : 9,
+        "transit" : false
+      },
+      {
+        "distance" : 9847,
+        "i_lat" : -6.352675,
+        "i_long" : 106.250396,
+        "line" : 3,
+        "station_id" : "RK",
+        "station_name" : "Rangkasbitung",
+        "time" : 11,
+        "transit" : false
+      }
+    ]
+  ]
+}

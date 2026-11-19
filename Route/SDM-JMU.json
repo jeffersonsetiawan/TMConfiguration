@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.296963,
-        "i_long": 106.712277,
-        "is_transit": false,
-        "line": 6,
-        "station_id": "SDM",
-        "station_name": "Sudimara",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.296963,
+        "i_long" : 106.712277,
+        "line" : 6,
+        "station_id" : "SDM",
+        "station_name" : "Sudimara",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 1994,
-        "i_lat": -6.288927,
-        "i_long": 106.728916,
-        "is_transit": false,
-        "line": 6,
-        "station_id": "JMU",
-        "station_name": "Jurangmangu",
-        "time": 4,
-        "transit": false
+        "distance" : 1994,
+        "i_lat" : -6.288927,
+        "i_long" : 106.728916,
+        "line" : 6,
+        "station_id" : "JMU",
+        "station_name" : "Jurang Mangu",
+        "time" : 3,
+        "transit" : false
       }
     ]
   ]

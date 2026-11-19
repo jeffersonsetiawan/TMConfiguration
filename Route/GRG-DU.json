@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.162021,
-        "i_long": 106.788277,
-        "is_transit": false,
-        "line": 5,
-        "station_id": "GRG",
-        "station_name": "Grogol",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.162021,
+        "i_long" : 106.788277,
+        "line" : 5,
+        "station_id" : "GRG",
+        "station_name" : "Grogol",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 1700,
-        "i_lat": -6.155215,
-        "i_long": 106.800832,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "DU",
-        "station_name": "Duri",
-        "time": 3,
-        "transit": false
+        "distance" : 1700,
+        "i_lat" : -6.155215,
+        "i_long" : 106.800832,
+        "line" : 1,
+        "station_id" : "DU",
+        "station_name" : "Duri",
+        "time" : 4,
+        "transit" : false
       }
     ]
   ]

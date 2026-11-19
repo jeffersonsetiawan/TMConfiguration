@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.215568,
-        "i_long": 106.922662,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "BUA",
-        "station_name": "Buaran",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.215568,
+        "i_long" : 106.922662,
+        "line" : 1,
+        "station_id" : "BUA",
+        "station_name" : "Buaran",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 3100,
-        "i_lat": -6.2135,
-        "i_long": 106.899548,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "KLD",
-        "station_name": "Klender",
-        "time": 2,
-        "transit": false
+        "distance" : 3100,
+        "i_lat" : -6.2135,
+        "i_long" : 106.899548,
+        "line" : 1,
+        "station_id" : "KLD",
+        "station_name" : "Klender",
+        "time" : 2,
+        "transit" : false
       }
     ]
   ]

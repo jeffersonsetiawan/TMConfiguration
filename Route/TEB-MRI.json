@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.226659,
-        "i_long": 106.857948,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "TEB",
-        "station_name": "Tebet",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.226659,
+        "i_long" : 106.857948,
+        "line" : 2,
+        "station_id" : "TEB",
+        "station_name" : "Tebet",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 2610,
-        "i_lat": -6.209883,
-        "i_long": 106.84912,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "MRI",
-        "station_name": "Manggarai",
-        "time": 4,
-        "transit": false
+        "distance" : 2610,
+        "i_lat" : -6.209883,
+        "i_long" : 106.84912,
+        "line" : 2,
+        "station_id" : "MRI",
+        "station_name" : "Manggarai",
+        "time" : 5,
+        "transit" : false
       }
     ]
   ]

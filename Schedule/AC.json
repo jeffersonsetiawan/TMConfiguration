@@ -1,332 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "TPK",
-      "dest_station_name" : "TANJUNGPRIUK",
-      "trains" : [
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "05:07:30",
-          "train_no" : "2200"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "05:37:30",
-          "train_no" : "2202"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "06:07:30",
-          "train_no" : "2204"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "06:37:30",
-          "train_no" : "2206"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "07:07:30",
-          "train_no" : "2208"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "07:37:30",
-          "train_no" : "2210"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "08:07:30",
-          "train_no" : "2212"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "08:37:30",
-          "train_no" : "2214"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "09:07:30",
-          "train_no" : "2216"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "09:37:30",
-          "train_no" : "2218"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "10:07:30",
-          "train_no" : "2220"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "10:37:30",
-          "train_no" : "2222"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "11:07:30",
-          "train_no" : "2224"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "11:37:30",
-          "train_no" : "2226"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "12:07:30",
-          "train_no" : "2228"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "12:37:30",
-          "train_no" : "2230"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "13:07:30",
-          "train_no" : "2232"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "13:37:30",
-          "train_no" : "2234"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "14:07:30",
-          "train_no" : "2236"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "14:37:30",
-          "train_no" : "2238"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "15:07:30",
-          "train_no" : "2240"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "15:37:30",
-          "train_no" : "2242"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "16:07:30",
-          "train_no" : "2244"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "16:37:30",
-          "train_no" : "2246"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "17:07:30",
-          "train_no" : "2248"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "17:37:30",
-          "train_no" : "2250"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "18:07:30",
-          "train_no" : "2252"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "18:37:30",
-          "train_no" : "2254"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "19:07:30",
-          "train_no" : "2256"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "19:37:30",
-          "train_no" : "2258"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "20:07:30",
-          "train_no" : "2260"
-        },
-        {
-          "color" : "#DD0067",
-          "dest_station" : "TPK",
-          "dest_station_name" : "TANJUNGPRIUK",
-          "line_name" : "Commuter Line Tanjungpriuk",
-          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
-          "station_name" : "ANCOL",
-          "time_at_station" : "20:37:30",
-          "train_no" : "2262"
-        }
-      ]
-    },
-    {
       "dest_station" : "JAKK",
       "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
@@ -651,7 +325,333 @@
           "train_no" : "2265A"
         }
       ]
+    },
+    {
+      "dest_station" : "TPK",
+      "dest_station_name" : "TANJUNGPRIUK",
+      "trains" : [
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "05:07:30",
+          "train_no" : "2200"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "05:37:30",
+          "train_no" : "2202"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "06:07:30",
+          "train_no" : "2204"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "06:37:30",
+          "train_no" : "2206"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "07:07:30",
+          "train_no" : "2208"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "07:37:30",
+          "train_no" : "2210"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "08:07:30",
+          "train_no" : "2212"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "08:37:30",
+          "train_no" : "2214"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "09:07:30",
+          "train_no" : "2216"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "09:37:30",
+          "train_no" : "2218"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "10:07:30",
+          "train_no" : "2220"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "10:37:30",
+          "train_no" : "2222"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "11:07:30",
+          "train_no" : "2224"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "11:37:30",
+          "train_no" : "2226"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "12:07:30",
+          "train_no" : "2228"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "12:37:30",
+          "train_no" : "2230"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "13:07:30",
+          "train_no" : "2232"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "13:37:30",
+          "train_no" : "2234"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "14:07:30",
+          "train_no" : "2236"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "14:37:30",
+          "train_no" : "2238"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "15:07:30",
+          "train_no" : "2240"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "15:37:30",
+          "train_no" : "2242"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "16:07:30",
+          "train_no" : "2244"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "16:37:30",
+          "train_no" : "2246"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "17:07:30",
+          "train_no" : "2248"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "17:37:30",
+          "train_no" : "2250"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "18:07:30",
+          "train_no" : "2252"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "18:37:30",
+          "train_no" : "2254"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "19:07:30",
+          "train_no" : "2256"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "19:37:30",
+          "train_no" : "2258"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "20:07:30",
+          "train_no" : "2260"
+        },
+        {
+          "color" : "#DD0067",
+          "dest_station" : "TPK",
+          "dest_station_name" : "TANJUNGPRIUK",
+          "line_name" : "Commuter Line Tanjungpriuk",
+          "route" : "JAKARTAKOTA-TANJUNGPRIUK",
+          "station_name" : "ANCOL",
+          "time_at_station" : "20:37:30",
+          "train_no" : "2262"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795542
+  "timestamp" : 1794990180
 }

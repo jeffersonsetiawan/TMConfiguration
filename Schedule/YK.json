@@ -1,58 +1,258 @@
 {
   "data" : [
     {
-      "dest_station" : "KTA",
-      "dest_station_name" : "KUTOARJO",
+      "dest_station" : "YIA",
+      "dest_station_name" : "YOGYAKARTA INT AIRPORT",
       "trains" : [
         {
-          "color" : "#0084D8",
-          "dest_station" : "KTA",
-          "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "YOGYAKARTA-KUTOARJO",
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
           "station_name" : "YOGYAKARTA",
-          "time_at_station" : "06:40:00",
-          "train_no" : "501"
+          "time_at_station" : "04:20:00",
+          "train_no" : "521"
         },
         {
-          "color" : "#0084D8",
-          "dest_station" : "KTA",
-          "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "YOGYAKARTA-KUTOARJO",
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
           "station_name" : "YOGYAKARTA",
-          "time_at_station" : "11:50:00",
-          "train_no" : "503"
+          "time_at_station" : "05:10:00",
+          "train_no" : "561"
         },
         {
-          "color" : "#0084D8",
-          "dest_station" : "KTA",
-          "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "YOGYAKARTA-KUTOARJO",
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
           "station_name" : "YOGYAKARTA",
-          "time_at_station" : "15:15:00",
-          "train_no" : "505"
+          "time_at_station" : "06:00:00",
+          "train_no" : "547F"
         },
         {
-          "color" : "#0084D8",
-          "dest_station" : "KTA",
-          "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "YOGYAKARTA-KUTOARJO",
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
           "station_name" : "YOGYAKARTA",
-          "time_at_station" : "16:20:00",
-          "train_no" : "509"
+          "time_at_station" : "06:30:00",
+          "train_no" : "523"
         },
         {
-          "color" : "#0084D8",
-          "dest_station" : "KTA",
-          "dest_station_name" : "KUTOARJO",
-          "line_name" : "Commuter Line Prameks",
-          "route" : "YOGYAKARTA-KUTOARJO",
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
           "station_name" : "YOGYAKARTA",
-          "time_at_station" : "18:05:00",
-          "train_no" : "507"
+          "time_at_station" : "07:40:00",
+          "train_no" : "535"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "07:57:00",
+          "train_no" : "549"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "08:33:00",
+          "train_no" : "525"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "08:55:00",
+          "train_no" : "563"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "09:28:00",
+          "train_no" : "537"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "09:51:00",
+          "train_no" : "551"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "11:03:00",
+          "train_no" : "539"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "12:00:00",
+          "train_no" : "527"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "12:35:00",
+          "train_no" : "565"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "13:28:00",
+          "train_no" : "553"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "14:13:00",
+          "train_no" : "529"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:02:00",
+          "train_no" : "541"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:30:00",
+          "train_no" : "555"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:49:00",
+          "train_no" : "567"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "16:07:00",
+          "train_no" : "531"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "16:48:00",
+          "train_no" : "543"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "17:15:00",
+          "train_no" : "557"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "18:25:00",
+          "train_no" : "569"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "18:50:00",
+          "train_no" : "559"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "19:16:00",
+          "train_no" : "533"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "YIA",
+          "dest_station_name" : "YOGYAKARTA INT AIRPORT",
+          "line_name" : "Commuter Line Yia Ekspres",
+          "route" : "YOGYAKARTA-YOGYAKARTA INT AIRPORT",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "20:12:00",
+          "train_no" : "545"
         }
       ]
     },
@@ -211,7 +411,63 @@
           "train_no" : "710"
         }
       ]
+    },
+    {
+      "dest_station" : "KTA",
+      "dest_station_name" : "KUTOARJO",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "06:40:00",
+          "train_no" : "501"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "11:50:00",
+          "train_no" : "503"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "15:15:00",
+          "train_no" : "505"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "16:20:00",
+          "train_no" : "509"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KTA",
+          "dest_station_name" : "KUTOARJO",
+          "line_name" : "Commuter Line Prameks Kutoarjo",
+          "route" : "YOGYAKARTA-KUTOARJO",
+          "station_name" : "YOGYAKARTA",
+          "time_at_station" : "18:05:00",
+          "train_no" : "507"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795565
+  "timestamp" : 1794990215
 }

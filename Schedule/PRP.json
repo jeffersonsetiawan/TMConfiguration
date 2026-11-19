@@ -1,6 +1,152 @@
 {
   "data" : [
     {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "05:25:00",
+          "train_no" : "1612D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "06:26:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "06:49:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "07:50:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "08:31:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "09:11:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "09:49:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "10:32:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "17:33:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "18:12:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "18:52:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "20:12:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "20:32:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "PARUNG PANJANG",
+          "time_at_station" : "20:52:00",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
       "dest_station" : "THB",
       "dest_station_name" : "TANAHABANG",
       "trains" : [
@@ -1503,152 +1649,6 @@
       ]
     },
     {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "PARUNGPANJANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "05:25:00",
-          "train_no" : "1612D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "06:26:00",
-          "train_no" : "1620D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "06:49:00",
-          "train_no" : "1624D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "07:50:00",
-          "train_no" : "1636D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "08:31:00",
-          "train_no" : "1644D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "09:11:00",
-          "train_no" : "1652D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "09:49:00",
-          "train_no" : "1660D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "10:32:00",
-          "train_no" : "1668D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "17:33:00",
-          "train_no" : "1746D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "18:12:00",
-          "train_no" : "1754D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "18:52:00",
-          "train_no" : "1762D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "20:12:00",
-          "train_no" : "1776D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "20:32:00",
-          "train_no" : "1780D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "PARUNG PANJANG",
-          "time_at_station" : "20:52:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
       "dest_station" : "SRP",
       "dest_station_name" : "SERPONG",
       "trains" : [
@@ -1705,5 +1705,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795557
+  "timestamp" : 1794990204
 }

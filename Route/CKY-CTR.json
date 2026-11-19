@@ -1,38 +1,35 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.33561,
-        "i_long": 106.411216,
-        "is_transit": false,
-        "line": 3,
-        "station_id": "CKY",
-        "station_name": "Cikoya",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.33561,
+        "i_long" : 106.411216,
+        "line" : 3,
+        "station_id" : "CKY",
+        "station_name" : "Cikoya",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 1853,
-        "i_lat": -6.332307,
-        "i_long": 106.394373,
-        "is_transit": false,
-        "line": 6,
-        "station_id": "MJ",
-        "station_name": "Maja",
-        "time": 4,
-        "transit": false
+        "distance" : 1853,
+        "i_lat" : -6.332307,
+        "i_long" : 106.394373,
+        "line" : 6,
+        "station_id" : "MJ",
+        "station_name" : "Maja",
+        "time" : 4,
+        "transit" : false
       },
       {
-        "distance": 7293,
-        "i_lat": -6.334892,
-        "i_long": 106.332092,
-        "is_transit": false,
-        "line": 3,
-        "station_id": "CTR",
-        "station_name": "Citeras",
-        "time": 10,
-        "transit": false
+        "distance" : 7293,
+        "i_lat" : -6.334892,
+        "i_long" : 106.332092,
+        "line" : 3,
+        "station_id" : "CTR",
+        "station_name" : "Citeras",
+        "time" : 9,
+        "transit" : false
       }
     ]
   ]

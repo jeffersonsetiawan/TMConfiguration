@@ -1,268 +1,138 @@
 {
   "data" : [
     {
-      "dest_station" : "PRP",
-      "dest_station_name" : "PARUNGPANJANG",
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
       "trains" : [
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "00:35:00",
-          "train_no" : "1820D"
+          "time_at_station" : "06:15:00",
+          "train_no" : "1620D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "07:18:00",
-          "train_no" : "1632D"
+          "time_at_station" : "06:38:00",
+          "train_no" : "1624D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "07:58:00",
-          "train_no" : "1640D"
+          "time_at_station" : "07:39:00",
+          "train_no" : "1636D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "08:40:00",
-          "train_no" : "1648D"
+          "time_at_station" : "08:20:00",
+          "train_no" : "1644D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "09:19:00",
-          "train_no" : "1656D"
+          "time_at_station" : "09:00:00",
+          "train_no" : "1652D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "10:02:00",
-          "train_no" : "1664D"
+          "time_at_station" : "09:38:00",
+          "train_no" : "1660D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "10:42:00",
-          "train_no" : "1672D"
+          "time_at_station" : "10:21:00",
+          "train_no" : "1668D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "11:42:00",
-          "train_no" : "1684D"
+          "time_at_station" : "17:21:00",
+          "train_no" : "1746D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "12:20:00",
-          "train_no" : "1692D"
+          "time_at_station" : "18:01:00",
+          "train_no" : "1754D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "12:47:00",
-          "train_no" : "1696D"
+          "time_at_station" : "18:40:00",
+          "train_no" : "1762D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "13:09:00",
-          "train_no" : "1700D"
+          "time_at_station" : "20:00:00",
+          "train_no" : "1776D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "13:44:00",
-          "train_no" : "1706D"
+          "time_at_station" : "20:21:00",
+          "train_no" : "1780D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "CISAUK",
-          "time_at_station" : "14:24:00",
-          "train_no" : "1714D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "15:01:00",
-          "train_no" : "1720D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "15:34:00",
-          "train_no" : "1726D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "16:01:00",
-          "train_no" : "1730D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "16:41:00",
-          "train_no" : "1738D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "17:01:00",
-          "train_no" : "1742D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "17:41:00",
-          "train_no" : "1750D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "18:21:00",
-          "train_no" : "1758D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "19:00:00",
-          "train_no" : "1766D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "19:22:00",
-          "train_no" : "7100D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "19:41:00",
-          "train_no" : "1772D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "21:21:00",
-          "train_no" : "1788D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "21:43:00",
-          "train_no" : "1796D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "23:05:00",
-          "train_no" : "1806D"
+          "time_at_station" : "20:41:00",
+          "train_no" : "1784D"
         }
       ]
     },
@@ -1183,6 +1053,62 @@
       ]
     },
     {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-SERPONG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "09:52:00",
+          "train_no" : "1679D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-SERPONG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "21:36:00",
+          "train_no" : "1807D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "22:35:00",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "23:20:00",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "23:55:00",
+          "train_no" : "1825D"
+        }
+      ]
+    },
+    {
       "dest_station" : "RK",
       "dest_station_name" : "RANGKASBITUNG",
       "trains" : [
@@ -1759,197 +1685,271 @@
       ]
     },
     {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "06:15:00",
-          "train_no" : "1620D"
+          "time_at_station" : "00:35:00",
+          "train_no" : "1820D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "06:38:00",
-          "train_no" : "1624D"
+          "time_at_station" : "07:18:00",
+          "train_no" : "1632D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "07:39:00",
-          "train_no" : "1636D"
+          "time_at_station" : "07:58:00",
+          "train_no" : "1640D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "08:20:00",
-          "train_no" : "1644D"
+          "time_at_station" : "08:40:00",
+          "train_no" : "1648D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "09:00:00",
-          "train_no" : "1652D"
+          "time_at_station" : "09:19:00",
+          "train_no" : "1656D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "09:38:00",
-          "train_no" : "1660D"
+          "time_at_station" : "10:02:00",
+          "train_no" : "1664D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "10:21:00",
-          "train_no" : "1668D"
+          "time_at_station" : "10:42:00",
+          "train_no" : "1672D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "17:21:00",
-          "train_no" : "1746D"
+          "time_at_station" : "11:42:00",
+          "train_no" : "1684D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "18:01:00",
-          "train_no" : "1754D"
+          "time_at_station" : "12:20:00",
+          "train_no" : "1692D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "18:40:00",
-          "train_no" : "1762D"
+          "time_at_station" : "12:47:00",
+          "train_no" : "1696D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "20:00:00",
-          "train_no" : "1776D"
+          "time_at_station" : "13:09:00",
+          "train_no" : "1700D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "20:21:00",
-          "train_no" : "1780D"
+          "time_at_station" : "13:44:00",
+          "train_no" : "1706D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "20:41:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "SRP",
-      "dest_station_name" : "SERPONG",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "PARUNGPANJANG-SERPONG",
-          "station_name" : "CISAUK",
-          "time_at_station" : "09:52:00",
-          "train_no" : "1679D"
+          "time_at_station" : "14:24:00",
+          "train_no" : "1714D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TIGARAKSA-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "21:36:00",
-          "train_no" : "1807D"
+          "time_at_station" : "15:01:00",
+          "train_no" : "1720D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "22:35:00",
-          "train_no" : "1817D"
+          "time_at_station" : "15:34:00",
+          "train_no" : "1726D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "23:20:00",
-          "train_no" : "1821D"
+          "time_at_station" : "16:01:00",
+          "train_no" : "1730D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "CISAUK",
-          "time_at_station" : "23:55:00",
-          "train_no" : "1825D"
+          "time_at_station" : "16:41:00",
+          "train_no" : "1738D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "17:01:00",
+          "train_no" : "1742D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "17:41:00",
+          "train_no" : "1750D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "18:21:00",
+          "train_no" : "1758D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "19:00:00",
+          "train_no" : "1766D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "19:22:00",
+          "train_no" : "7100D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "19:41:00",
+          "train_no" : "1772D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "21:21:00",
+          "train_no" : "1788D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "21:43:00",
+          "train_no" : "1796D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "CISAUK",
+          "time_at_station" : "23:05:00",
+          "train_no" : "1806D"
         }
       ]
     }
   ],
-  "timestamp" : 1788795546
+  "timestamp" : 1794990186
 }

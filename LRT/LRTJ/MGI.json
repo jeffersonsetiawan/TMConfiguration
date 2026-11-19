@@ -1,0 +1,357 @@
+{
+  "data" : [
+    {
+      "colorCode" : "#F26324",
+      "lineCode" : "S",
+      "name" : "Lin Selatan",
+      "timetable" : [
+        {
+          "boundFor" : "Kelapa Gading",
+          "schedules" : [
+            {
+              "estimatedDeparture" : "05:32:00",
+              "id" : "LRTJ-MGI-05:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "05:44:00",
+              "id" : "LRTJ-MGI-05:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "05:56:00",
+              "id" : "LRTJ-MGI-05:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "06:08:00",
+              "id" : "LRTJ-MGI-06:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "06:20:00",
+              "id" : "LRTJ-MGI-06:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "06:32:00",
+              "id" : "LRTJ-MGI-06:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "06:44:00",
+              "id" : "LRTJ-MGI-06:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "06:56:00",
+              "id" : "LRTJ-MGI-06:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "07:08:00",
+              "id" : "LRTJ-MGI-07:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "07:20:00",
+              "id" : "LRTJ-MGI-07:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "07:32:00",
+              "id" : "LRTJ-MGI-07:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "07:44:00",
+              "id" : "LRTJ-MGI-07:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "07:56:00",
+              "id" : "LRTJ-MGI-07:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "08:08:00",
+              "id" : "LRTJ-MGI-08:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "08:20:00",
+              "id" : "LRTJ-MGI-08:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "08:32:00",
+              "id" : "LRTJ-MGI-08:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "08:44:00",
+              "id" : "LRTJ-MGI-08:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "08:56:00",
+              "id" : "LRTJ-MGI-08:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "09:08:00",
+              "id" : "LRTJ-MGI-09:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "09:20:00",
+              "id" : "LRTJ-MGI-09:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "09:32:00",
+              "id" : "LRTJ-MGI-09:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "09:44:00",
+              "id" : "LRTJ-MGI-09:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "09:56:00",
+              "id" : "LRTJ-MGI-09:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "10:08:00",
+              "id" : "LRTJ-MGI-10:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "10:20:00",
+              "id" : "LRTJ-MGI-10:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "10:32:00",
+              "id" : "LRTJ-MGI-10:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "10:44:00",
+              "id" : "LRTJ-MGI-10:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "10:56:00",
+              "id" : "LRTJ-MGI-10:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "11:08:00",
+              "id" : "LRTJ-MGI-11:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "11:20:00",
+              "id" : "LRTJ-MGI-11:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "11:32:00",
+              "id" : "LRTJ-MGI-11:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "11:44:00",
+              "id" : "LRTJ-MGI-11:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "11:56:00",
+              "id" : "LRTJ-MGI-11:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "12:08:00",
+              "id" : "LRTJ-MGI-12:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "12:20:00",
+              "id" : "LRTJ-MGI-12:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "12:32:00",
+              "id" : "LRTJ-MGI-12:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "12:44:00",
+              "id" : "LRTJ-MGI-12:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "12:56:00",
+              "id" : "LRTJ-MGI-12:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "13:08:00",
+              "id" : "LRTJ-MGI-13:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "13:20:00",
+              "id" : "LRTJ-MGI-13:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "13:32:00",
+              "id" : "LRTJ-MGI-13:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "13:44:00",
+              "id" : "LRTJ-MGI-13:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "13:56:00",
+              "id" : "LRTJ-MGI-13:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "14:08:00",
+              "id" : "LRTJ-MGI-14:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "14:20:00",
+              "id" : "LRTJ-MGI-14:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "14:32:00",
+              "id" : "LRTJ-MGI-14:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "14:44:00",
+              "id" : "LRTJ-MGI-14:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "14:56:00",
+              "id" : "LRTJ-MGI-14:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "15:08:00",
+              "id" : "LRTJ-MGI-15:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "15:20:00",
+              "id" : "LRTJ-MGI-15:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "15:32:00",
+              "id" : "LRTJ-MGI-15:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "15:44:00",
+              "id" : "LRTJ-MGI-15:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "15:56:00",
+              "id" : "LRTJ-MGI-15:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "16:08:00",
+              "id" : "LRTJ-MGI-16:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "16:20:00",
+              "id" : "LRTJ-MGI-16:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "16:32:00",
+              "id" : "LRTJ-MGI-16:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "16:44:00",
+              "id" : "LRTJ-MGI-16:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "16:56:00",
+              "id" : "LRTJ-MGI-16:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "17:08:00",
+              "id" : "LRTJ-MGI-17:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "17:20:00",
+              "id" : "LRTJ-MGI-17:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "17:32:00",
+              "id" : "LRTJ-MGI-17:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "17:44:00",
+              "id" : "LRTJ-MGI-17:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "17:56:00",
+              "id" : "LRTJ-MGI-17:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "18:08:00",
+              "id" : "LRTJ-MGI-18:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "18:20:00",
+              "id" : "LRTJ-MGI-18:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "18:32:00",
+              "id" : "LRTJ-MGI-18:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "18:44:00",
+              "id" : "LRTJ-MGI-18:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "18:56:00",
+              "id" : "LRTJ-MGI-18:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "19:08:00",
+              "id" : "LRTJ-MGI-19:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "19:20:00",
+              "id" : "LRTJ-MGI-19:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "19:32:00",
+              "id" : "LRTJ-MGI-19:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "19:44:00",
+              "id" : "LRTJ-MGI-19:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "19:56:00",
+              "id" : "LRTJ-MGI-19:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "20:08:00",
+              "id" : "LRTJ-MGI-20:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "20:20:00",
+              "id" : "LRTJ-MGI-20:20-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "20:32:00",
+              "id" : "LRTJ-MGI-20:32-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "20:44:00",
+              "id" : "LRTJ-MGI-20:44-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "20:56:00",
+              "id" : "LRTJ-MGI-20:56-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "21:08:00",
+              "id" : "LRTJ-MGI-21:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "21:23:00",
+              "id" : "LRTJ-MGI-21:23-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "21:38:00",
+              "id" : "LRTJ-MGI-21:38-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "21:53:00",
+              "id" : "LRTJ-MGI-21:53-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "22:08:00",
+              "id" : "LRTJ-MGI-22:08-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "22:23:00",
+              "id" : "LRTJ-MGI-22:23-KPG-BOUND"
+            },
+            {
+              "estimatedDeparture" : "22:38:00",
+              "id" : "LRTJ-MGI-22:38-KPG-BOUND"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status" : 200
+}

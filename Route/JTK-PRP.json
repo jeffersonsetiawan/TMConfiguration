@@ -1,0 +1,26 @@
+{
+  "data" : [
+    [
+      {
+        "distance" : 0,
+        "i_lat" : -6.3348327,
+        "i_long" : 106.6040965,
+        "line" : 3,
+        "station_id" : "JTK",
+        "station_name" : "Jatake",
+        "time" : 0,
+        "transit" : false
+      },
+      {
+        "distance" : 4370,
+        "i_lat" : -6.3441410000000005,
+        "i_long" : 106.568863,
+        "line" : 6,
+        "station_id" : "PRP",
+        "station_name" : "Parung Panjang",
+        "time" : 6,
+        "transit" : false
+      }
+    ]
+  ]
+}

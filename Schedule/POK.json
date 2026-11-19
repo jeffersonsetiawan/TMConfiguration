@@ -213,272 +213,6 @@
       ]
     },
     {
-      "dest_station" : "BKS",
-      "dest_station_name" : "BEKASI",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "JAKARTAKOTA-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "05:33:30",
-          "train_no" : "5502"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "06:11:00",
-          "train_no" : "5506A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "06:29:00",
-          "train_no" : "5508A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "07:25:00",
-          "train_no" : "5512A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "08:06:00",
-          "train_no" : "5516A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "08:29:00",
-          "train_no" : "5518A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "10:26:00",
-          "train_no" : "5528A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "11:01:00",
-          "train_no" : "5530A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "11:41:00",
-          "train_no" : "5534A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "12:01:00",
-          "train_no" : "5536A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "13:03:00",
-          "train_no" : "5540A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "13:28:00",
-          "train_no" : "5542B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "14:01:00",
-          "train_no" : "5544A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "15:08:00",
-          "train_no" : "5548A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "15:34:00",
-          "train_no" : "5550A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "16:24:00",
-          "train_no" : "5554A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "16:57:00",
-          "train_no" : "5556A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "17:29:00",
-          "train_no" : "5558A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "18:05:00",
-          "train_no" : "5560A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "19:40:00",
-          "train_no" : "5566B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "20:24:00",
-          "train_no" : "5570A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "20:39:00",
-          "train_no" : "5572A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "20:54:00",
-          "train_no" : "5574A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "22:05:00",
-          "train_no" : "5580A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "22:34:00",
-          "train_no" : "5582A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "BKS",
-          "dest_station_name" : "BEKASI",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "KAMPUNGBANDAN-BEKASI",
-          "station_name" : "PONDOK JATI",
-          "time_at_station" : "22:59:00",
-          "train_no" : "5584A"
-        }
-      ]
-    },
-    {
       "dest_station" : "KPB",
       "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
       "trains" : [
@@ -883,7 +617,273 @@
           "train_no" : "6081A"
         }
       ]
+    },
+    {
+      "dest_station" : "BKS",
+      "dest_station_name" : "BEKASI",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "JAKARTAKOTA-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "05:33:30",
+          "train_no" : "5502"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "06:11:00",
+          "train_no" : "5506A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "06:29:00",
+          "train_no" : "5508A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "07:25:00",
+          "train_no" : "5512A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "08:06:00",
+          "train_no" : "5516A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "08:29:00",
+          "train_no" : "5518A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "10:26:00",
+          "train_no" : "5528A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "11:01:00",
+          "train_no" : "5530A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "11:41:00",
+          "train_no" : "5534A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "12:01:00",
+          "train_no" : "5536A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "13:03:00",
+          "train_no" : "5540A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "13:28:00",
+          "train_no" : "5542B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "14:01:00",
+          "train_no" : "5544A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "15:08:00",
+          "train_no" : "5548A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "15:34:00",
+          "train_no" : "5550A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "16:24:00",
+          "train_no" : "5554A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "16:57:00",
+          "train_no" : "5556A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "17:29:00",
+          "train_no" : "5558A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "18:05:00",
+          "train_no" : "5560A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "19:40:00",
+          "train_no" : "5566B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "20:24:00",
+          "train_no" : "5570A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "20:39:00",
+          "train_no" : "5572A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "20:54:00",
+          "train_no" : "5574A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "22:05:00",
+          "train_no" : "5580A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "22:34:00",
+          "train_no" : "5582A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "BKS",
+          "dest_station_name" : "BEKASI",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "KAMPUNGBANDAN-BEKASI",
+          "station_name" : "PONDOK JATI",
+          "time_at_station" : "22:59:00",
+          "train_no" : "5584A"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795556
+  "timestamp" : 1794990203
 }

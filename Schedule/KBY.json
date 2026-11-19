@@ -1,6 +1,142 @@
 {
   "data" : [
     {
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "05:48:00",
+          "train_no" : "1620D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "06:11:00",
+          "train_no" : "1624D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "07:12:00",
+          "train_no" : "1636D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "07:53:00",
+          "train_no" : "1644D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "08:33:00",
+          "train_no" : "1652D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "09:11:00",
+          "train_no" : "1660D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "09:54:00",
+          "train_no" : "1668D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "16:52:00",
+          "train_no" : "1746D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "17:32:00",
+          "train_no" : "1754D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "18:11:00",
+          "train_no" : "1762D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "19:31:00",
+          "train_no" : "1776D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "19:52:00",
+          "train_no" : "1780D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-TIGARAKSA",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "20:12:00",
+          "train_no" : "1784D"
+        }
+      ]
+    },
+    {
       "dest_station" : "PRP",
       "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
@@ -263,6 +399,588 @@
           "station_name" : "KEBAYORAN",
           "time_at_station" : "22:38:00",
           "train_no" : "1806D"
+        }
+      ]
+    },
+    {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-SERPONG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "06:31:00",
+          "train_no" : "1628D"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-SERPONG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "21:42:00",
+          "train_no" : "1800A"
+        }
+      ]
+    },
+    {
+      "dest_station" : "RK",
+      "dest_station_name" : "RANGKASBITUNG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "05:03:00",
+          "train_no" : "1614D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "05:25:00",
+          "train_no" : "1616D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "05:38:00",
+          "train_no" : "1618D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "06:01:00",
+          "train_no" : "1622D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "06:21:00",
+          "train_no" : "1626D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "06:41:00",
+          "train_no" : "1630D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "07:02:00",
+          "train_no" : "1634D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "07:22:00",
+          "train_no" : "1638D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "07:42:00",
+          "train_no" : "1642D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "08:03:00",
+          "train_no" : "1646D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "08:23:00",
+          "train_no" : "1650D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "08:43:00",
+          "train_no" : "1654D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "09:02:00",
+          "train_no" : "1658D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "09:24:00",
+          "train_no" : "1662D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "09:44:00",
+          "train_no" : "1666D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "10:05:00",
+          "train_no" : "1670D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "10:25:00",
+          "train_no" : "1674D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "10:46:00",
+          "train_no" : "1678D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "11:06:00",
+          "train_no" : "1682D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "11:31:00",
+          "train_no" : "1686D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "11:43:00",
+          "train_no" : "1690D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "12:07:00",
+          "train_no" : "1694D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "12:31:00",
+          "train_no" : "1702D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "13:03:00",
+          "train_no" : "1704D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "13:30:00",
+          "train_no" : "1708D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "13:43:00",
+          "train_no" : "1712D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "14:07:00",
+          "train_no" : "1716D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "14:22:00",
+          "train_no" : "1718D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "14:43:00",
+          "train_no" : "1722D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "14:57:00",
+          "train_no" : "1724D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "15:20:00",
+          "train_no" : "1728D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "15:45:00",
+          "train_no" : "1732D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "15:58:00",
+          "train_no" : "1736D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "16:22:00",
+          "train_no" : "1740D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "16:42:00",
+          "train_no" : "1744D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "17:02:00",
+          "train_no" : "1748D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "17:22:00",
+          "train_no" : "1752D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "17:42:00",
+          "train_no" : "1756D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "18:01:00",
+          "train_no" : "1760D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "18:22:00",
+          "train_no" : "1764D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "18:41:00",
+          "train_no" : "1768D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "19:03:00",
+          "train_no" : "1770D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "19:22:00",
+          "train_no" : "1774D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "19:41:00",
+          "train_no" : "1778D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "20:01:00",
+          "train_no" : "1782D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "20:24:00",
+          "train_no" : "1786D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "20:37:00",
+          "train_no" : "1790D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "21:04:00",
+          "train_no" : "1792D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "21:27:00",
+          "train_no" : "1794D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "21:52:00",
+          "train_no" : "1798D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "22:11:00",
+          "train_no" : "1802D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "22:22:00",
+          "train_no" : "1804D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "22:52:00",
+          "train_no" : "1810D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "23:14:00",
+          "train_no" : "1814D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "RK",
+          "dest_station_name" : "RANGKASBITUNG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-RANGKASBITUNG",
+          "station_name" : "KEBAYORAN",
+          "time_at_station" : "23:32:00",
+          "train_no" : "1816D"
         }
       ]
     },
@@ -1231,725 +1949,7 @@
           "train_no" : "1819D"
         }
       ]
-    },
-    {
-      "dest_station" : "RK",
-      "dest_station_name" : "RANGKASBITUNG",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "05:03:00",
-          "train_no" : "1614D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "05:25:00",
-          "train_no" : "1616D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "05:38:00",
-          "train_no" : "1618D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "06:01:00",
-          "train_no" : "1622D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "06:21:00",
-          "train_no" : "1626D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "06:41:00",
-          "train_no" : "1630D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "07:02:00",
-          "train_no" : "1634D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "07:22:00",
-          "train_no" : "1638D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "07:42:00",
-          "train_no" : "1642D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "08:03:00",
-          "train_no" : "1646D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "08:23:00",
-          "train_no" : "1650D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "08:43:00",
-          "train_no" : "1654D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "09:02:00",
-          "train_no" : "1658D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "09:24:00",
-          "train_no" : "1662D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "09:44:00",
-          "train_no" : "1666D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "10:05:00",
-          "train_no" : "1670D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "10:25:00",
-          "train_no" : "1674D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "10:46:00",
-          "train_no" : "1678D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "11:06:00",
-          "train_no" : "1682D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "11:31:00",
-          "train_no" : "1686D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "11:43:00",
-          "train_no" : "1690D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "12:07:00",
-          "train_no" : "1694D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "12:31:00",
-          "train_no" : "1702D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "13:03:00",
-          "train_no" : "1704D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "13:30:00",
-          "train_no" : "1708D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "13:43:00",
-          "train_no" : "1712D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "14:07:00",
-          "train_no" : "1716D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "14:22:00",
-          "train_no" : "1718D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "14:43:00",
-          "train_no" : "1722D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "14:57:00",
-          "train_no" : "1724D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "15:20:00",
-          "train_no" : "1728D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "15:45:00",
-          "train_no" : "1732D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "15:58:00",
-          "train_no" : "1736D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "16:22:00",
-          "train_no" : "1740D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "16:42:00",
-          "train_no" : "1744D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "17:02:00",
-          "train_no" : "1748D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "17:22:00",
-          "train_no" : "1752D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "17:42:00",
-          "train_no" : "1756D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "18:01:00",
-          "train_no" : "1760D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "18:22:00",
-          "train_no" : "1764D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "18:41:00",
-          "train_no" : "1768D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "19:03:00",
-          "train_no" : "1770D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "19:22:00",
-          "train_no" : "1774D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "19:41:00",
-          "train_no" : "1778D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "20:01:00",
-          "train_no" : "1782D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "20:24:00",
-          "train_no" : "1786D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "20:37:00",
-          "train_no" : "1790D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "21:04:00",
-          "train_no" : "1792D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "21:27:00",
-          "train_no" : "1794D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "21:52:00",
-          "train_no" : "1798D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "22:11:00",
-          "train_no" : "1802D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "22:22:00",
-          "train_no" : "1804D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "22:52:00",
-          "train_no" : "1810D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "23:14:00",
-          "train_no" : "1814D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "RK",
-          "dest_station_name" : "RANGKASBITUNG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-RANGKASBITUNG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "23:32:00",
-          "train_no" : "1816D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "05:48:00",
-          "train_no" : "1620D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "06:11:00",
-          "train_no" : "1624D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "07:12:00",
-          "train_no" : "1636D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "07:53:00",
-          "train_no" : "1644D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "08:33:00",
-          "train_no" : "1652D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "09:11:00",
-          "train_no" : "1660D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "09:54:00",
-          "train_no" : "1668D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "16:52:00",
-          "train_no" : "1746D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "17:32:00",
-          "train_no" : "1754D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "18:11:00",
-          "train_no" : "1762D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "19:31:00",
-          "train_no" : "1776D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "19:52:00",
-          "train_no" : "1780D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "20:12:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "SRP",
-      "dest_station_name" : "SERPONG",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-SERPONG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "06:31:00",
-          "train_no" : "1628D"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-SERPONG",
-          "station_name" : "KEBAYORAN",
-          "time_at_station" : "21:42:00",
-          "train_no" : "1800A"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795551
+  "timestamp" : 1794990195
 }

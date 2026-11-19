@@ -1,49 +1,45 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.263214,
-        "i_long": 106.851577,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "PSMB",
-        "station_name": "Pasar Minggu Baru",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.263214,
+        "i_long" : 106.851577,
+        "line" : 2,
+        "station_id" : "PSMB",
+        "station_name" : "Pasar Minggu Baru",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 824,
-        "i_lat": -6.255332,
-        "i_long": 106.85449,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "DRN",
-        "station_name": "Duren Kalibata",
-        "time": 2,
-        "transit": false
+        "distance" : 824,
+        "i_lat" : -6.255332,
+        "i_long" : 106.85449,
+        "line" : 2,
+        "station_id" : "DRN",
+        "station_name" : "Duren Kalibata",
+        "time" : 1,
+        "transit" : false
       },
       {
-        "distance": 1546,
-        "i_lat": -6.242512,
-        "i_long": 106.856607,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "CW",
-        "station_name": "Cawang",
-        "time": 3,
-        "transit": false
+        "distance" : 1546,
+        "i_lat" : -6.242512,
+        "i_long" : 106.856607,
+        "line" : 2,
+        "station_id" : "CW",
+        "station_name" : "Cawang",
+        "time" : 2,
+        "transit" : false
       },
       {
-        "distance": 1230,
-        "i_lat": -6.226659,
-        "i_long": 106.857948,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "TEB",
-        "station_name": "Tebet",
-        "time": 2,
-        "transit": false
+        "distance" : 1230,
+        "i_lat" : -6.226659,
+        "i_long" : 106.857948,
+        "line" : 2,
+        "station_id" : "TEB",
+        "station_name" : "Tebet",
+        "time" : 2,
+        "transit" : false
       }
     ]
   ]

@@ -57,32 +57,6 @@
       ]
     },
     {
-      "dest_station" : "JAKK",
-      "dest_station_name" : "JAKARTAKOTA",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "CIKARANG",
-          "time_at_station" : "20:30:00",
-          "train_no" : "6075"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "JAKK",
-          "dest_station_name" : "JAKARTAKOTA",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-JAKARTAKOTA",
-          "station_name" : "CIKARANG",
-          "time_at_station" : "23:23:00",
-          "train_no" : "6085A"
-        }
-      ]
-    },
-    {
       "dest_station" : "AK",
       "dest_station_name" : "ANGKE",
       "trains" : [
@@ -379,6 +353,32 @@
       ]
     },
     {
+      "dest_station" : "JAKK",
+      "dest_station_name" : "JAKARTAKOTA",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:30:00",
+          "train_no" : "6075"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-JAKARTAKOTA",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "23:23:00",
+          "train_no" : "6085A"
+        }
+      ]
+    },
+    {
       "dest_station" : "KPB",
       "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
       "trains" : [
@@ -567,32 +567,6 @@
           "station_name" : "CIKARANG",
           "time_at_station" : "23:40:00",
           "train_no" : "5205A"
-        }
-      ]
-    },
-    {
-      "dest_station" : "CKP",
-      "dest_station_name" : "CIKAMPEK",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKP",
-          "dest_station_name" : "CIKAMPEK",
-          "line_name" : "Commuter Line Jatiluhur",
-          "route" : "CIKARANG-CIKAMPEK",
-          "station_name" : "CIKARANG",
-          "time_at_station" : "15:35:00",
-          "train_no" : "336"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "CKP",
-          "dest_station_name" : "CIKAMPEK",
-          "line_name" : "Commuter Line Jatiluhur",
-          "route" : "CIKARANG-CIKAMPEK",
-          "station_name" : "CIKARANG",
-          "time_at_station" : "20:14:00",
-          "train_no" : "338"
         }
       ]
     },
@@ -881,7 +855,33 @@
           "train_no" : "5191C"
         }
       ]
+    },
+    {
+      "dest_station" : "CKP",
+      "dest_station_name" : "CIKAMPEK",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKP",
+          "dest_station_name" : "CIKAMPEK",
+          "line_name" : "Commuter Line Jatiluhur",
+          "route" : "CIKARANG-CIKAMPEK",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "15:35:00",
+          "train_no" : "336"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "CKP",
+          "dest_station_name" : "CIKAMPEK",
+          "line_name" : "Commuter Line Jatiluhur",
+          "route" : "CIKARANG-CIKAMPEK",
+          "station_name" : "CIKARANG",
+          "time_at_station" : "20:14:00",
+          "train_no" : "338"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795546
+  "timestamp" : 1794990185
 }

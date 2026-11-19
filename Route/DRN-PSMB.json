@@ -1,27 +1,25 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.255332,
-        "i_long": 106.85449,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "DRN",
-        "station_name": "Duren Kalibata",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.255332,
+        "i_long" : 106.85449,
+        "line" : 2,
+        "station_id" : "DRN",
+        "station_name" : "Duren Kalibata",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 824,
-        "i_lat": -6.263214,
-        "i_long": 106.851577,
-        "is_transit": false,
-        "line": 2,
-        "station_id": "PSMB",
-        "station_name": "Pasar Minggu Baru",
-        "time": 2,
-        "transit": false
+        "distance" : 824,
+        "i_lat" : -6.263214,
+        "i_long" : 106.851577,
+        "line" : 2,
+        "station_id" : "PSMB",
+        "station_name" : "Pasar Minggu Baru",
+        "time" : 1,
+        "transit" : false
       }
     ]
   ]

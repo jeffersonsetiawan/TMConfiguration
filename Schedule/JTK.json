@@ -1,268 +1,138 @@
 {
   "data" : [
     {
-      "dest_station" : "PRP",
-      "dest_station_name" : "PARUNGPANJANG",
+      "dest_station" : "TGS",
+      "dest_station_name" : "TIGARAKSA",
       "trains" : [
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "00:40:00",
-          "train_no" : "1820D"
+          "time_at_station" : "06:20:00",
+          "train_no" : "1620D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "07:23:00",
-          "train_no" : "1632D"
+          "time_at_station" : "06:43:00",
+          "train_no" : "1624D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "08:03:00",
-          "train_no" : "1640D"
+          "time_at_station" : "07:44:00",
+          "train_no" : "1636D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "08:45:00",
-          "train_no" : "1648D"
+          "time_at_station" : "08:25:00",
+          "train_no" : "1644D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "09:24:00",
-          "train_no" : "1656D"
+          "time_at_station" : "09:05:00",
+          "train_no" : "1652D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "10:07:00",
-          "train_no" : "1664D"
+          "time_at_station" : "09:43:00",
+          "train_no" : "1660D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "10:47:00",
-          "train_no" : "1672D"
+          "time_at_station" : "10:26:00",
+          "train_no" : "1668D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "11:47:00",
-          "train_no" : "1684D"
+          "time_at_station" : "17:26:00",
+          "train_no" : "1746D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "12:25:00",
-          "train_no" : "1692D"
+          "time_at_station" : "18:06:00",
+          "train_no" : "1754D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "12:52:00",
-          "train_no" : "1696D"
+          "time_at_station" : "18:45:00",
+          "train_no" : "1762D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "13:14:00",
-          "train_no" : "1700D"
+          "time_at_station" : "20:05:00",
+          "train_no" : "1776D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "13:49:00",
-          "train_no" : "1706D"
+          "time_at_station" : "20:26:00",
+          "train_no" : "1780D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
+          "dest_station" : "TGS",
+          "dest_station_name" : "TIGARAKSA",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
+          "route" : "TANAHABANG-TIGARAKSA",
           "station_name" : "JATAKE",
-          "time_at_station" : "14:29:00",
-          "train_no" : "1714D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "15:06:00",
-          "train_no" : "1720D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "15:39:00",
-          "train_no" : "1726D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "16:06:00",
-          "train_no" : "1730D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "16:46:00",
-          "train_no" : "1738D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "17:06:00",
-          "train_no" : "1742D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "17:46:00",
-          "train_no" : "1750D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "18:26:00",
-          "train_no" : "1758D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "19:05:00",
-          "train_no" : "1766D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "19:27:00",
-          "train_no" : "7100D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "19:46:00",
-          "train_no" : "1772D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "21:26:00",
-          "train_no" : "1788D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "21:48:00",
-          "train_no" : "1796D"
-        },
-        {
-          "color" : "#16812B",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-PARUNGPANJANG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "23:10:00",
-          "train_no" : "1806D"
+          "time_at_station" : "20:46:00",
+          "train_no" : "1784D"
         }
       ]
     },
@@ -1183,6 +1053,62 @@
       ]
     },
     {
+      "dest_station" : "SRP",
+      "dest_station_name" : "SERPONG",
+      "trains" : [
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "PARUNGPANJANG-SERPONG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "09:45:30",
+          "train_no" : "1679D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TIGARAKSA-SERPONG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "21:30:00",
+          "train_no" : "1807D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "22:29:00",
+          "train_no" : "1817D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "23:14:00",
+          "train_no" : "1821D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "SRP",
+          "dest_station_name" : "SERPONG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-SERPONG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "23:49:00",
+          "train_no" : "1825D"
+        }
+      ]
+    },
+    {
       "dest_station" : "RK",
       "dest_station_name" : "RANGKASBITUNG",
       "trains" : [
@@ -1759,197 +1685,271 @@
       ]
     },
     {
-      "dest_station" : "TGS",
-      "dest_station_name" : "TIGARAKSA",
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
       "trains" : [
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "06:20:00",
-          "train_no" : "1620D"
+          "time_at_station" : "00:40:00",
+          "train_no" : "1820D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "06:43:00",
-          "train_no" : "1624D"
+          "time_at_station" : "07:23:00",
+          "train_no" : "1632D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "07:44:00",
-          "train_no" : "1636D"
+          "time_at_station" : "08:03:00",
+          "train_no" : "1640D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "08:25:00",
-          "train_no" : "1644D"
+          "time_at_station" : "08:45:00",
+          "train_no" : "1648D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "09:05:00",
-          "train_no" : "1652D"
+          "time_at_station" : "09:24:00",
+          "train_no" : "1656D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "09:43:00",
-          "train_no" : "1660D"
+          "time_at_station" : "10:07:00",
+          "train_no" : "1664D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "10:26:00",
-          "train_no" : "1668D"
+          "time_at_station" : "10:47:00",
+          "train_no" : "1672D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "17:26:00",
-          "train_no" : "1746D"
+          "time_at_station" : "11:47:00",
+          "train_no" : "1684D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "18:06:00",
-          "train_no" : "1754D"
+          "time_at_station" : "12:25:00",
+          "train_no" : "1692D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "18:45:00",
-          "train_no" : "1762D"
+          "time_at_station" : "12:52:00",
+          "train_no" : "1696D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "20:05:00",
-          "train_no" : "1776D"
+          "time_at_station" : "13:14:00",
+          "train_no" : "1700D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "20:26:00",
-          "train_no" : "1780D"
+          "time_at_station" : "13:49:00",
+          "train_no" : "1706D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "TGS",
-          "dest_station_name" : "TIGARAKSA",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TANAHABANG-TIGARAKSA",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "20:46:00",
-          "train_no" : "1784D"
-        }
-      ]
-    },
-    {
-      "dest_station" : "SRP",
-      "dest_station_name" : "SERPONG",
-      "trains" : [
-        {
-          "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "PARUNGPANJANG-SERPONG",
-          "station_name" : "JATAKE",
-          "time_at_station" : "09:45:30",
-          "train_no" : "1679D"
+          "time_at_station" : "14:29:00",
+          "train_no" : "1714D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "TIGARAKSA-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "21:30:00",
-          "train_no" : "1807D"
+          "time_at_station" : "15:06:00",
+          "train_no" : "1720D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "22:29:00",
-          "train_no" : "1817D"
+          "time_at_station" : "15:39:00",
+          "train_no" : "1726D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "23:14:00",
-          "train_no" : "1821D"
+          "time_at_station" : "16:06:00",
+          "train_no" : "1730D"
         },
         {
           "color" : "#16812B",
-          "dest_station" : "SRP",
-          "dest_station_name" : "SERPONG",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
           "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-SERPONG",
+          "route" : "TANAHABANG-PARUNGPANJANG",
           "station_name" : "JATAKE",
-          "time_at_station" : "23:49:00",
-          "train_no" : "1825D"
+          "time_at_station" : "16:46:00",
+          "train_no" : "1738D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "17:06:00",
+          "train_no" : "1742D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "17:46:00",
+          "train_no" : "1750D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "18:26:00",
+          "train_no" : "1758D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "19:05:00",
+          "train_no" : "1766D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "19:27:00",
+          "train_no" : "7100D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "19:46:00",
+          "train_no" : "1772D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "21:26:00",
+          "train_no" : "1788D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "21:48:00",
+          "train_no" : "1796D"
+        },
+        {
+          "color" : "#16812B",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "TANAHABANG-PARUNGPANJANG",
+          "station_name" : "JATAKE",
+          "time_at_station" : "23:10:00",
+          "train_no" : "1806D"
         }
       ]
     }
   ],
-  "timestamp" : 1788795550
+  "timestamp" : 1794990193
 }

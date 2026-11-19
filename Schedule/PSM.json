@@ -1,6 +1,1698 @@
 {
   "data" : [
     {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "05:03:00",
+          "train_no" : "1001"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "05:33:00",
+          "train_no" : "1003"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:03:00",
+          "train_no" : "1005"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:29:00",
+          "train_no" : "1007"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:55:00",
+          "train_no" : "1009"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:12:00",
+          "train_no" : "1011"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:08:00",
+          "train_no" : "1013A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:38:00",
+          "train_no" : "1015"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:57:00",
+          "train_no" : "1017"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:18:00",
+          "train_no" : "1019"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:02:00",
+          "train_no" : "1021"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:39:00",
+          "train_no" : "1023"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:09:00",
+          "train_no" : "1025"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:14:00",
+          "train_no" : "1027A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:57:00",
+          "train_no" : "1029"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:03:00",
+          "train_no" : "1031"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:26:00",
+          "train_no" : "1033"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:14:00",
+          "train_no" : "1037"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:33:00",
+          "train_no" : "1039"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:20:00",
+          "train_no" : "1043"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:40:00",
+          "train_no" : "1045A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:04:00",
+          "train_no" : "1047"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:19:00",
+          "train_no" : "1049"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:39:00",
+          "train_no" : "1051"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1053"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:27:00",
+          "train_no" : "1055"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BOO",
+      "dest_station_name" : "BOGOR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "00:10:00",
+          "train_no" : "1468"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "00:27:00",
+          "train_no" : "1470"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "05:23:00",
+          "train_no" : "1000"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "05:42:00",
+          "train_no" : "1002"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "05:56:00",
+          "train_no" : "1150F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:03:00",
+          "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:08:00",
+          "train_no" : "1004"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:13:00",
+          "train_no" : "1154"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:19:00",
+          "train_no" : "1156A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:27:00",
+          "train_no" : "1158A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:40:00",
+          "train_no" : "1006"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "06:55:00",
+          "train_no" : "1164"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:01:00",
+          "train_no" : "1166"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:06:00",
+          "train_no" : "1168"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:10:00",
+          "train_no" : "1008"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:15:00",
+          "train_no" : "1170"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:20:00",
+          "train_no" : "1172"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:31:00",
+          "train_no" : "1010"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:35:00",
+          "train_no" : "1176"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:41:00",
+          "train_no" : "1178"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1180"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:52:00",
+          "train_no" : "1012"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:56:00",
+          "train_no" : "1182"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:05:00",
+          "train_no" : "1186"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:12:00",
+          "train_no" : "1188"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:21:00",
+          "train_no" : "1190"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:31:00",
+          "train_no" : "1194"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:50:00",
+          "train_no" : "1014"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:56:00",
+          "train_no" : "1200"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:01:00",
+          "train_no" : "1202"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:12:00",
+          "train_no" : "1016"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:16:00",
+          "train_no" : "1206"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:32:00",
+          "train_no" : "1210"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:36:00",
+          "train_no" : "1018"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:40:00",
+          "train_no" : "1212"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:45:00",
+          "train_no" : "1214"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:50:00",
+          "train_no" : "1216"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:00:00",
+          "train_no" : "1020"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:08:00",
+          "train_no" : "1222"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:20:00",
+          "train_no" : "1226"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:32:00",
+          "train_no" : "1230"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:42:00",
+          "train_no" : "1022"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:57:00",
+          "train_no" : "1236"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:01:00",
+          "train_no" : "1238"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:10:00",
+          "train_no" : "1242"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:16:00",
+          "train_no" : "1244"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:25:00",
+          "train_no" : "1248A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:35:00",
+          "train_no" : "1250A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "11:41:00",
+          "train_no" : "1252A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:02:00",
+          "train_no" : "1260"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:09:00",
+          "train_no" : "1262"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:20:00",
+          "train_no" : "1266"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:25:00",
+          "train_no" : "1024"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:29:00",
+          "train_no" : "1268"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:45:00",
+          "train_no" : "1026"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "12:52:00",
+          "train_no" : "1272"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:01:00",
+          "train_no" : "1276"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:05:00",
+          "train_no" : "1278"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:15:00",
+          "train_no" : "1282"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1286"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:35:00",
+          "train_no" : "1290"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "13:50:00",
+          "train_no" : "1028"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:00:00",
+          "train_no" : "1296"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:11:00",
+          "train_no" : "1300"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:16:00",
+          "train_no" : "1302"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:27:00",
+          "train_no" : "1306"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:32:00",
+          "train_no" : "1030"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:37:00",
+          "train_no" : "1308"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:42:00",
+          "train_no" : "1310"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:47:00",
+          "train_no" : "1312"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "14:55:00",
+          "train_no" : "1314"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:14:00",
+          "train_no" : "1322"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:18:00",
+          "train_no" : "1324"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:22:00",
+          "train_no" : "1326"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:30:00",
+          "train_no" : "1328"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:35:00",
+          "train_no" : "1330"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:40:00",
+          "train_no" : "1032"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:45:00",
+          "train_no" : "1332"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "15:50:00",
+          "train_no" : "1334"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:00:00",
+          "train_no" : "1336A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:08:00",
+          "train_no" : "1034"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:12:00",
+          "train_no" : "1340"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:17:00",
+          "train_no" : "1342A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:23:00",
+          "train_no" : "1344A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1346A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:38:00",
+          "train_no" : "1348"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:44:00",
+          "train_no" : "1350"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:49:00",
+          "train_no" : "1038"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:53:00",
+          "train_no" : "1352"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "16:57:00",
+          "train_no" : "1354"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:08:00",
+          "train_no" : "1040"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1356"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:19:00",
+          "train_no" : "1358"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:29:00",
+          "train_no" : "1360"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:34:00",
+          "train_no" : "1362"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:38:00",
+          "train_no" : "1364"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:44:00",
+          "train_no" : "1366"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:50:00",
+          "train_no" : "1368"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:55:00",
+          "train_no" : "1044"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "17:59:00",
+          "train_no" : "1370"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:11:00",
+          "train_no" : "1374F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:15:00",
+          "train_no" : "1046"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:23:00",
+          "train_no" : "1376"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:28:00",
+          "train_no" : "1378"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:34:00",
+          "train_no" : "1380"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:39:00",
+          "train_no" : "1048"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:44:00",
+          "train_no" : "1382"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:51:00",
+          "train_no" : "1384"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:55:00",
+          "train_no" : "1050"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1386"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:04:00",
+          "train_no" : "1388"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:10:00",
+          "train_no" : "1390"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:14:00",
+          "train_no" : "1052"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:18:00",
+          "train_no" : "1392"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:33:00",
+          "train_no" : "1054"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:38:00",
+          "train_no" : "1396"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "19:45:00",
+          "train_no" : "1398"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:01:00",
+          "train_no" : "1404"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:06:00",
+          "train_no" : "1056"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:10:00",
+          "train_no" : "1406"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:14:00",
+          "train_no" : "1408"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:24:00",
+          "train_no" : "1410A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:31:00",
+          "train_no" : "1412A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:36:00",
+          "train_no" : "1414A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:42:00",
+          "train_no" : "1416A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "20:56:00",
+          "train_no" : "1418"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:02:00",
+          "train_no" : "1420"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:11:00",
+          "train_no" : "1422"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:23:00",
+          "train_no" : "1426F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:29:00",
+          "train_no" : "1428"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:34:00",
+          "train_no" : "1430"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:40:00",
+          "train_no" : "1432"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:47:00",
+          "train_no" : "1434"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "21:57:00",
+          "train_no" : "1436"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "22:06:00",
+          "train_no" : "1438"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "22:21:00",
+          "train_no" : "1442"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "22:38:00",
+          "train_no" : "1446"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "22:46:00",
+          "train_no" : "1448"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "22:57:00",
+          "train_no" : "1452"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "23:24:00",
+          "train_no" : "1458"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "23:36:00",
+          "train_no" : "1460"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "23:51:00",
+          "train_no" : "1462"
+        }
+      ]
+    },
+    {
       "dest_station" : "JAKK",
       "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
@@ -43,6 +1735,16 @@
           "station_name" : "PASAR MINGGU",
           "time_at_station" : "04:43:00",
           "train_no" : "1155"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "04:53:00",
+          "train_no" : "1157"
         },
         {
           "color" : "#E30A16",
@@ -251,6 +1953,16 @@
           "line_name" : "Commuter Line Bogor",
           "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "PASAR MINGGU",
+          "time_at_station" : "07:03:00",
+          "train_no" : "1195F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "PASAR MINGGU",
           "time_at_station" : "07:08:00",
           "train_no" : "1197"
         },
@@ -403,6 +2115,16 @@
           "station_name" : "PASAR MINGGU",
           "time_at_station" : "08:53:00",
           "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "09:03:00",
+          "train_no" : "1231"
         },
         {
           "color" : "#E30A16",
@@ -1417,1382 +3139,6 @@
       ]
     },
     {
-      "dest_station" : "BOO",
-      "dest_station_name" : "BOGOR",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "00:10:00",
-          "train_no" : "1468"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "00:27:00",
-          "train_no" : "1470"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "05:23:00",
-          "train_no" : "1000"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "05:42:00",
-          "train_no" : "1002"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "05:56:00",
-          "train_no" : "1150F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:03:00",
-          "train_no" : "1152"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:08:00",
-          "train_no" : "1004"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:19:00",
-          "train_no" : "1156A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:27:00",
-          "train_no" : "1158A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:40:00",
-          "train_no" : "1006"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:55:00",
-          "train_no" : "1164"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:01:00",
-          "train_no" : "1166"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:06:00",
-          "train_no" : "1168"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:15:00",
-          "train_no" : "1170"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:20:00",
-          "train_no" : "1172"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:31:00",
-          "train_no" : "1010"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:35:00",
-          "train_no" : "1176"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:41:00",
-          "train_no" : "1178"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:47:00",
-          "train_no" : "1180"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:52:00",
-          "train_no" : "1012"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:56:00",
-          "train_no" : "1182"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:05:00",
-          "train_no" : "1186"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:12:00",
-          "train_no" : "1188"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:21:00",
-          "train_no" : "1190"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:31:00",
-          "train_no" : "1194"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:56:00",
-          "train_no" : "1200"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:01:00",
-          "train_no" : "1202"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:12:00",
-          "train_no" : "1016"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:16:00",
-          "train_no" : "1206"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:32:00",
-          "train_no" : "1210"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:36:00",
-          "train_no" : "1018"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:40:00",
-          "train_no" : "1212"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:45:00",
-          "train_no" : "1214"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:50:00",
-          "train_no" : "1216"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:00:00",
-          "train_no" : "1020"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:08:00",
-          "train_no" : "1222"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:20:00",
-          "train_no" : "1226"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:32:00",
-          "train_no" : "1230"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:42:00",
-          "train_no" : "1022"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:57:00",
-          "train_no" : "1236"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:01:00",
-          "train_no" : "1238"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:10:00",
-          "train_no" : "1242"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:16:00",
-          "train_no" : "1244"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:25:00",
-          "train_no" : "1248A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:35:00",
-          "train_no" : "1250A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:41:00",
-          "train_no" : "1252A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:02:00",
-          "train_no" : "1260"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:09:00",
-          "train_no" : "1262"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:20:00",
-          "train_no" : "1266"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:25:00",
-          "train_no" : "1024"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:29:00",
-          "train_no" : "1268"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:45:00",
-          "train_no" : "1026"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:52:00",
-          "train_no" : "1272"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:01:00",
-          "train_no" : "1276"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:05:00",
-          "train_no" : "1278"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:15:00",
-          "train_no" : "1282"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:26:00",
-          "train_no" : "1286"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:35:00",
-          "train_no" : "1290"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:50:00",
-          "train_no" : "1028"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:00:00",
-          "train_no" : "1296"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:11:00",
-          "train_no" : "1300"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:16:00",
-          "train_no" : "1302"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:27:00",
-          "train_no" : "1306"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:32:00",
-          "train_no" : "1030"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:37:00",
-          "train_no" : "1308"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:42:00",
-          "train_no" : "1310"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:47:00",
-          "train_no" : "1312"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "14:55:00",
-          "train_no" : "1314"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:14:00",
-          "train_no" : "1322"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:18:00",
-          "train_no" : "1324"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:22:00",
-          "train_no" : "1326"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:30:00",
-          "train_no" : "1328"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:35:00",
-          "train_no" : "1330"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:40:00",
-          "train_no" : "1032"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:45:00",
-          "train_no" : "1332"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:50:00",
-          "train_no" : "1334"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:00:00",
-          "train_no" : "1336A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:08:00",
-          "train_no" : "1034"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:12:00",
-          "train_no" : "1340"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:17:00",
-          "train_no" : "1342A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:23:00",
-          "train_no" : "1344A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:29:00",
-          "train_no" : "1346A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:38:00",
-          "train_no" : "1348"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:44:00",
-          "train_no" : "1350"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:53:00",
-          "train_no" : "1352"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:57:00",
-          "train_no" : "1354"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:08:00",
-          "train_no" : "1040"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:13:00",
-          "train_no" : "1356"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:19:00",
-          "train_no" : "1358"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:29:00",
-          "train_no" : "1360"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:34:00",
-          "train_no" : "1362"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:38:00",
-          "train_no" : "1364"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:44:00",
-          "train_no" : "1366"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:50:00",
-          "train_no" : "1368"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:55:00",
-          "train_no" : "1044"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:59:00",
-          "train_no" : "1370"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:11:00",
-          "train_no" : "1374F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:15:00",
-          "train_no" : "1046"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:23:00",
-          "train_no" : "1376"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:28:00",
-          "train_no" : "1378"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:34:00",
-          "train_no" : "1380"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:39:00",
-          "train_no" : "1048"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:44:00",
-          "train_no" : "1382"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:51:00",
-          "train_no" : "1384"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:55:00",
-          "train_no" : "1050"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1386"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:04:00",
-          "train_no" : "1388"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:10:00",
-          "train_no" : "1390"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:18:00",
-          "train_no" : "1392"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:33:00",
-          "train_no" : "1054"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:38:00",
-          "train_no" : "1396"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:45:00",
-          "train_no" : "1398"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:01:00",
-          "train_no" : "1404"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:06:00",
-          "train_no" : "1056"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:10:00",
-          "train_no" : "1406"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:14:00",
-          "train_no" : "1408"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:24:00",
-          "train_no" : "1410A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:31:00",
-          "train_no" : "1412A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:36:00",
-          "train_no" : "1414A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:42:00",
-          "train_no" : "1416A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "20:56:00",
-          "train_no" : "1418"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:02:00",
-          "train_no" : "1420"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:11:00",
-          "train_no" : "1422"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:23:00",
-          "train_no" : "1426F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:29:00",
-          "train_no" : "1428"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:34:00",
-          "train_no" : "1430"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:40:00",
-          "train_no" : "1432"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:47:00",
-          "train_no" : "1434"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "21:57:00",
-          "train_no" : "1436"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "22:06:00",
-          "train_no" : "1438"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "22:21:00",
-          "train_no" : "1442"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "22:38:00",
-          "train_no" : "1446"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "22:46:00",
-          "train_no" : "1448"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "22:57:00",
-          "train_no" : "1452"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "23:24:00",
-          "train_no" : "1458"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "23:36:00",
-          "train_no" : "1460"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "23:51:00",
-          "train_no" : "1462"
-        }
-      ]
-    },
-    {
       "dest_station" : "DP",
       "dest_station_name" : "DEPOK",
       "trains" : [
@@ -2833,6 +3179,16 @@
           "line_name" : "Commuter Line Bogor",
           "route" : "JAKARTAKOTA-DEPOK",
           "station_name" : "PASAR MINGGU",
+          "time_at_station" : "08:26:00",
+          "train_no" : "1192F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "PASAR MINGGU",
           "time_at_station" : "08:38:00",
           "train_no" : "1196F"
         },
@@ -2865,6 +3221,16 @@
           "station_name" : "PASAR MINGGU",
           "time_at_station" : "10:16:00",
           "train_no" : "1224"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "PASAR MINGGU",
+          "time_at_station" : "10:25:00",
+          "train_no" : "1228"
         },
         {
           "color" : "#E30A16",
@@ -3063,233 +3429,7 @@
           "train_no" : "1530"
         }
       ]
-    },
-    {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "05:03:00",
-          "train_no" : "1001"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "05:33:00",
-          "train_no" : "1003"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:03:00",
-          "train_no" : "1005"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "06:55:00",
-          "train_no" : "1009"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "07:12:00",
-          "train_no" : "1011"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:38:00",
-          "train_no" : "1015"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "08:57:00",
-          "train_no" : "1017"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "09:18:00",
-          "train_no" : "1019"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "10:02:00",
-          "train_no" : "1021"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "11:39:00",
-          "train_no" : "1023"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "12:09:00",
-          "train_no" : "1025"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:14:00",
-          "train_no" : "1027A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "13:57:00",
-          "train_no" : "1029"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:03:00",
-          "train_no" : "1031"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "15:26:00",
-          "train_no" : "1033"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "16:33:00",
-          "train_no" : "1039"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:20:00",
-          "train_no" : "1043"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "17:40:00",
-          "train_no" : "1045A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:04:00",
-          "train_no" : "1047"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:19:00",
-          "train_no" : "1049"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1053"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "PASAR MINGGU",
-          "time_at_station" : "19:27:00",
-          "train_no" : "1055"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795557
+  "timestamp" : 1794990204
 }

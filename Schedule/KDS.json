@@ -1,612 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "DU",
-      "dest_station_name" : "DURI",
-      "trains" : [
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "04:38:30",
-          "train_no" : "1903A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "05:01:30",
-          "train_no" : "1905A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "05:18:30",
-          "train_no" : "1907A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "05:31:30",
-          "train_no" : "1909A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "05:48:30",
-          "train_no" : "1911A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "06:01:30",
-          "train_no" : "1913A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "06:18:30",
-          "train_no" : "1915A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "06:31:30",
-          "train_no" : "1917A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "06:48:30",
-          "train_no" : "1919A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "07:01:30",
-          "train_no" : "1921A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "07:18:30",
-          "train_no" : "1923A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "07:31:30",
-          "train_no" : "1925A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "07:48:30",
-          "train_no" : "1927A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "08:01:30",
-          "train_no" : "1929A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "08:18:30",
-          "train_no" : "1931A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "08:31:30",
-          "train_no" : "1933A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "08:48:30",
-          "train_no" : "1935A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "09:01:30",
-          "train_no" : "1937A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "09:18:30",
-          "train_no" : "1939A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "09:31:30",
-          "train_no" : "1941A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "09:48:30",
-          "train_no" : "1943A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "10:01:30",
-          "train_no" : "1945A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "10:18:30",
-          "train_no" : "1947A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "10:48:30",
-          "train_no" : "1949A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "11:18:30",
-          "train_no" : "1951A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "11:48:30",
-          "train_no" : "1953A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "12:18:30",
-          "train_no" : "1955A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "12:48:30",
-          "train_no" : "1957A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "13:18:30",
-          "train_no" : "1959A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "13:48:30",
-          "train_no" : "1961A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "14:18:30",
-          "train_no" : "1963A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "14:48:30",
-          "train_no" : "1965A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "15:18:30",
-          "train_no" : "1967A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "15:31:30",
-          "train_no" : "1969A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "15:48:30",
-          "train_no" : "1971A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "16:01:30",
-          "train_no" : "1973A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "16:18:30",
-          "train_no" : "1975A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "16:31:30",
-          "train_no" : "1977A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "16:48:30",
-          "train_no" : "1979A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "17:01:30",
-          "train_no" : "1981A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "17:18:30",
-          "train_no" : "1983A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "17:31:30",
-          "train_no" : "1985A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "17:48:30",
-          "train_no" : "1987A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "18:01:30",
-          "train_no" : "1989A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "18:18:30",
-          "train_no" : "1991A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "18:31:30",
-          "train_no" : "1993A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "18:48:30",
-          "train_no" : "1995A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "19:01:30",
-          "train_no" : "1997A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "19:18:30",
-          "train_no" : "1999A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "19:31:30",
-          "train_no" : "2001A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "19:48:30",
-          "train_no" : "2003A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "20:01:30",
-          "train_no" : "2005A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "20:18:30",
-          "train_no" : "2007A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "20:31:30",
-          "train_no" : "2009A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "20:48:30",
-          "train_no" : "2011A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "21:18:30",
-          "train_no" : "2013A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "21:31:30",
-          "train_no" : "2015A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "22:01:30",
-          "train_no" : "2017A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "22:18:30",
-          "train_no" : "2019A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "KALIDERES",
-          "time_at_station" : "22:48:30",
-          "train_no" : "2021A"
-        }
-      ]
-    },
-    {
       "dest_station" : "TNG",
       "dest_station_name" : "TANGERANG",
       "trains" : [
@@ -1211,7 +605,613 @@
           "train_no" : "2022A"
         }
       ]
+    },
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "04:38:30",
+          "train_no" : "1903A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "05:01:30",
+          "train_no" : "1905A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "05:18:30",
+          "train_no" : "1907A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "05:31:30",
+          "train_no" : "1909A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "05:48:30",
+          "train_no" : "1911A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "06:01:30",
+          "train_no" : "1913A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "06:18:30",
+          "train_no" : "1915A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "06:31:30",
+          "train_no" : "1917A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "06:48:30",
+          "train_no" : "1919A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "07:01:30",
+          "train_no" : "1921A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "07:18:30",
+          "train_no" : "1923A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "07:31:30",
+          "train_no" : "1925A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "07:48:30",
+          "train_no" : "1927A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "08:01:30",
+          "train_no" : "1929A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "08:18:30",
+          "train_no" : "1931A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "08:31:30",
+          "train_no" : "1933A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "08:48:30",
+          "train_no" : "1935A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "09:01:30",
+          "train_no" : "1937A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "09:18:30",
+          "train_no" : "1939A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "09:31:30",
+          "train_no" : "1941A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "09:48:30",
+          "train_no" : "1943A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "10:01:30",
+          "train_no" : "1945A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "10:18:30",
+          "train_no" : "1947A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "10:48:30",
+          "train_no" : "1949A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "11:18:30",
+          "train_no" : "1951A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "11:48:30",
+          "train_no" : "1953A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "12:18:30",
+          "train_no" : "1955A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "12:48:30",
+          "train_no" : "1957A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "13:18:30",
+          "train_no" : "1959A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "13:48:30",
+          "train_no" : "1961A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "14:18:30",
+          "train_no" : "1963A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "14:48:30",
+          "train_no" : "1965A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "15:18:30",
+          "train_no" : "1967A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "15:31:30",
+          "train_no" : "1969A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "15:48:30",
+          "train_no" : "1971A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "16:01:30",
+          "train_no" : "1973A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "16:18:30",
+          "train_no" : "1975A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "16:31:30",
+          "train_no" : "1977A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "16:48:30",
+          "train_no" : "1979A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "17:01:30",
+          "train_no" : "1981A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "17:18:30",
+          "train_no" : "1983A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "17:31:30",
+          "train_no" : "1985A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "17:48:30",
+          "train_no" : "1987A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "18:01:30",
+          "train_no" : "1989A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "18:18:30",
+          "train_no" : "1991A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "18:31:30",
+          "train_no" : "1993A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "18:48:30",
+          "train_no" : "1995A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "19:01:30",
+          "train_no" : "1997A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "19:18:30",
+          "train_no" : "1999A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "19:31:30",
+          "train_no" : "2001A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "19:48:30",
+          "train_no" : "2003A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "20:01:30",
+          "train_no" : "2005A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "20:18:30",
+          "train_no" : "2007A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "20:31:30",
+          "train_no" : "2009A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "20:48:30",
+          "train_no" : "2011A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "21:18:30",
+          "train_no" : "2013A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "21:31:30",
+          "train_no" : "2015A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "22:01:30",
+          "train_no" : "2017A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "22:18:30",
+          "train_no" : "2019A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "KALIDERES",
+          "time_at_station" : "22:48:30",
+          "train_no" : "2021A"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795552
+  "timestamp" : 1794990196
 }

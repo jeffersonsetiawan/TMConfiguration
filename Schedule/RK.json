@@ -77,32 +77,6 @@
       ]
     },
     {
-      "dest_station" : "PRP",
-      "dest_station_name" : "PARUNGPANJANG",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "RANGKASBITUNG",
-          "time_at_station" : "22:35:00",
-          "train_no" : "1823"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "PRP",
-          "dest_station_name" : "PARUNGPANJANG",
-          "line_name" : "Commuter Line Rangkasbitung",
-          "route" : "RANGKASBITUNG-PARUNGPANJANG",
-          "station_name" : "RANGKASBITUNG",
-          "time_at_station" : "23:32:00",
-          "train_no" : "1831"
-        }
-      ]
-    },
-    {
       "dest_station" : "THB",
       "dest_station_name" : "TANAHABANG",
       "trains" : [
@@ -629,6 +603,32 @@
       ]
     },
     {
+      "dest_station" : "PRP",
+      "dest_station_name" : "PARUNGPANJANG",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "RANGKASBITUNG",
+          "time_at_station" : "22:35:00",
+          "train_no" : "1823"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "PRP",
+          "dest_station_name" : "PARUNGPANJANG",
+          "line_name" : "Commuter Line Rangkasbitung",
+          "route" : "RANGKASBITUNG-PARUNGPANJANG",
+          "station_name" : "RANGKASBITUNG",
+          "time_at_station" : "23:32:00",
+          "train_no" : "1831"
+        }
+      ]
+    },
+    {
       "dest_station" : "SRP",
       "dest_station_name" : "SERPONG",
       "trains" : [
@@ -665,5 +665,5 @@
       ]
     }
   ],
-  "timestamp" : 1788795567
+  "timestamp" : 1794990217
 }

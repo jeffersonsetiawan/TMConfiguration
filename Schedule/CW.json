@@ -1,6 +1,1844 @@
 {
   "data" : [
     {
+      "dest_station" : "DP",
+      "dest_station_name" : "DEPOK",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:18:00",
+          "train_no" : "1174"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:51:00",
+          "train_no" : "1184"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1192F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:30:00",
+          "train_no" : "1196F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:18:00",
+          "train_no" : "1208F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:55:00",
+          "train_no" : "1220F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:07:00",
+          "train_no" : "1224"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:16:00",
+          "train_no" : "1228"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:28:00",
+          "train_no" : "1232"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:56:00",
+          "train_no" : "1240"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:48:00",
+          "train_no" : "1402"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "22:43:00",
+          "train_no" : "1450"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "23:08:00",
+          "train_no" : "1456"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-DEPOK",
+          "station_name" : "CAWANG",
+          "time_at_station" : "23:58:00",
+          "train_no" : "1466"
+        }
+      ]
+    },
+    {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:09:00",
+          "train_no" : "1001"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:39:00",
+          "train_no" : "1003"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:09:00",
+          "train_no" : "1005"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:35:00",
+          "train_no" : "1007"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:01:00",
+          "train_no" : "1009"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:18:00",
+          "train_no" : "1011"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:14:00",
+          "train_no" : "1013A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:44:00",
+          "train_no" : "1015"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:03:00",
+          "train_no" : "1017"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:24:00",
+          "train_no" : "1019"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:08:00",
+          "train_no" : "1021"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:45:00",
+          "train_no" : "1023"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:15:00",
+          "train_no" : "1025"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:20:00",
+          "train_no" : "1027A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:03:00",
+          "train_no" : "1029"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:09:00",
+          "train_no" : "1031"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:32:00",
+          "train_no" : "1033"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:18:30",
+          "train_no" : "1037"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:39:00",
+          "train_no" : "1039"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:26:00",
+          "train_no" : "1043"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:46:00",
+          "train_no" : "1045A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:10:00",
+          "train_no" : "1047"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:25:00",
+          "train_no" : "1049"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:45:00",
+          "train_no" : "1051"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:05:00",
+          "train_no" : "1053"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:33:00",
+          "train_no" : "1055"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BOO",
+      "dest_station_name" : "BOGOR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "00:03:00",
+          "train_no" : "1468"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "00:20:00",
+          "train_no" : "1470"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:15:30",
+          "train_no" : "1000"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:32:30",
+          "train_no" : "1002"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:48:00",
+          "train_no" : "1150F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:55:00",
+          "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "05:59:30",
+          "train_no" : "1004"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:03:00",
+          "train_no" : "1154"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:10:00",
+          "train_no" : "1156A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:18:00",
+          "train_no" : "1158A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:31:30",
+          "train_no" : "1006"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:44:00",
+          "train_no" : "1164"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:53:00",
+          "train_no" : "1166"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "06:57:00",
+          "train_no" : "1168"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:01:30",
+          "train_no" : "1008"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:05:00",
+          "train_no" : "1170"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:10:00",
+          "train_no" : "1172"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:22:30",
+          "train_no" : "1010"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:26:00",
+          "train_no" : "1176"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:33:00",
+          "train_no" : "1178"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:38:00",
+          "train_no" : "1180"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:43:30",
+          "train_no" : "1012"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:48:00",
+          "train_no" : "1182"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "07:57:00",
+          "train_no" : "1186"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:04:00",
+          "train_no" : "1188"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:12:00",
+          "train_no" : "1190"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:22:00",
+          "train_no" : "1194"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:42:30",
+          "train_no" : "1014"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:48:00",
+          "train_no" : "1200"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "08:52:00",
+          "train_no" : "1202"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:03:30",
+          "train_no" : "1016"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:08:00",
+          "train_no" : "1206"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:23:00",
+          "train_no" : "1210"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:27:30",
+          "train_no" : "1018"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:30:00",
+          "train_no" : "1212"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:37:00",
+          "train_no" : "1214"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:42:00",
+          "train_no" : "1216"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:51:30",
+          "train_no" : "1020"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:00:00",
+          "train_no" : "1222"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:12:00",
+          "train_no" : "1226"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:24:00",
+          "train_no" : "1230"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:33:30",
+          "train_no" : "1022"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:49:00",
+          "train_no" : "1236"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "10:53:00",
+          "train_no" : "1238"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:02:00",
+          "train_no" : "1242"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:08:00",
+          "train_no" : "1244"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:17:00",
+          "train_no" : "1248A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:28:00",
+          "train_no" : "1250A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:33:00",
+          "train_no" : "1252A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "11:54:00",
+          "train_no" : "1260"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:01:00",
+          "train_no" : "1262"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:12:00",
+          "train_no" : "1266"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:16:30",
+          "train_no" : "1024"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:21:00",
+          "train_no" : "1268"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:36:30",
+          "train_no" : "1026"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:42:00",
+          "train_no" : "1272"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:52:00",
+          "train_no" : "1276"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "12:57:00",
+          "train_no" : "1278"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:07:00",
+          "train_no" : "1282"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:18:00",
+          "train_no" : "1286"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:26:00",
+          "train_no" : "1290"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:41:30",
+          "train_no" : "1028"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "13:52:00",
+          "train_no" : "1296"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:03:00",
+          "train_no" : "1300"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:08:00",
+          "train_no" : "1302"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:19:00",
+          "train_no" : "1306"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:23:30",
+          "train_no" : "1030"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:28:00",
+          "train_no" : "1308"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:34:00",
+          "train_no" : "1310"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:39:00",
+          "train_no" : "1312"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "14:47:00",
+          "train_no" : "1314"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:06:00",
+          "train_no" : "1322"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:09:30",
+          "train_no" : "1324"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:14:00",
+          "train_no" : "1326"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:22:00",
+          "train_no" : "1328"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:26:00",
+          "train_no" : "1330"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:31:30",
+          "train_no" : "1032"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:36:00",
+          "train_no" : "1332"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:41:00",
+          "train_no" : "1334"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:52:00",
+          "train_no" : "1336A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "15:59:30",
+          "train_no" : "1034"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:04:00",
+          "train_no" : "1340"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:09:00",
+          "train_no" : "1342A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:14:00",
+          "train_no" : "1344A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:21:00",
+          "train_no" : "1346A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1348"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:36:00",
+          "train_no" : "1350"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:40:30",
+          "train_no" : "1038"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:44:00",
+          "train_no" : "1352"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:48:00",
+          "train_no" : "1354"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "16:59:30",
+          "train_no" : "1040"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:04:00",
+          "train_no" : "1356"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:11:00",
+          "train_no" : "1358"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:21:00",
+          "train_no" : "1360"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:26:00",
+          "train_no" : "1362"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:30:00",
+          "train_no" : "1364"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:35:00",
+          "train_no" : "1366"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:42:00",
+          "train_no" : "1368"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:46:30",
+          "train_no" : "1044"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "17:51:00",
+          "train_no" : "1370"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:03:00",
+          "train_no" : "1374F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:06:30",
+          "train_no" : "1046"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:14:00",
+          "train_no" : "1376"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:19:00",
+          "train_no" : "1378"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:26:00",
+          "train_no" : "1380"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:30:30",
+          "train_no" : "1048"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:34:00",
+          "train_no" : "1382"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:43:00",
+          "train_no" : "1384"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:46:30",
+          "train_no" : "1050"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:50:00",
+          "train_no" : "1386"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "18:54:00",
+          "train_no" : "1388"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:02:00",
+          "train_no" : "1390"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:05:30",
+          "train_no" : "1052"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:09:00",
+          "train_no" : "1392"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:24:30",
+          "train_no" : "1054"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:30:00",
+          "train_no" : "1396"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:37:00",
+          "train_no" : "1398"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:53:00",
+          "train_no" : "1404"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "19:57:30",
+          "train_no" : "1056"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:01:00",
+          "train_no" : "1406"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:05:00",
+          "train_no" : "1408"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:15:00",
+          "train_no" : "1410A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:22:00",
+          "train_no" : "1412A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:26:00",
+          "train_no" : "1414A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:32:00",
+          "train_no" : "1416A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:48:00",
+          "train_no" : "1418"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "20:54:00",
+          "train_no" : "1420"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:03:00",
+          "train_no" : "1422"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:15:00",
+          "train_no" : "1426F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:21:00",
+          "train_no" : "1428"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:25:00",
+          "train_no" : "1430"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:32:00",
+          "train_no" : "1432"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:39:00",
+          "train_no" : "1434"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:49:00",
+          "train_no" : "1436"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "21:58:00",
+          "train_no" : "1438"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "22:13:00",
+          "train_no" : "1442"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "22:30:00",
+          "train_no" : "1446"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "22:38:00",
+          "train_no" : "1448"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "22:49:00",
+          "train_no" : "1452"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "23:15:00",
+          "train_no" : "1458"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "23:28:00",
+          "train_no" : "1460"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "CAWANG",
+          "time_at_station" : "23:43:00",
+          "train_no" : "1462"
+        }
+      ]
+    },
+    {
       "dest_station" : "JAKK",
       "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
@@ -43,6 +1881,16 @@
           "station_name" : "CAWANG",
           "time_at_station" : "04:49:00",
           "train_no" : "1155"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CAWANG",
+          "time_at_station" : "04:59:00",
+          "train_no" : "1157"
         },
         {
           "color" : "#E30A16",
@@ -251,6 +2099,16 @@
           "line_name" : "Commuter Line Bogor",
           "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "CAWANG",
+          "time_at_station" : "07:09:00",
+          "train_no" : "1195F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CAWANG",
           "time_at_station" : "07:14:00",
           "train_no" : "1197"
         },
@@ -403,6 +2261,16 @@
           "station_name" : "CAWANG",
           "time_at_station" : "08:59:00",
           "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "CAWANG",
+          "time_at_station" : "09:09:00",
+          "train_no" : "1231"
         },
         {
           "color" : "#E30A16",
@@ -1417,1382 +3285,6 @@
       ]
     },
     {
-      "dest_station" : "BOO",
-      "dest_station_name" : "BOGOR",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "00:03:00",
-          "train_no" : "1468"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "00:20:00",
-          "train_no" : "1470"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:15:30",
-          "train_no" : "1000"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:32:30",
-          "train_no" : "1002"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:48:00",
-          "train_no" : "1150F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:55:00",
-          "train_no" : "1152"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:59:30",
-          "train_no" : "1004"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:10:00",
-          "train_no" : "1156A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:18:00",
-          "train_no" : "1158A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:31:30",
-          "train_no" : "1006"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:44:00",
-          "train_no" : "1164"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:53:00",
-          "train_no" : "1166"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:57:00",
-          "train_no" : "1168"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:05:00",
-          "train_no" : "1170"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:10:00",
-          "train_no" : "1172"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:22:30",
-          "train_no" : "1010"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:26:00",
-          "train_no" : "1176"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:33:00",
-          "train_no" : "1178"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:38:00",
-          "train_no" : "1180"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:43:30",
-          "train_no" : "1012"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:48:00",
-          "train_no" : "1182"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:57:00",
-          "train_no" : "1186"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:04:00",
-          "train_no" : "1188"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:12:00",
-          "train_no" : "1190"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:22:00",
-          "train_no" : "1194"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:48:00",
-          "train_no" : "1200"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:52:00",
-          "train_no" : "1202"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:03:30",
-          "train_no" : "1016"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:08:00",
-          "train_no" : "1206"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:23:00",
-          "train_no" : "1210"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:27:30",
-          "train_no" : "1018"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:30:00",
-          "train_no" : "1212"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:37:00",
-          "train_no" : "1214"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:42:00",
-          "train_no" : "1216"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:51:30",
-          "train_no" : "1020"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:00:00",
-          "train_no" : "1222"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:12:00",
-          "train_no" : "1226"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:24:00",
-          "train_no" : "1230"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:33:30",
-          "train_no" : "1022"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:49:00",
-          "train_no" : "1236"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:53:00",
-          "train_no" : "1238"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:02:00",
-          "train_no" : "1242"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:08:00",
-          "train_no" : "1244"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:17:00",
-          "train_no" : "1248A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:28:00",
-          "train_no" : "1250A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:33:00",
-          "train_no" : "1252A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:54:00",
-          "train_no" : "1260"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:01:00",
-          "train_no" : "1262"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:12:00",
-          "train_no" : "1266"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:16:30",
-          "train_no" : "1024"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:21:00",
-          "train_no" : "1268"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:36:30",
-          "train_no" : "1026"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:42:00",
-          "train_no" : "1272"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:52:00",
-          "train_no" : "1276"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:57:00",
-          "train_no" : "1278"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:07:00",
-          "train_no" : "1282"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:18:00",
-          "train_no" : "1286"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:26:00",
-          "train_no" : "1290"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:41:30",
-          "train_no" : "1028"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:52:00",
-          "train_no" : "1296"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:03:00",
-          "train_no" : "1300"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:08:00",
-          "train_no" : "1302"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:19:00",
-          "train_no" : "1306"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:23:30",
-          "train_no" : "1030"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:28:00",
-          "train_no" : "1308"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:34:00",
-          "train_no" : "1310"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:39:00",
-          "train_no" : "1312"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:47:00",
-          "train_no" : "1314"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:06:00",
-          "train_no" : "1322"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:09:30",
-          "train_no" : "1324"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:14:00",
-          "train_no" : "1326"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:22:00",
-          "train_no" : "1328"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:26:00",
-          "train_no" : "1330"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:31:30",
-          "train_no" : "1032"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:36:00",
-          "train_no" : "1332"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:41:00",
-          "train_no" : "1334"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:52:00",
-          "train_no" : "1336A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:59:30",
-          "train_no" : "1034"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:04:00",
-          "train_no" : "1340"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:09:00",
-          "train_no" : "1342A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:14:00",
-          "train_no" : "1344A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:21:00",
-          "train_no" : "1346A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:29:00",
-          "train_no" : "1348"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:36:00",
-          "train_no" : "1350"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:44:00",
-          "train_no" : "1352"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:48:00",
-          "train_no" : "1354"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:59:30",
-          "train_no" : "1040"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:04:00",
-          "train_no" : "1356"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:11:00",
-          "train_no" : "1358"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:21:00",
-          "train_no" : "1360"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:26:00",
-          "train_no" : "1362"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:30:00",
-          "train_no" : "1364"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:35:00",
-          "train_no" : "1366"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:42:00",
-          "train_no" : "1368"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:46:30",
-          "train_no" : "1044"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:51:00",
-          "train_no" : "1370"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:03:00",
-          "train_no" : "1374F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:06:30",
-          "train_no" : "1046"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:14:00",
-          "train_no" : "1376"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:19:00",
-          "train_no" : "1378"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:26:00",
-          "train_no" : "1380"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:30:30",
-          "train_no" : "1048"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:34:00",
-          "train_no" : "1382"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:43:00",
-          "train_no" : "1384"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:46:30",
-          "train_no" : "1050"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:50:00",
-          "train_no" : "1386"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:54:00",
-          "train_no" : "1388"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:02:00",
-          "train_no" : "1390"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:09:00",
-          "train_no" : "1392"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:24:30",
-          "train_no" : "1054"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:30:00",
-          "train_no" : "1396"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:37:00",
-          "train_no" : "1398"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:53:00",
-          "train_no" : "1404"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:57:30",
-          "train_no" : "1056"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:01:00",
-          "train_no" : "1406"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:05:00",
-          "train_no" : "1408"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:15:00",
-          "train_no" : "1410A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:22:00",
-          "train_no" : "1412A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:26:00",
-          "train_no" : "1414A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:32:00",
-          "train_no" : "1416A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:48:00",
-          "train_no" : "1418"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "20:54:00",
-          "train_no" : "1420"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:03:00",
-          "train_no" : "1422"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:15:00",
-          "train_no" : "1426F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:21:00",
-          "train_no" : "1428"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:25:00",
-          "train_no" : "1430"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:32:00",
-          "train_no" : "1432"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:39:00",
-          "train_no" : "1434"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:49:00",
-          "train_no" : "1436"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "21:58:00",
-          "train_no" : "1438"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "22:13:00",
-          "train_no" : "1442"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "22:30:00",
-          "train_no" : "1446"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "22:38:00",
-          "train_no" : "1448"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "22:49:00",
-          "train_no" : "1452"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "23:15:00",
-          "train_no" : "1458"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "23:28:00",
-          "train_no" : "1460"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "CAWANG",
-          "time_at_station" : "23:43:00",
-          "train_no" : "1462"
-        }
-      ]
-    },
-    {
       "dest_station" : "NMO",
       "dest_station_name" : "NAMBO",
       "trains" : [
@@ -2937,359 +3429,7 @@
           "train_no" : "1530"
         }
       ]
-    },
-    {
-      "dest_station" : "DP",
-      "dest_station_name" : "DEPOK",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:18:00",
-          "train_no" : "1174"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:51:00",
-          "train_no" : "1184"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:30:00",
-          "train_no" : "1196F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:18:00",
-          "train_no" : "1208F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:55:00",
-          "train_no" : "1220F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:07:00",
-          "train_no" : "1224"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:28:00",
-          "train_no" : "1232"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:56:00",
-          "train_no" : "1240"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:48:00",
-          "train_no" : "1402"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "22:43:00",
-          "train_no" : "1450"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "23:08:00",
-          "train_no" : "1456"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "DP",
-          "dest_station_name" : "DEPOK",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-DEPOK",
-          "station_name" : "CAWANG",
-          "time_at_station" : "23:58:00",
-          "train_no" : "1466"
-        }
-      ]
-    },
-    {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:09:00",
-          "train_no" : "1001"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "05:39:00",
-          "train_no" : "1003"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "06:09:00",
-          "train_no" : "1005"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:01:00",
-          "train_no" : "1009"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "07:18:00",
-          "train_no" : "1011"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "08:44:00",
-          "train_no" : "1015"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:03:00",
-          "train_no" : "1017"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "09:24:00",
-          "train_no" : "1019"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "10:08:00",
-          "train_no" : "1021"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "11:45:00",
-          "train_no" : "1023"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "12:15:00",
-          "train_no" : "1025"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "13:20:00",
-          "train_no" : "1027A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "14:03:00",
-          "train_no" : "1029"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:09:00",
-          "train_no" : "1031"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "15:32:00",
-          "train_no" : "1033"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "16:39:00",
-          "train_no" : "1039"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:26:00",
-          "train_no" : "1043"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "17:46:00",
-          "train_no" : "1045A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:10:00",
-          "train_no" : "1047"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "18:25:00",
-          "train_no" : "1049"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:05:00",
-          "train_no" : "1053"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "CAWANG",
-          "time_at_station" : "19:33:00",
-          "train_no" : "1055"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795547
+  "timestamp" : 1794990188
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-14T00:00:00+07:00",
+  "updatedAt": "2026-11-19T00:00:00+07:00",
   "stations": [
     { "id": "mrt:LBB", "code": "LBB", "name": "Lebak Bulus Bank Syariah Indonesia", "latitude": -6.2892542, "longitude": 106.7749374, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
     { "id": "mrt:FTM", "code": "FTM", "name": "Fatmawati Indomaret", "latitude": -6.2924285, "longitude": 106.7924656, "network": "mrtJakarta", "lineIds": ["mrt-north-south"] },
@@ -35,17 +35,22 @@
     { "id": "lrt:CRC", "code": "CRC", "name": "Ciracas", "latitude": -6.323826, "longitude": 106.886606, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
     { "id": "lrt:HAR", "code": "HAR", "name": "Harjamukti", "latitude": -6.373988, "longitude": 106.895623, "network": "lrtJabodebek", "lineIds": ["lrt-cibubur"] },
 
-    { "id": "lrt-jkt:VEL", "code": "VEL", "name": "Velodrome", "latitude": -6.192580887, "longitude": 106.891209594, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
-    { "id": "lrt-jkt:EQS", "code": "EQS", "name": "Equestrian", "latitude": -6.184059165, "longitude": 106.891268938, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
-    { "id": "lrt-jkt:PUM", "code": "PUM", "name": "Pulomas", "latitude": -6.17731, "longitude": 106.89339, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
-    { "id": "lrt-jkt:BVU", "code": "BVU", "name": "Boulevard Utara", "latitude": -6.159413531, "longitude": 106.90600533, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:KPG", "code": "KPG", "name": "Kelapa Gading", "latitude": -6.1574335, "longitude": 106.9142078, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:BVU", "code": "BVU", "name": "Boulevard Utara Summarecon Mall", "latitude": -6.159413531, "longitude": 106.90600533, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
     { "id": "lrt-jkt:BVS", "code": "BVS", "name": "Boulevard Selatan", "latitude": -6.168989988, "longitude": 106.899995505, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
-    { "id": "lrt-jkt:PGD", "code": "PGD", "name": "Pegangsaan Dua", "latitude": -6.15579, "longitude": 106.91424, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] }
+    { "id": "lrt-jkt:PUM", "code": "PUM", "name": "Pulomas", "latitude": -6.17731, "longitude": 106.89339, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:EQT", "code": "EQT", "name": "Equestrian", "latitude": -6.184059165, "longitude": 106.891268938, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:VEL", "code": "VEL", "name": "Velodrome", "latitude": -6.192580887, "longitude": 106.891209594, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:RWM", "code": "RWM", "name": "Rawamangun", "latitude": -6.1931386, "longitude": 106.8825053, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:PKA", "code": "PKA", "name": "Pramuka", "latitude": -6.1920121, "longitude": 106.8707401, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:MAT", "code": "MAT", "name": "Matraman", "latitude": -6.1950767, "longitude": 106.8599826, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:PKM", "code": "PKM", "name": "Proklamasi", "latitude": -6.2021164, "longitude": 106.8502137, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] },
+    { "id": "lrt-jkt:MGI", "code": "MGI", "name": "Manggarai", "latitude": -6.2086537, "longitude": 106.845668, "network": "lrtJakarta", "lineIds": ["lrt-pegangsaan-dua"] }
   ],
   "lineStationIds": {
     "mrt-north-south": ["mrt:LBB", "mrt:FTM", "mrt:CPR", "mrt:HJN", "mrt:BLA", "mrt:BLM", "mrt:SSM", "mrt:SNY", "mrt:IST", "mrt:BNH", "mrt:STB", "mrt:DKA", "mrt:BHI"],
     "lrt-bekasi": ["lrt:DKA", "lrt:SET", "lrt:RAS", "lrt:KUA", "lrt:PAN", "lrt:CKK", "lrt:CIL", "lrt:CWG", "lrt:HAL", "lrt:JBU", "lrt:CK1", "lrt:CK2", "lrt:BEK", "lrt:JTM"],
     "lrt-cibubur": ["lrt:DKA", "lrt:SET", "lrt:RAS", "lrt:KUA", "lrt:PAN", "lrt:CKK", "lrt:CIL", "lrt:CWG", "lrt:TMI", "lrt:KAM", "lrt:CRC", "lrt:HAR"],
-    "lrt-pegangsaan-dua": ["lrt-jkt:VEL", "lrt-jkt:EQS", "lrt-jkt:PUM", "lrt-jkt:BVU", "lrt-jkt:BVS", "lrt-jkt:PGD"]
+    "lrt-pegangsaan-dua": ["lrt-jkt:KPG", "lrt-jkt:BVU", "lrt-jkt:BVS", "lrt-jkt:PUM", "lrt-jkt:EQT", "lrt-jkt:VEL", "lrt-jkt:RWM", "lrt-jkt:PKA", "lrt-jkt:MAT", "lrt-jkt:PKM", "lrt-jkt:MGI"]
   }
 }

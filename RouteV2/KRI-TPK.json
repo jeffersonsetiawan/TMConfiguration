@@ -1,0 +1,380 @@
+{
+  "code" : 0,
+  "data" : [
+    {
+      "distance" : 29419,
+      "eta" : 5002,
+      "fare" : 4000,
+      "journey" : [
+        {
+          "distance" : 22668,
+          "eta" : 2992,
+          "finish_info" : "Stasiun Transit",
+          "line_code" : "C",
+          "line_color" : "#1CBBEE",
+          "line_name" : "COMMUTER LINE CIKARANG",
+          "route_id" : "181",
+          "start_info" : "Masuk ke Stasiun Kranji",
+          "station_destination" : [
+            "JAKK",
+            "KPB"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "KRI",
+              "station_name" : "Kranji"
+            },
+            {
+              "station_code" : "CUK",
+              "station_name" : "Cakung"
+            },
+            {
+              "station_code" : "KLDB",
+              "station_name" : "Klender Baru"
+            },
+            {
+              "station_code" : "BUA",
+              "station_name" : "Buaran"
+            },
+            {
+              "station_code" : "KLD",
+              "station_name" : "Klender"
+            },
+            {
+              "station_code" : "JNG",
+              "station_name" : "Jatinegara"
+            },
+            {
+              "station_code" : "POK",
+              "station_name" : "Pondok Jati"
+            },
+            {
+              "station_code" : "KMT",
+              "station_name" : "Kramat"
+            },
+            {
+              "station_code" : "GST",
+              "station_name" : "Gang Sentiong"
+            },
+            {
+              "station_code" : "PSE",
+              "station_name" : "Pasar Senen"
+            },
+            {
+              "station_code" : "KMO",
+              "station_name" : "Kemayoran"
+            },
+            {
+              "station_code" : "RJW",
+              "station_name" : "Rajawali"
+            },
+            {
+              "station_code" : "KPB",
+              "station_name" : "Kampung Bandan"
+            }
+          ],
+          "track_info" : "2",
+          "track_info_label" : "Naik melalui peron",
+          "via" : "PSE"
+        },
+        {
+          "distance" : 6751,
+          "eta" : 2010,
+          "finish_info" : "Stasiun Tujuan",
+          "line_code" : "TP",
+          "line_color" : "#DD0067",
+          "line_name" : "COMMUTER LINE TANJUNGPRIUK",
+          "route_id" : "71",
+          "start_info" : "Beralih ke stasiun Kampung Bandan",
+          "station_destination" : [
+            "TPK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "KPB",
+              "station_name" : "Kampung Bandan"
+            },
+            {
+              "station_code" : "AC",
+              "station_name" : "Ancol"
+            },
+            {
+              "station_code" : "JIS",
+              "station_name" : "Jakarta International Stadium"
+            },
+            {
+              "station_code" : "TPK",
+              "station_name" : "Tanjung Priok"
+            }
+          ],
+          "track_info" : "8",
+          "track_info_label" : "Naik melalui peron"
+        }
+      ]
+    },
+    {
+      "distance" : 36675,
+      "eta" : 5672,
+      "fare" : 4000,
+      "journey" : [
+        {
+          "distance" : 29924,
+          "eta" : 3662,
+          "finish_info" : "Stasiun Transit",
+          "line_code" : "C",
+          "line_color" : "#1CBBEE",
+          "line_name" : "COMMUTER LINE CIKARANG",
+          "route_id" : "169",
+          "start_info" : "Masuk ke Stasiun Kranji",
+          "station_destination" : [
+            "KPB"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "KRI",
+              "station_name" : "Kranji"
+            },
+            {
+              "station_code" : "CUK",
+              "station_name" : "Cakung"
+            },
+            {
+              "station_code" : "KLDB",
+              "station_name" : "Klender Baru"
+            },
+            {
+              "station_code" : "BUA",
+              "station_name" : "Buaran"
+            },
+            {
+              "station_code" : "KLD",
+              "station_name" : "Klender"
+            },
+            {
+              "station_code" : "JNG",
+              "station_name" : "Jatinegara"
+            },
+            {
+              "station_code" : "MTR",
+              "station_name" : "Matraman"
+            },
+            {
+              "station_code" : "MRI",
+              "station_name" : "Manggarai"
+            },
+            {
+              "station_code" : "SUD",
+              "station_name" : "Sudirman"
+            },
+            {
+              "station_code" : "SUDB",
+              "station_name" : "Sudirman Baru BNI City"
+            },
+            {
+              "station_code" : "KAT",
+              "station_name" : "Karet"
+            },
+            {
+              "station_code" : "THB",
+              "station_name" : "Tanah Abang"
+            },
+            {
+              "station_code" : "DU",
+              "station_name" : "Duri"
+            },
+            {
+              "station_code" : "AK",
+              "station_name" : "Angke"
+            },
+            {
+              "station_code" : "KPB",
+              "station_name" : "Kampung Bandan"
+            }
+          ],
+          "track_info" : "2",
+          "track_info_label" : "Naik melalui peron",
+          "via" : "MRI"
+        },
+        {
+          "distance" : 6751,
+          "eta" : 2010,
+          "finish_info" : "Stasiun Tujuan",
+          "line_code" : "TP",
+          "line_color" : "#DD0067",
+          "line_name" : "COMMUTER LINE TANJUNGPRIUK",
+          "route_id" : "71",
+          "start_info" : "Beralih ke stasiun Kampung Bandan",
+          "station_destination" : [
+            "TPK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "KPB",
+              "station_name" : "Kampung Bandan"
+            },
+            {
+              "station_code" : "AC",
+              "station_name" : "Ancol"
+            },
+            {
+              "station_code" : "JIS",
+              "station_name" : "Jakarta International Stadium"
+            },
+            {
+              "station_code" : "TPK",
+              "station_name" : "Tanjung Priok"
+            }
+          ],
+          "track_info" : "8",
+          "track_info_label" : "Naik melalui peron"
+        }
+      ]
+    },
+    {
+      "distance" : 32937,
+      "eta" : 5700,
+      "fare" : 4000,
+      "journey" : [
+        {
+          "distance" : 14934,
+          "eta" : 2278,
+          "finish_info" : "Stasiun Transit",
+          "line_code" : "C",
+          "line_color" : "#1CBBEE",
+          "line_name" : "COMMUTER LINE CIKARANG",
+          "route_id" : "170",
+          "start_info" : "Masuk ke Stasiun Kranji",
+          "station_destination" : [
+            "MRI",
+            "KPB",
+            "AK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "KRI",
+              "station_name" : "Kranji"
+            },
+            {
+              "station_code" : "CUK",
+              "station_name" : "Cakung"
+            },
+            {
+              "station_code" : "KLDB",
+              "station_name" : "Klender Baru"
+            },
+            {
+              "station_code" : "BUA",
+              "station_name" : "Buaran"
+            },
+            {
+              "station_code" : "KLD",
+              "station_name" : "Klender"
+            },
+            {
+              "station_code" : "JNG",
+              "station_name" : "Jatinegara"
+            },
+            {
+              "station_code" : "MTR",
+              "station_name" : "Matraman"
+            },
+            {
+              "station_code" : "MRI",
+              "station_name" : "Manggarai"
+            }
+          ],
+          "track_info" : "2",
+          "track_info_label" : "Naik melalui peron",
+          "via" : "MRI"
+        },
+        {
+          "distance" : 9888,
+          "eta" : 1249,
+          "finish_info" : "Stasiun Transit",
+          "line_code" : "B",
+          "line_color" : "#ff0000",
+          "line_name" : "COMMUTER LINE BOGOR",
+          "route_id" : "5",
+          "start_info" : "Beralih ke stasiun Manggarai",
+          "station_destination" : [
+            "JAKK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "MRI",
+              "station_name" : "Manggarai"
+            },
+            {
+              "station_code" : "CKI",
+              "station_name" : "Cikini"
+            },
+            {
+              "station_code" : "GDD",
+              "station_name" : "Gondangdia"
+            },
+            {
+              "station_code" : "JUA",
+              "station_name" : "Juanda"
+            },
+            {
+              "station_code" : "SW",
+              "station_name" : "Sawah Besar"
+            },
+            {
+              "station_code" : "MGB",
+              "station_name" : "Mangga Besar"
+            },
+            {
+              "station_code" : "JAY",
+              "station_name" : "Jayakarta"
+            },
+            {
+              "station_code" : "JAKK",
+              "station_name" : "Jakarta Kota"
+            }
+          ],
+          "track_info" : "9",
+          "track_info_label" : "Naik melalui peron"
+        },
+        {
+          "distance" : 8115,
+          "eta" : 2173,
+          "finish_info" : "Stasiun Tujuan",
+          "line_code" : "TP",
+          "line_color" : "#DD0067",
+          "line_name" : "COMMUTER LINE TANJUNGPRIUK",
+          "route_id" : "71",
+          "start_info" : "Beralih ke stasiun Jakarta Kota",
+          "station_destination" : [
+            "TPK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "JAKK",
+              "station_name" : "Jakarta Kota"
+            },
+            {
+              "station_code" : "KPB",
+              "station_name" : "Kampung Bandan"
+            },
+            {
+              "station_code" : "AC",
+              "station_name" : "Ancol"
+            },
+            {
+              "station_code" : "JIS",
+              "station_name" : "Jakarta International Stadium"
+            },
+            {
+              "station_code" : "TPK",
+              "station_name" : "Tanjung Priok"
+            }
+          ],
+          "track_info" : "8",
+          "track_info_label" : "Naik melalui peron"
+        }
+      ]
+    }
+  ],
+  "message" : "Sukses"
+}

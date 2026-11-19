@@ -1,82 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "MER",
-      "dest_station_name" : "MERAK",
-      "trains" : [
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "05:41:00",
-          "train_no" : "318"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "07:41:00",
-          "train_no" : "312"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "10:21:00",
-          "train_no" : "320"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "14:08:00",
-          "train_no" : "314"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "16:56:00",
-          "train_no" : "322"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "19:16:00",
-          "train_no" : "316"
-        },
-        {
-          "color" : "#93ca3e",
-          "dest_station" : "MER",
-          "dest_station_name" : "MERAK",
-          "line_name" : "Commuterline Merak",
-          "route" : "RANGKASBITUNG-MERAK",
-          "station_name" : "JAMBU BARU",
-          "time_at_station" : "21:36:00",
-          "train_no" : "324"
-        }
-      ]
-    },
-    {
       "dest_station" : "RK",
       "dest_station_name" : "RANGKASBITUNG",
       "trains" : [
@@ -151,7 +75,83 @@
           "train_no" : "317"
         }
       ]
+    },
+    {
+      "dest_station" : "MER",
+      "dest_station_name" : "MERAK",
+      "trains" : [
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "05:41:00",
+          "train_no" : "318"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "07:41:00",
+          "train_no" : "312"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "10:21:00",
+          "train_no" : "320"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "14:08:00",
+          "train_no" : "314"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "16:56:00",
+          "train_no" : "322"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "19:16:00",
+          "train_no" : "316"
+        },
+        {
+          "color" : "#93ca3e",
+          "dest_station" : "MER",
+          "dest_station_name" : "MERAK",
+          "line_name" : "Commuterline Merak",
+          "route" : "RANGKASBITUNG-MERAK",
+          "station_name" : "JAMBU BARU",
+          "time_at_station" : "21:36:00",
+          "train_no" : "324"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795566
+  "timestamp" : 1794990216
 }

@@ -1,612 +1,6 @@
 {
   "data" : [
     {
-      "dest_station" : "DU",
-      "dest_station_name" : "DURI",
-      "trains" : [
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "04:36:00",
-          "train_no" : "1903A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "04:59:00",
-          "train_no" : "1905A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "05:16:00",
-          "train_no" : "1907A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "05:29:00",
-          "train_no" : "1909A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "05:46:00",
-          "train_no" : "1911A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "05:59:00",
-          "train_no" : "1913A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "06:16:00",
-          "train_no" : "1915A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "06:29:00",
-          "train_no" : "1917A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "06:46:00",
-          "train_no" : "1919A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "06:59:00",
-          "train_no" : "1921A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "07:16:00",
-          "train_no" : "1923A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "07:29:00",
-          "train_no" : "1925A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "07:46:00",
-          "train_no" : "1927A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "07:59:00",
-          "train_no" : "1929A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "08:16:00",
-          "train_no" : "1931A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "08:29:00",
-          "train_no" : "1933A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "08:46:00",
-          "train_no" : "1935A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "08:59:00",
-          "train_no" : "1937A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "09:16:00",
-          "train_no" : "1939A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "09:29:00",
-          "train_no" : "1941A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "09:46:00",
-          "train_no" : "1943A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "09:59:00",
-          "train_no" : "1945A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "10:16:00",
-          "train_no" : "1947A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "10:46:00",
-          "train_no" : "1949A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "11:16:00",
-          "train_no" : "1951A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "11:46:00",
-          "train_no" : "1953A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "12:16:00",
-          "train_no" : "1955A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "12:46:00",
-          "train_no" : "1957A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "13:16:00",
-          "train_no" : "1959A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "13:46:00",
-          "train_no" : "1961A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "14:16:00",
-          "train_no" : "1963A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "14:46:00",
-          "train_no" : "1965A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "15:16:00",
-          "train_no" : "1967A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "15:29:00",
-          "train_no" : "1969A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "15:46:00",
-          "train_no" : "1971A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "15:59:00",
-          "train_no" : "1973A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "16:16:00",
-          "train_no" : "1975A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "16:29:00",
-          "train_no" : "1977A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "16:46:00",
-          "train_no" : "1979A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "16:59:00",
-          "train_no" : "1981A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "17:16:00",
-          "train_no" : "1983A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "17:29:00",
-          "train_no" : "1985A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "17:46:00",
-          "train_no" : "1987A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "17:59:00",
-          "train_no" : "1989A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "18:16:00",
-          "train_no" : "1991A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "18:29:00",
-          "train_no" : "1993A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "18:46:00",
-          "train_no" : "1995A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1997A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "19:16:00",
-          "train_no" : "1999A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "19:29:00",
-          "train_no" : "2001A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "19:46:00",
-          "train_no" : "2003A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "19:59:00",
-          "train_no" : "2005A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "20:16:00",
-          "train_no" : "2007A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "20:29:00",
-          "train_no" : "2009A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "20:46:00",
-          "train_no" : "2011A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "21:16:00",
-          "train_no" : "2013A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "21:29:00",
-          "train_no" : "2015A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "21:59:00",
-          "train_no" : "2017A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "22:16:00",
-          "train_no" : "2019A"
-        },
-        {
-          "color" : "#623814",
-          "dest_station" : "DU",
-          "dest_station_name" : "DURI",
-          "line_name" : "Commuter Line Tangerang",
-          "route" : "TANGERANG-DURI",
-          "station_name" : "PORIS",
-          "time_at_station" : "22:46:00",
-          "train_no" : "2021A"
-        }
-      ]
-    },
-    {
       "dest_station" : "TNG",
       "dest_station_name" : "TANGERANG",
       "trains" : [
@@ -1211,7 +605,613 @@
           "train_no" : "2022A"
         }
       ]
+    },
+    {
+      "dest_station" : "DU",
+      "dest_station_name" : "DURI",
+      "trains" : [
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "04:36:00",
+          "train_no" : "1903A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "04:59:00",
+          "train_no" : "1905A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "05:16:00",
+          "train_no" : "1907A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "05:29:00",
+          "train_no" : "1909A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "05:46:00",
+          "train_no" : "1911A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "05:59:00",
+          "train_no" : "1913A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "06:16:00",
+          "train_no" : "1915A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "06:29:00",
+          "train_no" : "1917A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "06:46:00",
+          "train_no" : "1919A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "06:59:00",
+          "train_no" : "1921A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "07:16:00",
+          "train_no" : "1923A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "07:29:00",
+          "train_no" : "1925A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "07:46:00",
+          "train_no" : "1927A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "07:59:00",
+          "train_no" : "1929A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "08:16:00",
+          "train_no" : "1931A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "08:29:00",
+          "train_no" : "1933A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "08:46:00",
+          "train_no" : "1935A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "08:59:00",
+          "train_no" : "1937A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "09:16:00",
+          "train_no" : "1939A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "09:29:00",
+          "train_no" : "1941A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "09:46:00",
+          "train_no" : "1943A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "09:59:00",
+          "train_no" : "1945A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "10:16:00",
+          "train_no" : "1947A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "10:46:00",
+          "train_no" : "1949A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "11:16:00",
+          "train_no" : "1951A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "11:46:00",
+          "train_no" : "1953A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "12:16:00",
+          "train_no" : "1955A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "12:46:00",
+          "train_no" : "1957A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "13:16:00",
+          "train_no" : "1959A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "13:46:00",
+          "train_no" : "1961A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "14:16:00",
+          "train_no" : "1963A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "14:46:00",
+          "train_no" : "1965A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "15:16:00",
+          "train_no" : "1967A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "15:29:00",
+          "train_no" : "1969A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "15:46:00",
+          "train_no" : "1971A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "15:59:00",
+          "train_no" : "1973A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "16:16:00",
+          "train_no" : "1975A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "16:29:00",
+          "train_no" : "1977A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "16:46:00",
+          "train_no" : "1979A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "16:59:00",
+          "train_no" : "1981A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "17:16:00",
+          "train_no" : "1983A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "17:29:00",
+          "train_no" : "1985A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "17:46:00",
+          "train_no" : "1987A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "17:59:00",
+          "train_no" : "1989A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "18:16:00",
+          "train_no" : "1991A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "18:29:00",
+          "train_no" : "1993A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "18:46:00",
+          "train_no" : "1995A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1997A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "19:16:00",
+          "train_no" : "1999A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "19:29:00",
+          "train_no" : "2001A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "19:46:00",
+          "train_no" : "2003A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "19:59:00",
+          "train_no" : "2005A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "20:16:00",
+          "train_no" : "2007A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "20:29:00",
+          "train_no" : "2009A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "20:46:00",
+          "train_no" : "2011A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "21:16:00",
+          "train_no" : "2013A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "21:29:00",
+          "train_no" : "2015A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "21:59:00",
+          "train_no" : "2017A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "22:16:00",
+          "train_no" : "2019A"
+        },
+        {
+          "color" : "#623814",
+          "dest_station" : "DU",
+          "dest_station_name" : "DURI",
+          "line_name" : "Commuter Line Tangerang",
+          "route" : "TANGERANG-DURI",
+          "station_name" : "PORIS",
+          "time_at_station" : "22:46:00",
+          "train_no" : "2021A"
+        }
+      ]
     }
   ],
-  "timestamp" : 1788795556
+  "timestamp" : 1794990202
 }

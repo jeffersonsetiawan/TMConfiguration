@@ -1,6 +1,412 @@
 {
   "data" : [
     {
+      "dest_station" : "KPB",
+      "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+      "trains" : [
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "05:31:00",
+          "train_no" : "6001A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "05:56:00",
+          "train_no" : "6003A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "06:29:00",
+          "train_no" : "6005A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "06:56:00",
+          "train_no" : "6007A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "07:25:00",
+          "train_no" : "6009A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "07:45:00",
+          "train_no" : "6011A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "08:25:00",
+          "train_no" : "6013A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "08:44:00",
+          "train_no" : "6015A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "09:25:00",
+          "train_no" : "6017A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "09:58:00",
+          "train_no" : "6019A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "10:23:00",
+          "train_no" : "6021A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "10:56:00",
+          "train_no" : "6023B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "11:19:00",
+          "train_no" : "6025E"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "11:53:00",
+          "train_no" : "6027A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "12:17:00",
+          "train_no" : "6029A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "12:52:00",
+          "train_no" : "6031A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "13:00:00",
+          "train_no" : "6033A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "13:19:00",
+          "train_no" : "6035D"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "13:35:00",
+          "train_no" : "6037A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "14:08:00",
+          "train_no" : "6039A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "14:28:00",
+          "train_no" : "6041B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "14:56:00",
+          "train_no" : "6043B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "15:05:00",
+          "train_no" : "6045A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "15:24:00",
+          "train_no" : "6047B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "15:58:00",
+          "train_no" : "6049B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "16:24:00",
+          "train_no" : "6051A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "16:49:00",
+          "train_no" : "6053A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "17:09:00",
+          "train_no" : "6055A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "17:28:00",
+          "train_no" : "6057A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "17:56:00",
+          "train_no" : "6059B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "18:12:00",
+          "train_no" : "6061A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "18:44:00",
+          "train_no" : "6063A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "19:16:00",
+          "train_no" : "6065A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "19:42:30",
+          "train_no" : "6067B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "20:03:00",
+          "train_no" : "6069A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "20:31:30",
+          "train_no" : "6071B"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "20:43:00",
+          "train_no" : "6073A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "21:35:00",
+          "train_no" : "6077A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "22:10:00",
+          "train_no" : "6079A"
+        },
+        {
+          "color" : "#0084D8",
+          "dest_station" : "KPB",
+          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
+          "line_name" : "Commuter Line Cikarang",
+          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
+          "station_name" : "GANG SENTIONG",
+          "time_at_station" : "22:39:00",
+          "train_no" : "6081A"
+        }
+      ]
+    },
+    {
       "dest_station" : "CKR",
       "dest_station_name" : "CIKARANG",
       "trains" : [
@@ -477,413 +883,7 @@
           "train_no" : "5584A"
         }
       ]
-    },
-    {
-      "dest_station" : "KPB",
-      "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-      "trains" : [
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "05:31:00",
-          "train_no" : "6001A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "05:56:00",
-          "train_no" : "6003A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "06:29:00",
-          "train_no" : "6005A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "06:56:00",
-          "train_no" : "6007A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "07:25:00",
-          "train_no" : "6009A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "07:45:00",
-          "train_no" : "6011A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "08:25:00",
-          "train_no" : "6013A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "08:44:00",
-          "train_no" : "6015A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "09:25:00",
-          "train_no" : "6017A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "09:58:00",
-          "train_no" : "6019A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "10:23:00",
-          "train_no" : "6021A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "10:56:00",
-          "train_no" : "6023B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "11:19:00",
-          "train_no" : "6025E"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "11:53:00",
-          "train_no" : "6027A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "12:17:00",
-          "train_no" : "6029A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "12:52:00",
-          "train_no" : "6031A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "13:00:00",
-          "train_no" : "6033A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "13:19:00",
-          "train_no" : "6035D"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "13:35:00",
-          "train_no" : "6037A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "14:08:00",
-          "train_no" : "6039A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "14:28:00",
-          "train_no" : "6041B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "14:56:00",
-          "train_no" : "6043B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "15:05:00",
-          "train_no" : "6045A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "15:24:00",
-          "train_no" : "6047B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "15:58:00",
-          "train_no" : "6049B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "16:24:00",
-          "train_no" : "6051A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "16:49:00",
-          "train_no" : "6053A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "17:09:00",
-          "train_no" : "6055A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "17:28:00",
-          "train_no" : "6057A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "17:56:00",
-          "train_no" : "6059B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "CIKARANG-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "18:12:00",
-          "train_no" : "6061A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "18:44:00",
-          "train_no" : "6063A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "19:16:00",
-          "train_no" : "6065A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "19:42:30",
-          "train_no" : "6067B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "20:03:00",
-          "train_no" : "6069A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "20:31:30",
-          "train_no" : "6071B"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "20:43:00",
-          "train_no" : "6073A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "21:35:00",
-          "train_no" : "6077A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "22:10:00",
-          "train_no" : "6079A"
-        },
-        {
-          "color" : "#0084D8",
-          "dest_station" : "KPB",
-          "dest_station_name" : "KAMPUNGBANDAN VIA PSE",
-          "line_name" : "Commuter Line Cikarang",
-          "route" : "BEKASI-KAMPUNGBANDAN VIA PSE",
-          "station_name" : "GANG SENTIONG",
-          "time_at_station" : "22:39:00",
-          "train_no" : "6081A"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795549
+  "timestamp" : 1794990191
 }

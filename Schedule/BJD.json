@@ -1,9 +1,1841 @@
 {
   "data" : [
     {
+      "dest_station" : "MRI",
+      "dest_station_name" : "MANGGARAI",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:28:00",
+          "train_no" : "1001"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:57:00",
+          "train_no" : "1003"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:28:00",
+          "train_no" : "1005"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:51:00",
+          "train_no" : "1007"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:19:00",
+          "train_no" : "1009"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:37:00",
+          "train_no" : "1011"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:32:00",
+          "train_no" : "1013A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:02:00",
+          "train_no" : "1015"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:22:00",
+          "train_no" : "1017"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:43:00",
+          "train_no" : "1019"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:27:00",
+          "train_no" : "1021"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:04:00",
+          "train_no" : "1023"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:33:00",
+          "train_no" : "1025"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:37:00",
+          "train_no" : "1027A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:21:00",
+          "train_no" : "1029"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:28:00",
+          "train_no" : "1031"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:51:00",
+          "train_no" : "1033"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:57:00",
+          "train_no" : "1039"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:45:00",
+          "train_no" : "1043"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:04:00",
+          "train_no" : "1045A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:29:00",
+          "train_no" : "1047"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:43:00",
+          "train_no" : "1049"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:04:00",
+          "train_no" : "1051"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:24:00",
+          "train_no" : "1053"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "MRI",
+          "dest_station_name" : "MANGGARAI",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-MANGGARAI",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:51:00",
+          "train_no" : "1055"
+        }
+      ]
+    },
+    {
+      "dest_station" : "BOO",
+      "dest_station_name" : "BOGOR",
+      "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "00:11:00",
+          "train_no" : "1460"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "00:26:00",
+          "train_no" : "1462"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "00:44:00",
+          "train_no" : "1468"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "01:01:00",
+          "train_no" : "1470"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:03:00",
+          "train_no" : "1104"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:17:00",
+          "train_no" : "1108"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:38:00",
+          "train_no" : "1110"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:46:00",
+          "train_no" : "1112"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:52:00",
+          "train_no" : "1114"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:01:00",
+          "train_no" : "1116"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:09:00",
+          "train_no" : "1118"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:17:00",
+          "train_no" : "1120"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:41:00",
+          "train_no" : "1122"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "05:46:00",
+          "train_no" : "1124F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:00:00",
+          "train_no" : "1000"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:05:00",
+          "train_no" : "1126F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:12:00",
+          "train_no" : "1128"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:18:00",
+          "train_no" : "1130"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:22:00",
+          "train_no" : "1002"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "DEPOK-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:27:00",
+          "train_no" : "1132"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:35:00",
+          "train_no" : "1150F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:40:00",
+          "train_no" : "1152"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:45:00",
+          "train_no" : "1004"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:51:00",
+          "train_no" : "1154"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:59:00",
+          "train_no" : "1156A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:06:00",
+          "train_no" : "1158A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:17:00",
+          "train_no" : "1006"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:31:00",
+          "train_no" : "1164"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:37:00",
+          "train_no" : "1166"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:42:00",
+          "train_no" : "1168"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:47:00",
+          "train_no" : "1008"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:52:00",
+          "train_no" : "1170"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "07:57:00",
+          "train_no" : "1172"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:07:00",
+          "train_no" : "1010"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:12:00",
+          "train_no" : "1176"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:17:00",
+          "train_no" : "1178"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:22:00",
+          "train_no" : "1180"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:27:00",
+          "train_no" : "1012"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:31:00",
+          "train_no" : "1182"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:41:00",
+          "train_no" : "1186"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:46:00",
+          "train_no" : "1188"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:56:00",
+          "train_no" : "1190"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:05:00",
+          "train_no" : "1194"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:25:00",
+          "train_no" : "1014"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:31:00",
+          "train_no" : "1200"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:36:00",
+          "train_no" : "1202"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:47:00",
+          "train_no" : "1016"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "09:52:00",
+          "train_no" : "1206"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:07:00",
+          "train_no" : "1210"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:11:00",
+          "train_no" : "1018"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:15:00",
+          "train_no" : "1212"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:20:00",
+          "train_no" : "1214"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:25:00",
+          "train_no" : "1216"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:35:00",
+          "train_no" : "1020"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:43:00",
+          "train_no" : "1222"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "10:56:00",
+          "train_no" : "1226"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:07:00",
+          "train_no" : "1230"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:17:00",
+          "train_no" : "1022"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:31:00",
+          "train_no" : "1236"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:36:00",
+          "train_no" : "1238"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:45:00",
+          "train_no" : "1242"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "11:51:00",
+          "train_no" : "1244"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:00:00",
+          "train_no" : "1248A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:11:00",
+          "train_no" : "1250A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:17:00",
+          "train_no" : "1252A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:38:00",
+          "train_no" : "1260"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:44:00",
+          "train_no" : "1262"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "12:55:00",
+          "train_no" : "1266"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:00:00",
+          "train_no" : "1024"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:04:00",
+          "train_no" : "1268"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:20:00",
+          "train_no" : "1026"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:28:00",
+          "train_no" : "1272"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:36:00",
+          "train_no" : "1276"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:41:00",
+          "train_no" : "1278"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "13:50:00",
+          "train_no" : "1282"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:01:00",
+          "train_no" : "1286"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:10:00",
+          "train_no" : "1290"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:25:00",
+          "train_no" : "1028"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:35:00",
+          "train_no" : "1296"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:47:00",
+          "train_no" : "1300"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "14:52:00",
+          "train_no" : "1302"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:02:00",
+          "train_no" : "1306"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:07:00",
+          "train_no" : "1030"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:12:00",
+          "train_no" : "1308"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:17:00",
+          "train_no" : "1310"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:22:00",
+          "train_no" : "1312"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:30:00",
+          "train_no" : "1314"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:49:00",
+          "train_no" : "1322"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:53:00",
+          "train_no" : "1324"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "15:57:00",
+          "train_no" : "1326"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:05:00",
+          "train_no" : "1328"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:10:00",
+          "train_no" : "1330"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:15:00",
+          "train_no" : "1032"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:20:00",
+          "train_no" : "1332"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:25:00",
+          "train_no" : "1334"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:36:00",
+          "train_no" : "1336A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:45:00",
+          "train_no" : "1034"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:50:00",
+          "train_no" : "1340"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "16:55:00",
+          "train_no" : "1342A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:00:00",
+          "train_no" : "1344A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:07:00",
+          "train_no" : "1346A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:13:00",
+          "train_no" : "1348"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:19:00",
+          "train_no" : "1350"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:24:00",
+          "train_no" : "1038"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:29:00",
+          "train_no" : "1352"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:33:00",
+          "train_no" : "1354"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:43:00",
+          "train_no" : "1040"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:48:00",
+          "train_no" : "1356"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "17:54:00",
+          "train_no" : "1358"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:04:00",
+          "train_no" : "1360"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:09:00",
+          "train_no" : "1362"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:14:00",
+          "train_no" : "1364"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:20:00",
+          "train_no" : "1366"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:25:00",
+          "train_no" : "1368"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:30:00",
+          "train_no" : "1044"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:34:00",
+          "train_no" : "1370"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:46:00",
+          "train_no" : "1374F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:50:00",
+          "train_no" : "1046"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "18:59:00",
+          "train_no" : "1376"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:03:00",
+          "train_no" : "1378"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:10:00",
+          "train_no" : "1380"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:15:00",
+          "train_no" : "1048"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:21:00",
+          "train_no" : "1382"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:26:00",
+          "train_no" : "1384"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:30:00",
+          "train_no" : "1050"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:34:00",
+          "train_no" : "1386"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:39:00",
+          "train_no" : "1388"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:44:00",
+          "train_no" : "1390"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:49:00",
+          "train_no" : "1052"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "19:53:00",
+          "train_no" : "1392"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:08:00",
+          "train_no" : "1054"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:13:00",
+          "train_no" : "1396"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:20:00",
+          "train_no" : "1398"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:36:00",
+          "train_no" : "1404"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "MANGGARAI-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:41:00",
+          "train_no" : "1056"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:45:00",
+          "train_no" : "1406"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:49:00",
+          "train_no" : "1408"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:02:00",
+          "train_no" : "1410A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:07:00",
+          "train_no" : "1412A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:13:00",
+          "train_no" : "1414A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:20:00",
+          "train_no" : "1416A"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:31:00",
+          "train_no" : "1418"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:37:00",
+          "train_no" : "1420"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:46:00",
+          "train_no" : "1422"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "21:58:00",
+          "train_no" : "1426F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:04:00",
+          "train_no" : "1428"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:09:00",
+          "train_no" : "1430"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:15:00",
+          "train_no" : "1432"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:22:00",
+          "train_no" : "1434"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:32:00",
+          "train_no" : "1436"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:42:00",
+          "train_no" : "1438"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "22:55:00",
+          "train_no" : "1442"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "23:13:00",
+          "train_no" : "1446"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "23:21:00",
+          "train_no" : "1448"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "23:32:00",
+          "train_no" : "1452"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "BOO",
+          "dest_station_name" : "BOGOR",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "JAKARTAKOTA-BOGOR",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "23:59:00",
+          "train_no" : "1458"
+        }
+      ]
+    },
+    {
       "dest_station" : "JAKK",
       "dest_station_name" : "JAKARTAKOTA",
       "trains" : [
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "04:18:00",
+          "train_no" : "1157"
+        },
         {
           "color" : "#E30A16",
           "dest_station" : "JAKK",
@@ -171,6 +2003,16 @@
           "line_name" : "Commuter Line Bogor",
           "route" : "BOGOR-JAKARTAKOTA",
           "station_name" : "BOJONGGEDE",
+          "time_at_station" : "06:28:00",
+          "train_no" : "1195F"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOJONGGEDE",
           "time_at_station" : "06:33:00",
           "train_no" : "1197"
         },
@@ -303,6 +2145,16 @@
           "station_name" : "BOJONGGEDE",
           "time_at_station" : "08:18:00",
           "train_no" : "1229"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "JAKK",
+          "dest_station_name" : "JAKARTAKOTA",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-JAKARTAKOTA",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "08:28:00",
+          "train_no" : "1231"
         },
         {
           "color" : "#E30A16",
@@ -1127,1502 +2979,6 @@
       ]
     },
     {
-      "dest_station" : "BOO",
-      "dest_station_name" : "BOGOR",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "00:11:00",
-          "train_no" : "1460"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "00:26:00",
-          "train_no" : "1462"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "00:44:00",
-          "train_no" : "1468"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "01:01:00",
-          "train_no" : "1470"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:03:00",
-          "train_no" : "1104"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:17:00",
-          "train_no" : "1108"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:38:00",
-          "train_no" : "1110"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:46:00",
-          "train_no" : "1112"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:52:00",
-          "train_no" : "1114"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "05:01:00",
-          "train_no" : "1116"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "05:17:00",
-          "train_no" : "1120"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "05:41:00",
-          "train_no" : "1122"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:00:00",
-          "train_no" : "1000"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:05:00",
-          "train_no" : "1126F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:12:00",
-          "train_no" : "1128"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:18:00",
-          "train_no" : "1130"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:22:00",
-          "train_no" : "1002"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "DEPOK-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:27:00",
-          "train_no" : "1132"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:35:00",
-          "train_no" : "1150F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:40:00",
-          "train_no" : "1152"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:45:00",
-          "train_no" : "1004"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:59:00",
-          "train_no" : "1156A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:06:00",
-          "train_no" : "1158A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:17:00",
-          "train_no" : "1006"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:31:00",
-          "train_no" : "1164"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:37:00",
-          "train_no" : "1166"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:42:00",
-          "train_no" : "1168"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:52:00",
-          "train_no" : "1170"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "07:57:00",
-          "train_no" : "1172"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:07:00",
-          "train_no" : "1010"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:12:00",
-          "train_no" : "1176"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:17:00",
-          "train_no" : "1178"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:22:00",
-          "train_no" : "1180"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:27:00",
-          "train_no" : "1012"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:31:00",
-          "train_no" : "1182"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:41:00",
-          "train_no" : "1186"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:46:00",
-          "train_no" : "1188"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:56:00",
-          "train_no" : "1190"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:05:00",
-          "train_no" : "1194"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:31:00",
-          "train_no" : "1200"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:36:00",
-          "train_no" : "1202"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:47:00",
-          "train_no" : "1016"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:52:00",
-          "train_no" : "1206"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:07:00",
-          "train_no" : "1210"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:11:00",
-          "train_no" : "1018"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:15:00",
-          "train_no" : "1212"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:20:00",
-          "train_no" : "1214"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:25:00",
-          "train_no" : "1216"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:35:00",
-          "train_no" : "1020"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:43:00",
-          "train_no" : "1222"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "10:56:00",
-          "train_no" : "1226"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:07:00",
-          "train_no" : "1230"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:17:00",
-          "train_no" : "1022"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:31:00",
-          "train_no" : "1236"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:36:00",
-          "train_no" : "1238"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:45:00",
-          "train_no" : "1242"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:51:00",
-          "train_no" : "1244"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:00:00",
-          "train_no" : "1248A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:11:00",
-          "train_no" : "1250A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:17:00",
-          "train_no" : "1252A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:38:00",
-          "train_no" : "1260"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:44:00",
-          "train_no" : "1262"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:55:00",
-          "train_no" : "1266"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:00:00",
-          "train_no" : "1024"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:04:00",
-          "train_no" : "1268"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:20:00",
-          "train_no" : "1026"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:28:00",
-          "train_no" : "1272"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:36:00",
-          "train_no" : "1276"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:41:00",
-          "train_no" : "1278"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:50:00",
-          "train_no" : "1282"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:01:00",
-          "train_no" : "1286"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:10:00",
-          "train_no" : "1290"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:25:00",
-          "train_no" : "1028"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:35:00",
-          "train_no" : "1296"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:47:00",
-          "train_no" : "1300"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:52:00",
-          "train_no" : "1302"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:02:00",
-          "train_no" : "1306"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:07:00",
-          "train_no" : "1030"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:12:00",
-          "train_no" : "1308"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:17:00",
-          "train_no" : "1310"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:22:00",
-          "train_no" : "1312"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:30:00",
-          "train_no" : "1314"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:49:00",
-          "train_no" : "1322"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:53:00",
-          "train_no" : "1324"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:57:00",
-          "train_no" : "1326"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:05:00",
-          "train_no" : "1328"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:10:00",
-          "train_no" : "1330"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:15:00",
-          "train_no" : "1032"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:20:00",
-          "train_no" : "1332"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:25:00",
-          "train_no" : "1334"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:36:00",
-          "train_no" : "1336A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:45:00",
-          "train_no" : "1034"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:50:00",
-          "train_no" : "1340"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:55:00",
-          "train_no" : "1342A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:00:00",
-          "train_no" : "1344A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:07:00",
-          "train_no" : "1346A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:13:00",
-          "train_no" : "1348"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:19:00",
-          "train_no" : "1350"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:29:00",
-          "train_no" : "1352"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:33:00",
-          "train_no" : "1354"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:43:00",
-          "train_no" : "1040"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:48:00",
-          "train_no" : "1356"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:54:00",
-          "train_no" : "1358"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:04:00",
-          "train_no" : "1360"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:09:00",
-          "train_no" : "1362"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:14:00",
-          "train_no" : "1364"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:20:00",
-          "train_no" : "1366"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:25:00",
-          "train_no" : "1368"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:30:00",
-          "train_no" : "1044"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:34:00",
-          "train_no" : "1370"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:46:00",
-          "train_no" : "1374F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:50:00",
-          "train_no" : "1046"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:59:00",
-          "train_no" : "1376"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:03:00",
-          "train_no" : "1378"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:10:00",
-          "train_no" : "1380"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:15:00",
-          "train_no" : "1048"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:21:00",
-          "train_no" : "1382"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:26:00",
-          "train_no" : "1384"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:30:00",
-          "train_no" : "1050"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:34:00",
-          "train_no" : "1386"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:39:00",
-          "train_no" : "1388"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:44:00",
-          "train_no" : "1390"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "19:53:00",
-          "train_no" : "1392"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:08:00",
-          "train_no" : "1054"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:13:00",
-          "train_no" : "1396"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:20:00",
-          "train_no" : "1398"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:36:00",
-          "train_no" : "1404"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "MANGGARAI-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:41:00",
-          "train_no" : "1056"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:45:00",
-          "train_no" : "1406"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "20:49:00",
-          "train_no" : "1408"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:02:00",
-          "train_no" : "1410A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:07:00",
-          "train_no" : "1412A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:13:00",
-          "train_no" : "1414A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:20:00",
-          "train_no" : "1416A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:31:00",
-          "train_no" : "1418"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:37:00",
-          "train_no" : "1420"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:46:00",
-          "train_no" : "1422"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "21:58:00",
-          "train_no" : "1426F"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:04:00",
-          "train_no" : "1428"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:09:00",
-          "train_no" : "1430"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:15:00",
-          "train_no" : "1432"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:22:00",
-          "train_no" : "1434"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:32:00",
-          "train_no" : "1436"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:42:00",
-          "train_no" : "1438"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "22:55:00",
-          "train_no" : "1442"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "23:13:00",
-          "train_no" : "1446"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "23:21:00",
-          "train_no" : "1448"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "23:32:00",
-          "train_no" : "1452"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "BOO",
-          "dest_station_name" : "BOGOR",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "JAKARTAKOTA-BOGOR",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "23:59:00",
-          "train_no" : "1458"
-        }
-      ]
-    },
-    {
       "dest_station" : "DP",
       "dest_station_name" : "DEPOK",
       "trains" : [
@@ -2695,6 +3051,16 @@
           "station_name" : "BOJONGGEDE",
           "time_at_station" : "20:15:00",
           "train_no" : "1441"
+        },
+        {
+          "color" : "#E30A16",
+          "dest_station" : "DP",
+          "dest_station_name" : "DEPOK",
+          "line_name" : "Commuter Line Bogor",
+          "route" : "BOGOR-DEPOK",
+          "station_name" : "BOJONGGEDE",
+          "time_at_station" : "20:25:00",
+          "train_no" : "1109"
         },
         {
           "color" : "#E30A16",
@@ -2817,233 +3183,7 @@
           "train_no" : "1137"
         }
       ]
-    },
-    {
-      "dest_station" : "MRI",
-      "dest_station_name" : "MANGGARAI",
-      "trains" : [
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:28:00",
-          "train_no" : "1001"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "04:57:00",
-          "train_no" : "1003"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "05:28:00",
-          "train_no" : "1005"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:19:00",
-          "train_no" : "1009"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "06:37:00",
-          "train_no" : "1011"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:02:00",
-          "train_no" : "1015"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:22:00",
-          "train_no" : "1017"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "08:43:00",
-          "train_no" : "1019"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "09:27:00",
-          "train_no" : "1021"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:04:00",
-          "train_no" : "1023"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "11:33:00",
-          "train_no" : "1025"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "12:37:00",
-          "train_no" : "1027A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "13:21:00",
-          "train_no" : "1029"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:28:00",
-          "train_no" : "1031"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "14:51:00",
-          "train_no" : "1033"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "15:57:00",
-          "train_no" : "1039"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "16:45:00",
-          "train_no" : "1043"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:04:00",
-          "train_no" : "1045A"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:29:00",
-          "train_no" : "1047"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "17:43:00",
-          "train_no" : "1049"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:24:00",
-          "train_no" : "1053"
-        },
-        {
-          "color" : "#E30A16",
-          "dest_station" : "MRI",
-          "dest_station_name" : "MANGGARAI",
-          "line_name" : "Commuter Line Bogor",
-          "route" : "BOGOR-MANGGARAI",
-          "station_name" : "BOJONGGEDE",
-          "time_at_station" : "18:51:00",
-          "train_no" : "1055"
-        }
-      ]
     }
   ],
-  "timestamp" : 1788795542
+  "timestamp" : 1794990182
 }

@@ -1,0 +1,38 @@
+{
+  "code" : 0,
+  "data" : [
+    {
+      "distance" : 2035,
+      "eta" : 1444,
+      "fare" : 3000,
+      "journey" : [
+        {
+          "distance" : 2035,
+          "eta" : 1444,
+          "finish_info" : "Stasiun Tujuan",
+          "line_code" : "TP",
+          "line_color" : "#DD0067",
+          "line_name" : "COMMUTER LINE TANJUNGPRIUK",
+          "route_id" : "71",
+          "start_info" : "Masuk ke Stasiun Jakarta International Stadium",
+          "station_destination" : [
+            "TPK"
+          ],
+          "station_order" : [
+            {
+              "station_code" : "JIS",
+              "station_name" : "Jakarta International Stadium"
+            },
+            {
+              "station_code" : "TPK",
+              "station_name" : "Tanjung Priok"
+            }
+          ],
+          "track_info" : "",
+          "track_info_label" : "Naik melalui peron"
+        }
+      ]
+    }
+  ],
+  "message" : "Sukses"
+}

@@ -1,38 +1,35 @@
 {
-  "data": [
+  "data" : [
     [
       {
-        "distance": 0,
-        "i_lat": -6.248029,
-        "i_long": 107.016735,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "BKST",
-        "station_name": "Bekasi Timur",
-        "time": 0,
-        "transit": false
+        "distance" : 0,
+        "i_lat" : -6.248029,
+        "i_long" : 107.016735,
+        "line" : 1,
+        "station_id" : "BKST",
+        "station_name" : "Bekasi Timur",
+        "time" : 0,
+        "transit" : false
       },
       {
-        "distance": 2368,
-        "i_lat": -6.236616,
-        "i_long": 106.997013,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "BKS",
-        "station_name": "Bekasi",
-        "time": 2,
-        "transit": false
+        "distance" : 2368,
+        "i_lat" : -6.236616,
+        "i_long" : 106.997013,
+        "line" : 1,
+        "station_id" : "BKS",
+        "station_name" : "Bekasi",
+        "time" : 5,
+        "transit" : false
       },
       {
-        "distance": 2520,
-        "i_lat": -6.224515,
-        "i_long": 106.977657,
-        "is_transit": false,
-        "line": 1,
-        "station_id": "KRI",
-        "station_name": "Kranji",
-        "time": 4,
-        "transit": false
+        "distance" : 2520,
+        "i_lat" : -6.224515,
+        "i_long" : 106.977657,
+        "line" : 1,
+        "station_id" : "KRI",
+        "station_name" : "Kranji",
+        "time" : 2,
+        "transit" : false
       }
     ]
   ]
